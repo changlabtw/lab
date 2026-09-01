@@ -2,36 +2,31 @@
 title: Publications
 ---
 
+完整著作列表請見
+**[Google Scholar](https://scholar.google.com/citations?user=5TgmGNEAAAAJ&hl=en&sortby=pubdate)**。
+以下是精選。
+
 ## Selected publications
 
-For the full list, please refer to
-[My Google Scholar](http://scholar.google.co.uk/citations?user=5TgmGNEAAAAJ&hl=en&oi=ao).
+**2023 · Science Advances**  
+Tatyana G Kahn, Mikhail Savitsky, Chikuan Kuong, Caroline Jacquier, Giacomo Cavalli, **Jia-Ming Chang**\*, Yuri B Schwartz\*  
+[Topological screen identifies hundreds of Cp190- and CTCF-dependent *Drosophila* chromatin insulator elements](https://doi.org/10.1126/sciadv.ade0090)
 
-**2023 · Science Advances**
-Tatyana G Kahn, Mikhail Savitsky, Chikuan Kuong, Caroline Jacquier, Giacomo Cavalli,
-Jia-Ming Chang\*, Yuri B Schwartz\*.
-Topological screen identifies hundreds of Cp190- and CTCF-dependent *Drosophila*
-chromatin insulator elements
+**2019 · BMC Genomics**  
+Yang-Ming Lin, Ching-Tai Chen, **Jia-Ming Chang**  
+[MS2CNN: predicting MS/MS spectrum based on protein sequence using deep convolutional neural networks](https://doi.org/10.1186/s12864-019-6297-6)
 
-**2019 · BMC Bioinformatics**
-Yang-Ming Lin, Ching-Tai Chen, Jia-Ming Chang.
-MS2CNN: predicting MS/MS spectrum based on protein sequence using deep convolutional
-neural networks
+**2019 · Bioinformatics**  
+**Jia-Ming Chang**, Evan W Floden, Javier Herrero, Olivier Gascuel, Paolo Di Tommaso, Cedric Notredame  
+[Incorporating alignment uncertainty into Felsenstein's phylogenetic bootstrap to improve its reliability](https://doi.org/10.1093/bioinformatics/btz082)
 
-**2019 · Bioinformatics**
-Jia-Ming Chang, Evan W Floden, Javier Herrero, Olivier Gascuel, Paolo Di Tommaso,
-Cedric Notredame.
-Incorporating alignment uncertainty into Felsenstein's phylogenetic bootstrap to
-improve its reliability
+**2014 · Molecular Biology and Evolution**  
+**Jia-Ming Chang**, Paolo Di Tommaso, Cedric Notredame  
+[TCS: A New Multiple Sequence Alignment Reliability Measure to Estimate Alignment Accuracy and Improve Phylogenetic Tree Reconstruction](https://doi.org/10.1093/molbev/msu117)
 
-**2014 · Molecular Biology and Evolution**
-Jia-Ming Chang, Paolo Di Tommaso, and Cedric Notredame.
-TCS: A New Multiple Sequence Alignment Reliability Measure to Estimate Alignment
-Accuracy and Improve Phylogenetic Tree Reconstruction
-
-**2012 · BMC Bioinformatics**
-Jia-Ming Chang, Paolo Di Tommaso, Jean-François F Taly, and Cedric Notredame.
-Accurate Multiple Sequence Alignment of Transmembrane Proteins with PSI-Coffee
+**2012 · BMC Bioinformatics**  
+**Jia-Ming Chang**, Paolo Di Tommaso, Jean-François F Taly, Cedric Notredame  
+[Accurate Multiple Sequence Alignment of Transmembrane Proteins with PSI-Coffee](https://doi.org/10.1186/1471-2105-13-s4-s1)
 
 ## 科普文章
 
