@@ -12,13 +12,13 @@ title: Publications
 Tatyana G Kahn, Mikhail Savitsky, Chikuan Kuong, Caroline Jacquier, Giacomo Cavalli, **Jia-Ming Chang**\*, Yuri B Schwartz\*  
 [Topological screen identifies hundreds of Cp190- and CTCF-dependent *Drosophila* chromatin insulator elements](https://doi.org/10.1126/sciadv.ade0090)
 
+**2021 · Bioinformatics**  
+**Jia-Ming Chang**, Evan W Floden, Javier Herrero, Olivier Gascuel, Paolo Di Tommaso, Cedric Notredame  
+[Incorporating alignment uncertainty into Felsenstein's phylogenetic bootstrap to improve its reliability](https://doi.org/10.1093/bioinformatics/btz082)
+
 **2019 · BMC Genomics**  
 Yang-Ming Lin, Ching-Tai Chen, **Jia-Ming Chang**  
 [MS2CNN: predicting MS/MS spectrum based on protein sequence using deep convolutional neural networks](https://doi.org/10.1186/s12864-019-6297-6)
-
-**2019 · Bioinformatics**  
-**Jia-Ming Chang**, Evan W Floden, Javier Herrero, Olivier Gascuel, Paolo Di Tommaso, Cedric Notredame  
-[Incorporating alignment uncertainty into Felsenstein's phylogenetic bootstrap to improve its reliability](https://doi.org/10.1093/bioinformatics/btz082)
 
 **2014 · Molecular Biology and Evolution**  
 **Jia-Ming Chang**, Paolo Di Tommaso, Cedric Notredame  
