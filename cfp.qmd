@@ -1,0 +1,10 @@
+---
+title: CFP
+---
+
+- InCoB, 09/10~12 @ Jakarta Indonesia, 雅加達, 印尼
+  02/01 -> 03/31 <http://incob2019.org/index.php/call-for-papers>
+- ISMB/ECCB, 07/21~25 @ Basel, Switzerland
+  ->01/28 <https://www.iscb.org/ismbeccb2019-submit/proceedings>
+- ISBRA, 06/03~06 @ Barcelona, Spain
+  -> 02/11, <http://alan.cs.gsu.edu/isbra19/sites/default/files/CFP_ISBRA19.pdf>

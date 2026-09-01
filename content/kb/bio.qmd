@@ -1,0 +1,35 @@
+---
+title: Bio
+---
+
+> 所有計畫書、演講邀請回覆、網站、審稿邀請函的自我描述**單一來源**。
+> 需要用到 bio 時一律引用這裡,不要臨時重寫。
+
+## 一句話版（中）
+
+張家銘，政治大學資訊科學系副教授，以計算方法研究生物問題——三維基因體結構、序列比對與演化重建、蛋白質功能預測。
+
+## 短版 100 字（中）
+
+張家銘，政治大學資訊科學系副教授。清大資工系學、碩士，2013 年於西班牙巴塞隆納基因調控研究中心取得博士，續赴法國人類基因體研究中心從事博士後研究，2016 年起任教政大。研究以計算方法處理生物資料，主題涵蓋三維基因體結構、序列比對與演化重建、蛋白質功能預測。
+
+## 長版（中）
+
+於清華大學資工系修讀學士與碩士學位，2002年清大畢業後，在中研院資訊所服國防役，2008
+到西班牙巴塞隆納基因調控研究中心 (Centre for Genomic Regulation) 修讀博士學位，2013年到
+法國蒙彼利埃人類基因體研究中心 (Institute of Human Genetics) 從事博士後研究，2016年開始到
+政大資科系服務至今，曾獲4年La Caixa博士獎學金、政大理學院年輕學者研究、政大學術研究優良、
+科技部優秀年輕學者研究計畫。
+
+## 長版（英,用於國際演講邀請）
+
+I earned my Bachelor's and Master's degrees in the Dep. of Computer Science at National
+Tsing Hua University. After graduating from NTHU in 2002, I completed my military service
+at the Institute of Information Science, Academia Sinica. In 2008, I pursued my Ph.D. at
+the Centre for Genomic Regulation in Barcelona, Spain, and in 2013, I conducted
+postdoctoral research at the Institute of Human Genetics in Montpellier, France. Since
+2016, I have been serving in the Dep. of Computer Science at National Chengchi University.
+I have received a few awards and recognitions, including a 4-year La Caixa Ph.D.
+scholarship, the NCCU College of Science - Young Scholarship Award, the NCCU Academic
+Research Awards, and an Excellent Young Scholar Research Grants from the Ministry of
+Science and Technology.

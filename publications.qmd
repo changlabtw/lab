@@ -1,0 +1,38 @@
+---
+title: Publications
+---
+
+## Selected publications
+
+For the full list, please refer to
+[My Google Scholar](http://scholar.google.co.uk/citations?user=5TgmGNEAAAAJ&hl=en&oi=ao).
+
+**2023 · Science Advances**
+Tatyana G Kahn, Mikhail Savitsky, Chikuan Kuong, Caroline Jacquier, Giacomo Cavalli,
+Jia-Ming Chang\*, Yuri B Schwartz\*.
+Topological screen identifies hundreds of Cp190- and CTCF-dependent *Drosophila*
+chromatin insulator elements
+
+**2019 · BMC Bioinformatics**
+Yang-Ming Lin, Ching-Tai Chen, Jia-Ming Chang.
+MS2CNN: predicting MS/MS spectrum based on protein sequence using deep convolutional
+neural networks
+
+**2019 · Bioinformatics**
+Jia-Ming Chang, Evan W Floden, Javier Herrero, Olivier Gascuel, Paolo Di Tommaso,
+Cedric Notredame.
+Incorporating alignment uncertainty into Felsenstein's phylogenetic bootstrap to
+improve its reliability
+
+**2014 · Molecular Biology and Evolution**
+Jia-Ming Chang, Paolo Di Tommaso, and Cedric Notredame.
+TCS: A New Multiple Sequence Alignment Reliability Measure to Estimate Alignment
+Accuracy and Improve Phylogenetic Tree Reconstruction
+
+**2012 · BMC Bioinformatics**
+Jia-Ming Chang, Paolo Di Tommaso, Jean-François F Taly, and Cedric Notredame.
+Accurate Multiple Sequence Alignment of Transmembrane Proteins with PSI-Coffee
+
+## 科普文章
+
+[長達兩公尺的遺傳資訊如何塞進六微米的細胞核？讓我們從染色體上的「拓樸結構域」談起](https://pansci.asia/archives/153928)

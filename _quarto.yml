@@ -1,0 +1,35 @@
+# 這個檔案由 changlab-research-os 的 core/publish.py 產生,不要手改。
+# 導覽列改 domains/site/pages/*.md 的 nav:,外觀改 site/domain.yml 的 site:。
+project:
+  type: website
+  output-dir: _site
+website:
+  title: BIOINFORMATICS@CS.NCCU
+  navbar:
+    left:
+    - href: index.qmd
+      text: Home
+    - href: research.qmd
+      text: RESEARCH 研究
+    - href: publications.qmd
+      text: Publications 著作
+    - href: packages.qmd
+      text: PACKAGES 工具
+    - href: presentations.qmd
+      text: PRESENTATIONS 演講
+    - href: projects.qmd
+      text: Projects 計畫
+    - href: cfp.qmd
+      text: CFP
+    - href: team.qmd
+      text: LAB 實驗室
+    - href: pi.qmd
+      text: PI Jia-Ming Chang
+    - href: goodies.qmd
+      text: GOODIES 配方
+  site-url: https://changlabtw.github.io/lab/
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true

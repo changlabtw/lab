@@ -1,0 +1,4 @@
+/* 由 core/publish.py 產生的起始樣式,之後可在站台 repo 自行調整。 */
+.navbar-brand { font-weight: 600; letter-spacing: .02em; }
+main { max-width: 54rem; }
+h2 { margin-top: 2.2rem; }

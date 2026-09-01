@@ -1,0 +1,34 @@
+---
+title: Goodies
+---
+
+## Biology
+
+**入門書籍**
+
+Molecular Biology made simple and fun — by David P. Clark, Lonnie D. Russell
+
+## Informatics
+
+**Linux 使用**
+
+[基本指令介紹 - 鳥哥的Linux 私房菜](http://linux.vbird.org/linux_basic/redhat6.1/linux_06command.php)
+
+**R Language — 書籍**
+
+Zumel, N. & Mount, J. Practical Data Science with R. (Manning, 2014). ISBN-10: 1617291560
+
+**R Language — 參考課程**
+
+- [R 語言翻轉教室](http://datascienceandr.org/) by [Wush Wu、Chih Cheng Liang和Johnson Hsieh](https://github.com/wush978/DataScienceAndR)
+- [104.2 Data Science in Pracitice](http://www.cs.nccu.edu.tw/~jmchang/course/1042/datascience/)
+
+## Bioinformatics
+
+**入門書籍**
+
+Bioinformatics For Dummies 2nd Edition — by Jean-Michel Claverie, Cedric Notredame
+
+## Others
+
+[READING SCIENTIFIC PAPERS](https://web.stanford.edu/~siegelr/readingsci.htm) by Robert David Siegel

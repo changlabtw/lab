@@ -1,0 +1,8 @@
+/.quarto/
+**/*.quarto_ipynb
+
+# 建置產物由 GitHub Actions 在 CI 裡 render,不進版控 ——
+# 進了 git 的話,每次內容微調都會帶著一大堆 HTML diff
+/_site/
+
+.DS_Store
