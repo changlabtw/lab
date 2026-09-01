@@ -1,5 +1,33 @@
 ---
 title: Jia-Ming Chang 張家銘
+description: Jia-Ming Chang, Associate Professor of Computer Science at National Chengchi University —
+  bioinformatics, 3D genome and computational biology.
+include-in-header:
+  text: "<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\"\
+    : \"Person\",\n  \"name\": \"Jia-Ming Chang\",\n  \"jobTitle\": \"Associate Professor\",\n  \"url\"\
+    : \"https://changlabtw.github.io/lab/\",\n  \"alternateName\": \"張家銘\",\n  \"affiliation\": {\n  \
+    \  \"@type\": \"Organization\",\n    \"name\": \"National Chengchi University\"\n  },\n  \"identifier\"\
+    : {\n    \"@type\": \"PropertyValue\",\n    \"propertyID\": \"ORCID\",\n    \"value\": \"0000-0002-6711-1739\"\
+    \n  },\n  \"sameAs\": [\n    \"https://orcid.org/0000-0002-6711-1739\",\n    \"https://scholar.google.com/citations?user=5TgmGNEAAAAJ\"\
+    ,\n    \"https://www.researchgate.net/profile/Jia-Ming_Chang4\",\n    \"https://github.com/changlabtw\"\
+    \n  ],\n  \"knowsAbout\": [\n    \"bioinformatics\",\n    \"3D genome organization\",\n    \"Hi-C\"\
+    ,\n    \"topologically associating domain\",\n    \"multiple sequence alignment\",\n    \"phylogenetics\"\
+    ,\n    \"protein function prediction\",\n    \"single-cell data analysis\"\n  ],\n  \"subjectOf\"\
+    : [\n    {\n      \"@type\": \"ScholarlyArticle\",\n      \"name\": \"Topological screen identifies\
+    \ hundreds of Cp190- and CTCF-dependent *Drosophila* chromatin insulator elements\",\n      \"datePublished\"\
+    : \"2023\",\n      \"sameAs\": \"https://doi.org/10.1126/sciadv.ade0090\"\n    },\n    {\n      \"\
+    @type\": \"ScholarlyArticle\",\n      \"name\": \"Incorporating alignment uncertainty into Felsenstein's\
+    \ phylogenetic bootstrap to improve its reliability\",\n      \"datePublished\": \"2021\",\n     \
+    \ \"sameAs\": \"https://doi.org/10.1093/bioinformatics/btz082\"\n    },\n    {\n      \"@type\": \"\
+    ScholarlyArticle\",\n      \"name\": \"MS2CNN: predicting MS/MS spectrum based on protein sequence\
+    \ using deep convolutional neural networks\",\n      \"datePublished\": \"2019\",\n      \"sameAs\"\
+    : \"https://doi.org/10.1186/s12864-019-6297-6\"\n    },\n    {\n      \"@type\": \"ScholarlyArticle\"\
+    ,\n      \"name\": \"TCS: A New Multiple Sequence Alignment Reliability Measure to Estimate Alignment\
+    \ Accuracy and Improve Phylogenetic Tree Reconstruction\",\n      \"datePublished\": \"2014\",\n \
+    \     \"sameAs\": \"https://doi.org/10.1093/molbev/msu117\"\n    },\n    {\n      \"@type\": \"ScholarlyArticle\"\
+    ,\n      \"name\": \"Accurate Multiple Sequence Alignment of Transmembrane Proteins with PSI-Coffee\"\
+    ,\n      \"datePublished\": \"2012\",\n      \"sameAs\": \"https://doi.org/10.1186/1471-2105-13-s4-s1\"\
+    \n    }\n  ]\n}\n</script>\n"
 ---
 
 Associate professor since 2022/02
@@ -57,15 +85,28 @@ Science and Technology.
 
 ## Services
 
-- deputy editor (11/2024~) & associate editor (01/2024~), [NAR Genomics and Bioinformatics](https://academic.oup.com/nargab)
-- program committee:
-  [InCoB2023](https://incob.apbionet.org/incob23/committee/) ·
-  [InSyB2023](https://insyb.apbionet.org/insyb23/committee/) ·
-  [InCoB2025](https://incob.apbionet.org/incob2025/committee/) ·
-  [InCoB/ISCB-APAC 2026](https://incob.apbionet.org/incob2026/committee/)
-- 第三、四屆 演算法與計算理論學會理事
-- 第四屆 台灣演化與計算生物學會理事
-- 第四、五屆 清華大學資訊工程學系系友會理事
+### Editorial
+
+- **Deputy Editor**, [NAR Genomics and Bioinformatics](https://academic.oup.com/nargab/pages/Editorial_Board) (2024-11~)
+- **Associate Editor**, [NAR Genomics and Bioinformatics](https://academic.oup.com/nargab) (2024-01–2024-10) — 2024-11 起改任 Deputy Editor
+
+### Academic administration
+
+- **Chief Executive Officer**, [Executive Master Program of Computer Science, 國立政治大學](https://ah.lib.nccu.edu.tw/scholar?id=7305&title=person) (2023-08-01–2024-07-31)
+- **Director of Program**, [人工智慧應用學士學位學程, 國立政治大學](https://ah.lib.nccu.edu.tw/scholar?id=7305&title=person) (2022-08-01–2027-07-31)
+
+### Program committee
+
+- **Program Committee**, [InCoB/ISCB-APAC 2026](https://incob.apbionet.org/incob2026/committee/) (2026)
+- **Program Committee**, [InCoB 2025](https://incob.apbionet.org/incob2025/committee/) (2025)
+- **Program Committee**, [InCoB 2023](https://incob.apbionet.org/incob23/committee/) (2023)
+- **Program Committee**, [InSyB 2023](https://insyb.apbionet.org/insyb23/committee/) (2023)
+
+### Professional societies
+
+- **理事（第三、四屆）**, 演算法與計算理論學會
+- **理事（第四屆）**, 台灣演化與計算生物學會
+- **理事（第四、五屆）**, 清華大學資訊工程學系系友會
 
 ## Extracurricular Activities
 

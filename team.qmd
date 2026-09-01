@@ -1,5 +1,7 @@
 ---
 title: Lab
+description: Members and alumni of the Bioinformatic Data Science Lab at National Chengchi University,
+  led by Jia-Ming Chang.
 ---
 
 <!-- 只放已公開的姓名／年份／去向。進度、成績等內部紀錄在 domains/lab-ops/people/,

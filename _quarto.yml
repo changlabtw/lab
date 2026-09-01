@@ -9,23 +9,28 @@ website:
     left:
     - href: index.qmd
       text: HOME
-    - href: research.qmd
-      text: RESEARCH
-    - href: publications.qmd
-      text: PUBLICATIONS
-    - href: packages.qmd
-      text: PACKAGES
-    - href: presentations.qmd
-      text: PRESENTATIONS
-    - href: projects.qmd
-      text: PROJECTS
-    - href: team.qmd
-      text: LAB
-    - href: pi.qmd
-      text: PI JIA-MING CHANG
-    - href: goodies.qmd
-      text: GOODIES
+    - text: RESEARCH
+      menu:
+      - href: research.qmd
+        text: RESEARCH
+      - href: publications.qmd
+        text: PUBLICATIONS
+      - href: packages.qmd
+        text: PACKAGES
+      - href: presentations.qmd
+        text: PRESENTATIONS
+      - href: projects.qmd
+        text: PROJECTS
+    - text: LAB
+      menu:
+      - href: team.qmd
+        text: LAB
+      - href: pi.qmd
+        text: PI JIA-MING CHANG
+      - href: goodies.qmd
+        text: GOODIES
   site-url: https://changlabtw.github.io/lab/
+  open-graph: true
 format:
   html:
     theme: cosmo

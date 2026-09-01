@@ -1,5 +1,7 @@
 ---
 title: Goodies
+description: Reading list and learning resources in biology, bioinformatics, Linux and R, curated by Jia-Ming
+  Chang's lab.
 ---
 
 ## Biology
