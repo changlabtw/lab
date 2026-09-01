@@ -8,25 +8,23 @@ website:
   navbar:
     left:
     - href: index.qmd
-      text: Home
+      text: HOME
     - href: research.qmd
-      text: RESEARCH 研究
+      text: RESEARCH
     - href: publications.qmd
-      text: Publications 著作
+      text: PUBLICATIONS
     - href: packages.qmd
-      text: PACKAGES 工具
+      text: PACKAGES
     - href: presentations.qmd
-      text: PRESENTATIONS 演講
+      text: PRESENTATIONS
     - href: projects.qmd
-      text: Projects 計畫
-    - href: cfp.qmd
-      text: CFP
+      text: PROJECTS
     - href: team.qmd
-      text: LAB 實驗室
+      text: LAB
     - href: pi.qmd
-      text: PI Jia-Ming Chang
+      text: PI JIA-MING CHANG
     - href: goodies.qmd
-      text: GOODIES 配方
+      text: GOODIES
   site-url: https://changlabtw.github.io/lab/
 format:
   html:

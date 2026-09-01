@@ -58,7 +58,11 @@ Science and Technology.
 ## Services
 
 - deputy editor (11/2024~) & associate editor (01/2024~), [NAR Genomics and Bioinformatics](https://academic.oup.com/nargab)
-- program committee: [InCoB2023](https://incob.apbionet.org/incob23/committee/)
+- program committee:
+  [InCoB2023](https://incob.apbionet.org/incob23/committee/) ·
+  [InSyB2023](https://insyb.apbionet.org/insyb23/committee/) ·
+  [InCoB2025](https://incob.apbionet.org/incob2025/committee/) ·
+  [InCoB/ISCB-APAC 2026](https://incob.apbionet.org/incob2026/committee/)
 - 第三、四屆 演算法與計算理論學會理事
 - 第四屆 台灣演化與計算生物學會理事
 - 第四、五屆 清華大學資訊工程學系系友會理事
