@@ -81,7 +81,7 @@ unique aligner among the concatenated aligners.
 - [TCS](http://tcoffee.crg.cat/tcs)
   - 2015 Nucleic acids research [TCS: a web server for multiple sequence alignment evaluation and phylogenetic reconstruction](https://doi.org/10.1093/nar/gkv310)
   - 2014 Molecular biology and evolution [TCS: a new multiple sequence alignment reliability measure to estimate alignment accuracy and improve phylogenetic tree reconstruction](https://doi.org/10.1093/molbev/msu117)
-- [wpSBOOST](https://wpsboot.page.link/main)
+- [wpSBOOST](https://changlabtw.github.io/wpSBOOT/)
   - 2019 Bioinformatics [Incorporating alignment uncertainty into Felsenstein's phylogenetic bootstrap to improve its reliability](https://doi.org/10.1093/bioinformatics/btz082)
 
 \* with great help and supervision by
