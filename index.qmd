@@ -10,11 +10,42 @@ include-in-header:
     \n  }\n}\n</script>\n"
 ---
 
-## 生物資料科學實驗室 ＠ 政治大學資訊科學系
+::: {.hero}
+::: {.hero-inner}
+[Bioinformatic Data Science Lab]{.tagline}
+
+# 生物資料科學實驗室 ＠ 政治大學資訊科學系
 
 We aim to address biology questions through computational approach, i.e., design
 algorithm for sequence alignment/phylogenetic reconstruction, explore machine
 learning in protein function prediction, apply data science on cancer genomics.
+:::
+:::
+
+## 研究方向
+
+::: {.card-grid}
+::: {}
+**3D Genome Organization**
+
+Hi-C、Micro-C、TAD 與 chromatin loop 的計算分析
+:::
+::: {}
+**Single-Cell Data Analysis**
+
+scGHSOM:階層式分群與可視化
+:::
+::: {}
+**Protein Function Prediction**
+
+PSSM、降維方法與深度學習
+:::
+::: {}
+**Sequence Alignment & Phylogenetics**
+
+TCS、T-Coffee 與比對不確定性
+:::
+:::
 
 ## Getting in Touch
 

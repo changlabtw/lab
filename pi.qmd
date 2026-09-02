@@ -30,6 +30,8 @@ include-in-header:
     \n    }\n  ]\n}\n</script>\n"
 ---
 
+![Jia-Ming Chang](media/pi.jpg){.portrait}
+
 Associate professor since 2022/02
 Department of Computer Science, National Chengchi University
 Taipei, Taiwan

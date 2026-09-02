@@ -9,26 +9,26 @@ website:
     left:
     - href: index.qmd
       text: HOME
-    - text: RESEARCH
+    - href: pi.qmd
+      text: PI JIA-MING CHANG
+    - href: research.qmd
+      text: RESEARCH
+    - href: publications.qmd
+      text: PUBLICATIONS
+    - href: packages.qmd
+      text: PACKAGES
+    - href: team.qmd
+      text: LAB
+    - text: MORE
       menu:
-      - href: research.qmd
-        text: RESEARCH
-      - href: publications.qmd
-        text: PUBLICATIONS
-      - href: packages.qmd
-        text: PACKAGES
       - href: presentations.qmd
         text: PRESENTATIONS
       - href: projects.qmd
         text: PROJECTS
-    - text: LAB
-      menu:
-      - href: team.qmd
-        text: LAB
-      - href: pi.qmd
-        text: PI JIA-MING CHANG
       - href: goodies.qmd
         text: GOODIES
+    logo: media/logo.png
+    logo-alt: BIOINFORMATICS@CS.NCCU
   site-url: https://changlabtw.github.io/lab/
   open-graph: true
 format:

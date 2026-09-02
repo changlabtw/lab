@@ -1,4 +1,82 @@
-/* 由 core/publish.py 產生的起始樣式,之後可在站台 repo 自行調整。 */
-.navbar-brand { font-weight: 600; letter-spacing: .02em; }
+/*
+ * 站台樣式。由 core/publish.py 原封不動複製到站台 repo 的 styles.css。
+ *
+ * 這裡是 tuning surface —— 想調外觀就改這個檔,不必動 Python。
+ * 站台 repo 裡那份是產出,手改會在下次匯出時被蓋掉。
+ *
+ * 配色取自實驗室自己的圖表(Hi-C PCA / network segmentation),不是隨便挑的:
+ *   teal   #0d9488  PCA 那一支
+ *   olive  #84a800  network clustering 那一支
+ *   navy   #0f2233  圖表的深色文字
+ */
+
+:root {
+  --ink: #0f2233;          /* 深靛藍:頁首與標題 */
+  --teal: #0d9488;
+  --olive: #84a800;
+  --rule: #e3e8ec;
+  --muted: #5b6b7a;
+}
+/* ---------------------------------------------------------------- 頁首 */
+/* logo 是淺灰(#f0f0f0),與白底對比只有 1.14:1 —— 必須配深色頁首才看得見 */
+.navbar {
+  background: var(--ink) !important;
+  border-bottom: 3px solid var(--teal);
+}
+.navbar .navbar-brand img { max-height: 34px; width: auto; }
+.navbar .nav-link,
+.navbar .dropdown-item,
+.navbar .navbar-toggler-icon { color: #dfe6ec !important; }
+.navbar .nav-link:hover,
+.navbar .nav-link.active { color: #fff !important; }
+.navbar .nav-link.active { box-shadow: inset 0 -3px 0 var(--olive); }
+.navbar .dropdown-menu {
+  background: var(--ink);
+  border: 1px solid rgba(255, 255, 255, .12);
+}
+.navbar .dropdown-item:hover { background: rgba(255, 255, 255, .08); }
+
+/* ------------------------------------------------------------ 首頁 hero */
+/* 底紋是 Hi-C 接觸矩陣的幾何抽象:對角線附近密、離對角線遠則稀 ——
+   那正是 contact map 的形狀。用 SVG 而不是照片,任何螢幕都不會糊。 */
+.hero {
+  background: var(--ink) url("media/hic-motif.svg") right center / auto 100% no-repeat;
+  color: #fff;
+  margin: -1.5rem -1rem 2.5rem;
+  padding: 3.5rem 1rem 3rem;
+}
+.hero-inner { max-width: 54rem; margin: 0 auto; padding: 0 .5rem; }
+.hero h1 { color: #fff; font-size: clamp(1.6rem, 4vw, 2.4rem); margin: 0 0 .6rem; font-weight: 600; }
+.hero p { color: #c9d6e2; max-width: 40rem; margin: 0; line-height: 1.75; }
+.hero .tagline { color: var(--olive); font-weight: 600; letter-spacing: .08em;
+                 text-transform: uppercase; font-size: .78rem; margin-bottom: .8rem; }
+
+/* ---------------------------------------------------------------- 內文 */
 main { max-width: 54rem; }
-h2 { margin-top: 2.2rem; }
+main h2 {
+  color: var(--ink);
+  border-bottom: 1px solid var(--rule);
+  padding-bottom: .35rem;
+  margin-top: 2.6rem;
+}
+main h3 { color: var(--teal); margin-top: 1.8rem; font-size: 1.05rem; }
+main a { color: #0b6e66; }
+main a:hover { color: var(--olive); }
+
+/* 研究方向做成卡片,長清單讀起來才有層次 */
+.card-grid { display: grid; gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr)); }
+.card-grid > div {
+  border: 1px solid var(--rule);
+  border-left: 3px solid var(--teal);
+  border-radius: 3px;
+  padding: 1rem 1.1rem;
+  background: #fbfcfd;
+}
+
+/* PI 頁的大頭貼 */
+.portrait { float: right; width: 190px; margin: 0 0 1.2rem 1.6rem; border-radius: 3px; }
+@media (max-width: 40rem) {
+  .portrait { float: none; display: block; margin: 0 auto 1.2rem; }
+}
+
+footer, .nav-footer { border-top: 1px solid var(--rule); color: var(--muted); }
