@@ -3,7 +3,6 @@ title: News
 description: News from Jia-Ming Chang's Bioinformatic Data Science Lab at National Chengchi University
   — papers, grants, talks and lab updates.
 ---
-[The Bioinformatic Data Science Lab, NCCU — led by Jia-Ming Chang (張家銘), Associate Professor of Computer Science at National Chengchi University, Taipei, Taiwan.]{.identity-line}
 
 ::: {.news-list}
 ::: {.news-item}

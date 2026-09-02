@@ -34,7 +34,6 @@ include-in-header:
     ,\n      \"datePublished\": \"2012\",\n      \"sameAs\": \"https://doi.org/10.1186/1471-2105-13-s4-s1\"\
     \n    }\n  ]\n}\n</script>\n"
 ---
-[The Bioinformatic Data Science Lab, NCCU — led by Jia-Ming Chang (張家銘), Associate Professor of Computer Science at National Chengchi University, Taipei, Taiwan.]{.identity-line}
 
 <img src="media/pi.jpg" alt="Jia-Ming Chang" class="portrait">
 

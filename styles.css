@@ -84,19 +84,6 @@ main a:hover { color: var(--olive); }
   background: #fbfcfd;
 }
 
-/* ------------------------------------------------------ 身分陳述 */
-/* 每頁開頭的一句話。給檢索用的錨,對人類讀者則是低調的說明 ——
-   所以放小、放淡,不跟標題搶注意力。 */
-.identity-line {
-  display: block;
-  margin: 0 0 1.4rem;
-  padding-bottom: .7rem;
-  border-bottom: 1px solid var(--rule);
-  font-size: .88rem;
-  color: var(--muted);
-  line-height: 1.7;
-}
-
 /* --------------------------------------------------- PI 頁的速覽 */
 /* 緊湊、低調 —— 這是給趕時間的訪客(審查委員、邀約者)三秒內看完的區塊,
    不該搶走簡介的注意力。 */
@@ -250,6 +237,9 @@ footer, .nav-footer { border-top: 1px solid var(--rule); color: var(--muted); }
 /* data 用另一個顏色:code 與 data 是兩種不同的承諾,同色就看不出少了哪一種 */
 .pub-link-data { border-color: var(--olive); color: #5f7a00 !important; }
 .pub-link-data:hover { background: var(--olive); }
+/* web server 與文件不是研究產出本身,用灰色退到後面 */
+.pub-link-web, .pub-link-docs { border-color: var(--muted); color: var(--muted) !important; }
+.pub-link-web:hover, .pub-link-docs:hover { background: var(--muted); color: #fff !important; }
 
 /* ------------------------------------- research 頁的 Data & Code 小節 */
 .res-kind {
@@ -264,5 +254,5 @@ footer, .nav-footer { border-top: 1px solid var(--rule); color: var(--muted); }
   white-space: nowrap;
 }
 .res-kind-data { background: var(--olive); }
-.res-kind-web { background: #5b6b7a; }
+.res-kind-web, .res-kind-docs { background: #5b6b7a; }
 .res-meta { font-size: .82rem; color: var(--muted); }

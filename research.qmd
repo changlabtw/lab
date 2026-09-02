@@ -3,7 +3,6 @@ title: Research
 description: 'Research of Jia-Ming Chang''s lab: 3D genome organization, single-cell data analysis, protein
   function prediction, sequence alignment and phylogenetics.'
 ---
-[The Bioinformatic Data Science Lab, NCCU — led by Jia-Ming Chang (張家銘), Associate Professor of Computer Science at National Chengchi University, Taipei, Taiwan.]{.identity-line}
 
 ## Genome Organization {#3d-genome}
 
@@ -16,10 +15,7 @@ rather than loop formation
 Repressed TADs are 3D structural units of chromosome organization in *Drosophila*
 [2018, [PMID: 295038](https://www.ncbi.nlm.nih.gov/pubmed/?term=29503869)]. — Giacomo Cavalli
 
-### Data & Code
 
-- [**HiCmapTools**](https://github.com/changlabtw/hicmaptools) [Code]{.res-kind .res-kind-code}  
-  Command-line access to Hi-C contact maps, with multi-query modes and analysis tools.
 
 ### Publications
 
@@ -28,7 +24,8 @@ Repressed TADs are 3D structural units of chromosome organization in *Drosophila
 - [Pattern recognition of topologically associating domains using deep learning](https://doi.org/10.1186/s12859-022-05075-1)  
   *2022 · BMC Bioinformatics*
 - [HiCmapTools: a tool to access HiC contact maps](https://doi.org/10.1186/s12859-022-04589-y)  
-  *2022 · BMC Bioinformatics*
+  *2022 · BMC Bioinformatics*  
+  [Code](https://github.com/changlabtw/hicmaptools){.pub-link .pub-link-code} [Docs](https://hicmaptools.readthedocs.io/){.pub-link .pub-link-docs}
 - [TADs are 3D structural units of higher-order chromosome organization in Drosophila](https://doi.org/10.1126/sciadv.aar8082)  
   *2018 · Science Advances*
 
@@ -47,26 +44,20 @@ library. — Cedric Notredame
 
 ### Data & Code
 
-- [**wpSBOOT**](https://github.com/changlabtw/wpSBOOT) [Code]{.res-kind .res-kind-code}  
-  Weighted partial super bootstrap — propagates alignment uncertainty into phylogenetic support values. Ships with a Docker image and continuous integration.  
-  [GPL-3.0 · [paper](https://doi.org/10.1093/bioinformatics/btz082)]{.res-meta}
-- [**wpSBOOT web server**](https://changlabtw.github.io/wpSBOOT/) [Web server]{.res-kind .res-kind-web}  
-  Run wpSBOOT without installing anything.
 - [**Transitive Consistency Score**](http://tcoffee.crg.cat/core) [Web server]{.res-kind .res-kind-web}  
   Score the local reliability of a multiple sequence alignment.  
-  [[paper](https://doi.org/10.1093/molbev/msu117)]{.res-meta}
-- [**PSI/TM-Coffee**](http://tcoffee.crg.cat/apps/tcoffee/do:tmcoffee) [Web server]{.res-kind .res-kind-web}  
-  Homology-extended alignment of transmembrane and globular proteins.  
-  [[paper](https://doi.org/10.1186/1471-2105-13-s4-s1)]{.res-meta}
+  [[paper](https://doi.org/10.1093/nar/gkv310)]{.res-meta}
 - [**BigBigTree**](http://tcoffee.crg.cat/apps/bigtree/) [Web server]{.res-kind .res-kind-web}  
   Tree reconstruction for large orthologous families.
 
 ### Publications
 
 - [Incorporating alignment uncertainty into Felsenstein’s phylogenetic bootstrap to improve its reliability](https://doi.org/10.1093/bioinformatics/btz082)  
-  *2021 · Bioinformatics*
+  *2021 · Bioinformatics*  
+  [Code](https://github.com/changlabtw/wpSBOOT){.pub-link .pub-link-code} [Docs](https://changlabtw.github.io/wpSBOOT/){.pub-link .pub-link-docs}
 - [PSI/TM-Coffee: a web server for fast and accurate multiple sequence alignments of regular and transmembrane proteins using homology extension on reduced databases](https://doi.org/10.1093/nar/gkw300)  
-  *2016 · Nucleic Acids Research*
+  *2016 · Nucleic Acids Research*  
+  [Web server](http://tcoffee.crg.cat/apps/tcoffee/do:tmcoffee){.pub-link .pub-link-web}
 - [Multiple sequence alignment modeling: methods and applications](https://doi.org/10.1093/bib/bbv099)  
   *2016 · Briefings in bioinformatics*
 - [Accurate multiple sequence alignment of transmembrane proteins with PSI-Coffee](http://nccur.lib.nccu.edu.tw/handle/140.119/86641)  
@@ -95,15 +86,13 @@ data to enable hierarchical clustering and visualization while identifying signi
 attributes that characterize cell subpopulations
 [2025, PMID: [40811172](https://pubmed.ncbi.nlm.nih.gov/40811172/)]. — Fang Yu
 
-### Data & Code
 
-- [**scGHSOM**](https://github.com/changlabtw/scGHSOM) [Code]{.res-kind .res-kind-code}  
-  Growing hierarchical self-organizing map for clustering and visualizing single-cell data, with attribute-level interpretation of subpopulations.
 
 ### Publications
 
 - [scGHSOM: A Hierarchical Framework for Single-Cell Data Clustering and Visualization](https://doi.org/10.1109/TCBBIO.2025.3593632)  
-  *2026 · IEEE Transactions on Computational Biology and Bioinformatics*
+  *2026 · IEEE Transactions on Computational Biology and Bioinformatics*  
+  [Code](https://github.com/changlabtw/scGHSOM){.pub-link .pub-link-code}
 - [Single-cell absolute contact probability detection reveals chromosomes are organized by multiple low-frequency yet specific interactions.](https://doi.org/10.1038/s41467-017-01962-x)  
   *2017 · Nature communications*
 
@@ -121,25 +110,20 @@ performance but also uncover latent relationships within the data
 
 ### Data & Code
 
-- [**MS2CNN**](https://github.com/changlabtw/MS2CNN) [Code]{.res-kind .res-kind-code}  
-  Deep convolutional networks that predict MS/MS spectra from peptide sequence.  
-  [GPL-3.0 · [paper](https://doi.org/10.1186/s12864-019-6297-6)]{.res-meta}
-- [**PSLCNN**](https://github.com/changlabtw/PSLCNN) [Code]{.res-kind .res-kind-code}  
-  Protein subcellular localization with convolutional neural networks.  
-  [GPL-3.0]{.res-meta}
 - [**PSLDoc**](https://github.com/jmchanglab/PSLDoc) [Code]{.res-kind .res-kind-code}  
   Subcellular localization from gapped dipeptides and probabilistic latent semantic analysis.
-- [**GODoc**](https://github.com/changlabtw/GODoc) [Code]{.res-kind .res-kind-code}  
-  High-throughput Gene Ontology term prediction from protein sequence.
 
 ### Publications
 
 - [GODoc: high-throughput protein function prediction using novel k-nearest-neighbor and voting algorithms](https://doi.org/10.1186/s12859-020-03556-9)  
-  *2020 · BMC Bioinformatics*
+  *2020 · BMC Bioinformatics*  
+  [Code](https://github.com/changlabtw/GODoc){.pub-link .pub-link-code}
 - [MS2CNN: predicting MS/MS spectrum based on protein sequence using deep convolutional neural networks](https://doi.org/10.1186/s12864-019-6297-6)  
-  *2019 · BMC Genomics*
+  *2019 · BMC Genomics*  
+  [Code](https://github.com/changlabtw/MS2CNN){.pub-link .pub-link-code}
 - [PSLCNN: Protein Subcellular Localization Prediction for Eukaryotes and Prokaryotes Using Deep Learning](https://doi.org/10.1109/taai48200.2019.8959851)  
-  *2019 · 2019 International Conference on Technologies and Applications of Artiﬁcial Intelligence (TAAI)*
+  *2019 · 2019 International Conference on Technologies and Applications of Artiﬁcial Intelligence (TAAI)*  
+  [Code](https://github.com/changlabtw/PSLCNN){.pub-link .pub-link-code}
 - [Efficient and Interpretable Prediction of Protein Functional Classes by Correspondence Analysis and Compact Set Relations](http://nccur.lib.nccu.edu.tw/handle/140.119/86642)  
   *2013 · PLoS One*
 - [Prediction of nuclear proteins using nuclear translocation signals proposed by probabilistic latent semantic indexing](http://nccur.lib.nccu.edu.tw/handle/140.119/86637)  

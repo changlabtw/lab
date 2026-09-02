@@ -3,7 +3,6 @@ title: Projects
 description: Funded research projects of Jia-Ming Chang at National Chengchi University, including NSTC
   grants on 3D genome analysis and bioinformatics.
 ---
-[The Bioinformatic Data Science Lab, NCCU — led by Jia-Ming Chang (張家銘), Associate Professor of Computer Science at National Chengchi University, Taipei, Taiwan.]{.identity-line}
 
 ## 科技部／國科會
 
