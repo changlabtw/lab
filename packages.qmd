@@ -8,13 +8,13 @@ description: 'Bioinformatics software and web servers from Jia-Ming Chang''s lab
 
 ## Web Server
 
-- [wpSBOOT](https://changlabtw.github.io/wpSBOOT/) — weighted partial Super Bootstrap
 - [Transitive Consistency Score](http://tcoffee.crg.cat/core) — Estimate the confidence of the alignment
 - [BigBigTree](http://tcoffee.crg.cat/apps/bigtree/) — Tree reconstruction for large orthologous family
 - [PSI/TM-Coffee](http://tcoffee.crg.cat/apps/tcoffee/do:tmcoffee) — Transmembrane MSA
 
 ## Software
 
+- [wpSBOOT](https://github.com/changlabtw/wpSBOOT) — weighted partial Super Bootstrap ([docs](https://changlabtw.github.io/wpSBOOT/))
 - [PSLCNN](https://github.com/changlabtw/PSLCNN) — Protein Subcellular Localization using Convolutional Neural Network
 - [HiCmapTools](https://github.com/changlabtw/hicmaptools) — a commend line tool to access HiC maps. The complete program provides multi-query modes and analysis tools.
 - [PSLDoc](https://github.com/jmchanglab/PSLDoc) — Protein Subcellular Localization Prediction based on based on gapped-dipeptides and probabilistic latent semantic analysis

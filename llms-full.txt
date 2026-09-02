@@ -181,13 +181,13 @@ https://github.com/changlabtw
 
  Web Server
 
-- wpSBOOT — weighted partial Super Bootstrap
 - Transitive Consistency Score — Estimate the confidence of the alignment
 - BigBigTree — Tree reconstruction for large orthologous family
 - PSI/TM-Coffee — Transmembrane MSA
 
  Software
 
+- wpSBOOT — weighted partial Super Bootstrap (docs)
 - PSLCNN — Protein Subcellular Localization using Convolutional Neural Network
 - HiCmapTools — a commend line tool to access HiC maps. The complete program provides multi-query modes and analysis tools.
 - PSLDoc — Protein Subcellular Localization Prediction based on based on gapped-dipeptides and probabilistic latent semantic analysis

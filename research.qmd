@@ -44,9 +44,6 @@ library. — Cedric Notredame
 
 ### Data & Code
 
-- [**Transitive Consistency Score**](http://tcoffee.crg.cat/core) [Web server]{.res-kind .res-kind-web}  
-  Score the local reliability of a multiple sequence alignment.  
-  [[paper](https://doi.org/10.1093/nar/gkv310)]{.res-meta}
 - [**BigBigTree**](http://tcoffee.crg.cat/apps/bigtree/) [Web server]{.res-kind .res-kind-web}  
   Tree reconstruction for large orthologous families.
 
@@ -60,7 +57,14 @@ library. — Cedric Notredame
   [Web server](http://tcoffee.crg.cat/apps/tcoffee/do:tmcoffee){.pub-link .pub-link-web}
 - [Multiple sequence alignment modeling: methods and applications](https://doi.org/10.1093/bib/bbv099)  
   *2016 · Briefings in bioinformatics*
-- [Accurate multiple sequence alignment of transmembrane proteins with PSI-Coffee](http://nccur.lib.nccu.edu.tw/handle/140.119/86641)  
+- [TCS: a web server for multiple sequence alignment evaluation and phylogenetic reconstruction.](https://doi.org/10.1093/nar/gkv310)  
+  *2015*  
+  [Web server](http://tcoffee.crg.cat/core){.pub-link .pub-link-web}
+- [Alignathon: A competitive assessment of whole-genome alignment methods](https://doi.org/10.1101/gr.174920.114)  
+  *2014*
+- [TCS: A new multiple sequence alignment reliability measure to estimate alignment accuracy and improve phylogenetic tree reconstruction](https://doi.org/10.1093/molbev/msu117)  
+  *2014 · Molecular Biology and Evolution*
+- [Accurate multiple sequence alignment of transmembrane proteins with PSI-Coffee](https://doi.org/10.1186/1471-2105-13-S4-S1)  
   *2012 · BMC Bioinformatics*
 - [Using the T-Coffee package to build multiple sequence alignments of protein, RNA, DNA sequences and 3D structures](http://nccur.lib.nccu.edu.tw/handle/140.119/86639)  
   *2011 · Nature Protocols*
@@ -68,16 +72,8 @@ library. — Cedric Notredame
   *2011 · Nucleic Acids Research*
 - [Improving the Alignment Quality of Consistency Based Aligners with an Evaluation Function Using Synonymous Protein Words](http://nccur.lib.nccu.edu.tw/handle/140.119/86640)  
   *2011 · PLoS One*
-- [Improving the alignment quality of consistency based aligners with an evaluation function using synonymous protein words](http://www.scopus.com/inward/record.url?eid=2-s2.0-82555170638&partnerID=MN8TOARS)  
-  *2011 · PLoS ONE*
-- [T-Coffee: A web server for the multiple sequence alignment of protein and RNA sequences using structural information and homology extension](http://www.scopus.com/inward/record.url?eid=2-s2.0-79959959356&partnerID=MN8TOARS)  
-  *2011 · Nucleic Acids Research*
-- [Using the T-Coffee package to build multiple sequence alignments of protein, RNA, DNA sequences and 3D structures](http://www.scopus.com/inward/record.url?eid=2-s2.0-80054796108&partnerID=MN8TOARS)  
-  *2011 · Nature Protocols*
 - [Constrained multiple sequence alignment tool development and its application to RNase family alignment.](http://www.scopus.com/inward/record.url?eid=2-s2.0-1842698155&partnerID=MN8TOARS)  
   *2003 · Journal of bioinformatics and computational biology*
-- [Constrained multiple sequence alignment tool development and its application to RNase family alignment.](http://www.scopus.com/inward/record.url?eid=2-s2.0-14544304406&partnerID=MN8TOARS)  
-  *2002 · Proc IEEE Comput Soc Bioinform Conf*
 
 ## Single-Cell Data Analysis {#single-cell}
 
@@ -110,6 +106,9 @@ performance but also uncover latent relationships within the data
 
 ### Data & Code
 
+- [**PSLCNN**](https://github.com/changlabtw/PSLCNN) [Code]{.res-kind .res-kind-code}  
+  Protein subcellular localization with convolutional neural networks.  
+  [GPL-3.0 · [paper](https://doi.org/10.1109/taai48200.2019.8959851)]{.res-meta}
 - [**PSLDoc**](https://github.com/jmchanglab/PSLDoc) [Code]{.res-kind .res-kind-code}  
   Subcellular localization from gapped dipeptides and probabilistic latent semantic analysis.
 
@@ -121,13 +120,10 @@ performance but also uncover latent relationships within the data
 - [MS2CNN: predicting MS/MS spectrum based on protein sequence using deep convolutional neural networks](https://doi.org/10.1186/s12864-019-6297-6)  
   *2019 · BMC Genomics*  
   [Code](https://github.com/changlabtw/MS2CNN){.pub-link .pub-link-code}
-- [PSLCNN: Protein Subcellular Localization Prediction for Eukaryotes and Prokaryotes Using Deep Learning](https://doi.org/10.1109/taai48200.2019.8959851)  
-  *2019 · 2019 International Conference on Technologies and Applications of Artiﬁcial Intelligence (TAAI)*  
-  [Code](https://github.com/changlabtw/PSLCNN){.pub-link .pub-link-code}
-- [Efficient and Interpretable Prediction of Protein Functional Classes by Correspondence Analysis and Compact Set Relations](http://nccur.lib.nccu.edu.tw/handle/140.119/86642)  
-  *2013 · PLoS One*
-- [Prediction of nuclear proteins using nuclear translocation signals proposed by probabilistic latent semantic indexing](http://nccur.lib.nccu.edu.tw/handle/140.119/86637)  
-  *2012 · 11th International Conference on Bioinformatics (InCoB 2012) Thailand*
+- [Efficient and Interpretable Prediction of Protein Functional Classes by Correspondence Analysis and Compact Set Relations](https://doi.org/10.1371/journal.pone.0075542)  
+  *2013*
+- [Prediction of nuclear proteins using nuclear translocation signals proposed by probabilistic latent semantic indexing.](http://www.scopus.com/inward/record.url?eid=2-s2.0-84877930369&partnerID=MN8TOARS)  
+  *2012*
 - [PSLDoc: Protein subcellular localization prediction based on gapped-dipeptides and probabilistic latent semantic analysis](http://www.scopus.com/inward/record.url?eid=2-s2.0-46449089781&partnerID=MN8TOARS)  
   *2008 · Proteins: Structure, Function and Genetics*
 

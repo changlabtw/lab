@@ -35,10 +35,10 @@ Verified profiles for the same person:
 
 ## Software and web servers
 
-- wpSBOOT — weighted partial Super Bootstrap (https://changlabtw.github.io/wpSBOOT/)
 - Transitive Consistency Score — Estimate the confidence of the alignment (http://tcoffee.crg.cat/core)
 - BigBigTree — Tree reconstruction for large orthologous family (http://tcoffee.crg.cat/apps/bigtree/)
 - PSI/TM-Coffee — Transmembrane MSA (http://tcoffee.crg.cat/apps/tcoffee/do:tmcoffee)
+- wpSBOOT — weighted partial Super Bootstrap ([docs](https://changlabtw.github.io/wpSBOOT/)) (https://github.com/changlabtw/wpSBOOT)
 - PSLCNN — Protein Subcellular Localization using Convolutional Neural Network (https://github.com/changlabtw/PSLCNN)
 - HiCmapTools — a commend line tool to access HiC maps. The complete program provides multi-query modes and analysis tools. (https://github.com/changlabtw/hicmaptools)
 - PSLDoc — Protein Subcellular Localization Prediction based on based on gapped-dipeptides and probabilistic latent semantic analysis (https://github.com/jmchanglab/PSLDoc)
