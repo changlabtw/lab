@@ -5,11 +5,15 @@ description: Jia-Ming Chang, Associate Professor of Computer Science at National
 include-in-header:
   text: "<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\"\
     : \"Person\",\n  \"name\": \"Jia-Ming Chang\",\n  \"jobTitle\": \"Associate Professor\",\n  \"url\"\
-    : \"https://changlabtw.github.io/lab/\",\n  \"alternateName\": \"張家銘\",\n  \"affiliation\": {\n  \
-    \  \"@type\": \"Organization\",\n    \"name\": \"National Chengchi University\"\n  },\n  \"identifier\"\
+    : \"https://changlabtw.github.io/lab/\",\n  \"worksFor\": {\n    \"@type\": \"Organization\",\n  \
+    \  \"name\": \"Bioinformatic Data Science Lab, NCCU\"\n  },\n  \"alternateName\": \"張家銘\",\n  \"affiliation\"\
+    : {\n    \"@type\": \"Organization\",\n    \"name\": \"National Chengchi University\",\n    \"identifier\"\
+    : \"https://ror.org/03rqk8h36\",\n    \"sameAs\": \"https://ror.org/03rqk8h36\"\n  },\n  \"identifier\"\
     : {\n    \"@type\": \"PropertyValue\",\n    \"propertyID\": \"ORCID\",\n    \"value\": \"0000-0002-6711-1739\"\
     \n  },\n  \"sameAs\": [\n    \"https://orcid.org/0000-0002-6711-1739\",\n    \"https://scholar.google.com/citations?user=5TgmGNEAAAAJ\"\
     ,\n    \"https://www.researchgate.net/profile/Jia-Ming_Chang4\",\n    \"https://github.com/changlabtw\"\
+    ,\n    \"https://dblp.org/pid/94/3805\",\n    \"https://www.semanticscholar.org/author/2348440\",\n\
+    \    \"https://ah.lib.nccu.edu.tw/scholar?id=7305\",\n    \"https://academic.oup.com/nargab/pages/Editorial_Board\"\
     \n  ],\n  \"knowsAbout\": [\n    \"bioinformatics\",\n    \"3D genome organization\",\n    \"Hi-C\"\
     ,\n    \"topologically associating domain\",\n    \"multiple sequence alignment\",\n    \"phylogenetics\"\
     ,\n    \"protein function prediction\",\n    \"single-cell data analysis\"\n  ],\n  \"subjectOf\"\
@@ -29,6 +33,7 @@ include-in-header:
     ,\n      \"datePublished\": \"2012\",\n      \"sameAs\": \"https://doi.org/10.1186/1471-2105-13-s4-s1\"\
     \n    }\n  ]\n}\n</script>\n"
 ---
+[The Bioinformatic Data Science Lab, NCCU — led by Jia-Ming Chang (張家銘), Associate Professor of Computer Science at National Chengchi University, Taipei, Taiwan.]{.identity-line}
 
 <img src="media/pi.jpg" alt="Jia-Ming Chang" class="portrait">
 

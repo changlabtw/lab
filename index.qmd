@@ -4,10 +4,11 @@ description: Bioinformatic Data Science Lab of Jia-Ming Chang at National Chengc
   approaches to genomics and protein function.
 include-in-header:
   text: "<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\"\
-    : \"ResearchOrganization\",\n  \"name\": \"BIOINFORMATICS@CS.NCCU\",\n  \"url\": \"https://changlabtw.github.io/lab/\"\
-    ,\n  \"parentOrganization\": {\n    \"@type\": \"Organization\",\n    \"name\": \"National Chengchi\
-    \ University\"\n  },\n  \"member\": {\n    \"@type\": \"Person\",\n    \"name\": \"Jia-Ming Chang\"\
-    \n  }\n}\n</script>\n"
+    : \"ResearchOrganization\",\n  \"name\": \"Bioinformatic Data Science Lab, NCCU\",\n  \"url\": \"\
+    https://changlabtw.github.io/lab/\",\n  \"alternateName\": \"BIOINFORMATICS@CS.NCCU\",\n  \"parentOrganization\"\
+    : {\n    \"@type\": \"Organization\",\n    \"name\": \"National Chengchi University\",\n    \"identifier\"\
+    : \"https://ror.org/03rqk8h36\"\n  },\n  \"member\": {\n    \"@type\": \"Person\",\n    \"name\":\
+    \ \"Jia-Ming Chang\"\n  }\n}\n</script>\n"
 ---
 
 ::: {.hero}

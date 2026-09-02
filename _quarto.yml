@@ -8,7 +8,7 @@ project:
   - llms-full.txt
   - robots.txt
 website:
-  title: BIOINFORMATICS@CS.NCCU
+  title: Bioinformatic Data Science Lab, NCCU
   navbar:
     left:
     - href: index.qmd
@@ -34,7 +34,7 @@ website:
       - href: contact.qmd
         text: CONTACT
     logo: media/logo.png
-    logo-alt: BIOINFORMATICS@CS.NCCU
+    logo-alt: Bioinformatic Data Science Lab, NCCU
     title: false
   site-url: https://changlabtw.github.io/lab/
   open-graph: true

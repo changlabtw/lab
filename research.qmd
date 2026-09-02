@@ -3,6 +3,7 @@ title: Research
 description: 'Research of Jia-Ming Chang''s lab: 3D genome organization, single-cell data analysis, protein
   function prediction, sequence alignment and phylogenetics.'
 ---
+[The Bioinformatic Data Science Lab, NCCU — led by Jia-Ming Chang (張家銘), Associate Professor of Computer Science at National Chengchi University, Taipei, Taiwan.]{.identity-line}
 
 ## Genome Organization {#3d-genome}
 

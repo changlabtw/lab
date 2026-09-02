@@ -3,6 +3,7 @@ title: Publications
 description: Selected publications of Jia-Ming Chang, National Chengchi University — 3D genome, bioinformatics
   methods and protein function prediction.
 ---
+[The Bioinformatic Data Science Lab, NCCU — led by Jia-Ming Chang (張家銘), Associate Professor of Computer Science at National Chengchi University, Taipei, Taiwan.]{.identity-line}
 
 完整著作列表請見
 **[Google Scholar](https://scholar.google.com/citations?user=5TgmGNEAAAAJ&hl=en&sortby=pubdate)**。

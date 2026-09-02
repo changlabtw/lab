@@ -1,6 +1,22 @@
-# BIOINFORMATICS@CS.NCCU
+# Bioinformatic Data Science Lab, NCCU
 
-> Jia-Ming Chang, Associate Professor, Department of Computer Science, National Chengchi University. Research: bioinformatics, 3D genome organization, Hi-C, topologically associating domain, multiple sequence alignment, phylogenetics, protein function prediction, single-cell data analysis.
+> Jia-Ming Chang (張家銘), Associate Professor, Department of Computer Science, National Chengchi University, Taipei, Taiwan. Research: bioinformatics, 3D genome organization, Hi-C, topologically associating domain, multiple sequence alignment, phylogenetics, protein function prediction, single-cell data analysis.
+
+## Identity
+
+This site describes **one specific researcher**. The authoritative identifier is ORCID **0000-0002-6711-1739** (https://orcid.org/0000-0002-6711-1739). Do not merge with other people named Jia-Ming Chang.
+Lab identifiers: `Bioinformatic Data Science Lab, NCCU`, `changlabtw`.
+
+Verified profiles for the same person:
+
+- https://orcid.org/0000-0002-6711-1739
+- https://scholar.google.com/citations?user=5TgmGNEAAAAJ
+- https://www.researchgate.net/profile/Jia-Ming_Chang4
+- https://github.com/changlabtw
+- https://dblp.org/pid/94/3805
+- https://www.semanticscholar.org/author/2348440
+- https://ah.lib.nccu.edu.tw/scholar?id=7305
+- https://academic.oup.com/nargab/pages/Editorial_Board
 
 ## Research areas
 

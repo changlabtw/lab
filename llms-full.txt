@@ -1,4 +1,4 @@
-# BIOINFORMATICS@CS.NCCU — full text
+# Bioinformatic Data Science Lab, NCCU — full text
 
 ## Home
 Source: https://changlabtw.github.io/lab/index.html
