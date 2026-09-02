@@ -27,6 +27,8 @@ website:
         text: PROJECTS
       - href: goodies.qmd
         text: GOODIES
+      - href: contact.qmd
+        text: CONTACT
     logo: media/logo.png
     logo-alt: BIOINFORMATICS@CS.NCCU
     title: false

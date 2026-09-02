@@ -84,6 +84,51 @@ main a:hover { color: var(--olive); }
   background: #fbfcfd;
 }
 
+/* ---------------------------------------------------------- News */
+/* 日期用等寬數字並固定寬度,多則排在一起時左緣才會對齊 —— 不對齊的日期欄
+   會讓人一則一則地讀,對齊的可以整欄掃過去。 */
+.news-item {
+  display: grid;
+  grid-template-columns: 5.6rem auto 1fr;
+  gap: .1rem .7rem;
+  align-items: baseline;
+  padding: .55rem 0;
+  border-bottom: 1px solid var(--rule);
+}
+.news-item > p { margin: 0; grid-column: 3; }
+.news-date {
+  grid-column: 1;
+  font-variant-numeric: tabular-nums;
+  font-size: .85rem;
+  color: var(--muted);
+}
+.news-cat {
+  grid-column: 2;
+  font-size: .66rem;
+  font-weight: 600;
+  letter-spacing: .05em;
+  text-transform: uppercase;
+  padding: .1rem .45rem;
+  border-radius: 2px;
+  color: #fff;
+  white-space: nowrap;
+}
+/* 每類一個顏色。同色的話 badge 就只是裝飾,分不出類別就沒有存在意義。 */
+.news-cat-paper   { background: var(--teal); }
+.news-cat-grant   { background: #b45309; }
+.news-cat-talk    { background: #6d28d9; }
+.news-cat-award   { background: #b91c1c; }
+.news-cat-student { background: #0369a1; }
+.news-cat-service { background: var(--olive); }
+
+.news-more { display: inline-block; margin-top: .8rem; font-weight: 600; }
+
+@media (max-width: 34rem) {
+  /* 窄螢幕改成兩行:日期與類別一行,內文一行 */
+  .news-item { grid-template-columns: 5.6rem auto; }
+  .news-item > p { grid-column: 1 / -1; margin-top: .25rem; }
+}
+
 /* ------------------------------------------------------- 著作卡片 */
 .pub-card {
   border: 1px solid var(--rule);

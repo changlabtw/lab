@@ -1,0 +1,23 @@
+---
+title: News
+description: News from Jia-Ming Chang's Bioinformatic Data Science Lab at National Chengchi University
+  — papers, grants, talks and lab updates.
+---
+
+::: {.news-list}
+::: {.news-item}
+[2026]{.news-date}[service]{.news-cat .news-cat-service}
+
+[Program Committee, InCoB/ISCB-APAC 2026（第 25 屆銀禧場）](https://incob.apbionet.org/incob2026/committee/)
+:::
+::: {.news-item}
+[2024-11]{.news-date}[service]{.news-cat .news-cat-service}
+
+[出任 NAR Genomics and Bioinformatics Deputy Editor](https://academic.oup.com/nargab/pages/Editorial_Board)
+:::
+::: {.news-item}
+[2023-02]{.news-date}[paper]{.news-cat .news-cat-paper}
+
+[Science Advances 論文發表:Topological screen identifies hundreds of Cp190- and CTCF-dependent Drosophila chromatin insulator elements](https://doi.org/10.1126/sciadv.ade0090)
+:::
+:::

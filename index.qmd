@@ -22,6 +22,28 @@ learning in protein function prediction, apply data science on cancer genomics.
 :::
 :::
 
+## News
+
+::: {.news-list}
+::: {.news-item}
+[2026]{.news-date}[service]{.news-cat .news-cat-service}
+
+[Program Committee, InCoB/ISCB-APAC 2026（第 25 屆銀禧場）](https://incob.apbionet.org/incob2026/committee/)
+:::
+::: {.news-item}
+[2024-11]{.news-date}[service]{.news-cat .news-cat-service}
+
+[出任 NAR Genomics and Bioinformatics Deputy Editor](https://academic.oup.com/nargab/pages/Editorial_Board)
+:::
+::: {.news-item}
+[2023-02]{.news-date}[paper]{.news-cat .news-cat-paper}
+
+[Science Advances 論文發表:Topological screen identifies hundreds of Cp190- and CTCF-dependent Drosophila chromatin insulator elements](https://doi.org/10.1126/sciadv.ade0090)
+:::
+:::
+
+[All news →](news.html){.news-more}
+
 ## Research
 
 ::: {.card-grid}
@@ -46,30 +68,3 @@ Hierarchical clustering and visualization of single-cell data
 Subcellular localization and Gene Ontology prediction from sequence
 :::
 :::
-
-## Getting in Touch
-
-- If you are interested in visiting/joining our group, please contact Jia-Ming Chang.
-- 如果你是碩博士班的學生，對如何應用資料科學方法在生物資訊課題感興趣，歡迎[來信](mailto:chang.jiaming@gmail.com)或帶著你的想法， 來辦公室一起討論。
-- 如果你是大學生，想體驗何謂生物資訊，歡迎[來信](mailto:chang.jiaming@gmail.com)告知之前的經驗、修過哪些相關課程和可投入研究的時間。本研究室全力支持你邁向科學研究之路。
-
-## Contact
-
-**Telephone**
-+886-2-29393091#67620, 62071 (lab)
-
-**Fax**
-+886-2-22341494
-
-**Office hour**
-Wednesday 10:00 ~ 12:00
-
-**Address**
-11605 台北市文山區指南路二段64號
-國立政治大學資訊科學系 大仁樓
-
-No. 64, Section 2, Zhinan Rd, Wenshan District, Taipei City, 11605, Taiwan
-Dep. of Computer Science, National Chengchi Uni.
-
-Office @ 大仁樓 DaRen building 200 313（大仁樓樓梯往上走兩層，右轉，在教師研究室左手邊最後一間）
-Lab @ 大仁樓 DaRen building 200 403（大仁樓樓梯往上走到頂，左轉第一間）
