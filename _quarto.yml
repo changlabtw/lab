@@ -29,6 +29,7 @@ website:
         text: GOODIES
     logo: media/logo.png
     logo-alt: BIOINFORMATICS@CS.NCCU
+    title: false
   site-url: https://changlabtw.github.io/lab/
   open-graph: true
 format:

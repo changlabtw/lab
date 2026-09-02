@@ -1,5 +1,5 @@
 ---
-title: 歡迎
+title: Home
 description: Bioinformatic Data Science Lab of Jia-Ming Chang at National Chengchi University — computational
   approaches to genomics and protein function.
 include-in-header:
@@ -12,9 +12,9 @@ include-in-header:
 
 ::: {.hero}
 ::: {.hero-inner}
-[Bioinformatic Data Science Lab]{.tagline}
+[Department of Computer Science · National Chengchi University]{.tagline}
 
-# 生物資料科學實驗室 ＠ 政治大學資訊科學系
+# Bioinformatic Data Science Lab
 
 We aim to address biology questions through computational approach, i.e., design
 algorithm for sequence alignment/phylogenetic reconstruction, explore machine
@@ -22,28 +22,28 @@ learning in protein function prediction, apply data science on cancer genomics.
 :::
 :::
 
-## 研究方向
+## Research
 
 ::: {.card-grid}
 ::: {}
-**3D Genome Organization**
+**[3D Genome Organization](research.html#3d-genome)**
 
-Hi-C、Micro-C、TAD 與 chromatin loop 的計算分析
+Hi-C and Micro-C analysis of TADs, chromatin loops and compartments
 :::
 ::: {}
-**Single-Cell Data Analysis**
+**[Single-Cell Data Analysis](research.html#single-cell)**
 
-scGHSOM:階層式分群與可視化
+Hierarchical clustering and visualization of single-cell data
 :::
 ::: {}
-**Protein Function Prediction**
+**[Protein Function Prediction](research.html#protein-function)**
 
-PSSM、降維方法與深度學習
+Subcellular localization and Gene Ontology prediction from sequence
 :::
 ::: {}
-**Sequence Alignment & Phylogenetics**
+**[Sequence Alignment & Phylogenetics](research.html#alignment-phylogenetics)**
 
-TCS、T-Coffee 與比對不確定性
+Alignment reliability, bootstrap support and evolutionary modeling
 :::
 :::
 

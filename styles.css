@@ -37,10 +37,14 @@
 .navbar .dropdown-item:hover { background: rgba(255, 255, 255, .08); }
 
 /* ------------------------------------------------------------ 首頁 hero */
-/* 底紋是 Hi-C 接觸矩陣的幾何抽象:對角線附近密、離對角線遠則稀 ——
-   那正是 contact map 的形狀。用 SVG 而不是照片,任何螢幕都不會糊。 */
+/* 有 hero 的頁面隱藏 Quarto 自動產生的標題區塊 —— 否則頁面上會有兩個 h1
+   (Quarto 的 title: 一個、hero 裡一個),對讀螢幕軟體與搜尋引擎都是雜訊。
+   title: 仍必須保留,<title> 與 Open Graph 用得到。 */
+body:has(.hero) #title-block-header { display: none; }
+
+/* 純色深底,不放圖 —— 版面靠字型層次與留白,不靠裝飾。 */
 .hero {
-  background: var(--ink) url("media/hic-motif.svg") right center / auto 100% no-repeat;
+  background: var(--ink);
   color: #fff;
   margin: -1.5rem -1rem 2.5rem;
   padding: 3.5rem 1rem 3rem;
