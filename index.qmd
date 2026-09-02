@@ -31,6 +31,11 @@ learning in protein function prediction, apply data science on cancer genomics.
 Hi-C and Micro-C analysis of TADs, chromatin loops and compartments
 :::
 ::: {}
+**[Sequence Alignment & Phylogenetics](research.html#alignment-phylogenetics)**
+
+Alignment reliability, bootstrap support and evolutionary modeling
+:::
+::: {}
 **[Single-Cell Data Analysis](research.html#single-cell)**
 
 Hierarchical clustering and visualization of single-cell data
@@ -39,11 +44,6 @@ Hierarchical clustering and visualization of single-cell data
 **[Protein Function Prediction](research.html#protein-function)**
 
 Subcellular localization and Gene Ontology prediction from sequence
-:::
-::: {}
-**[Sequence Alignment & Phylogenetics](research.html#alignment-phylogenetics)**
-
-Alignment reliability, bootstrap support and evolutionary modeling
 :::
 :::
 
