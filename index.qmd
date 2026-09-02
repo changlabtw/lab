@@ -3,12 +3,13 @@ title: Home
 description: Bioinformatic Data Science Lab of Jia-Ming Chang at National Chengchi University — computational
   approaches to genomics and protein function.
 include-in-header:
-  text: "<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\"\
-    : \"ResearchOrganization\",\n  \"name\": \"Bioinformatic Data Science Lab, NCCU\",\n  \"url\": \"\
-    https://changlabtw.github.io/lab/\",\n  \"alternateName\": \"BIOINFORMATICS@CS.NCCU\",\n  \"parentOrganization\"\
-    : {\n    \"@type\": \"Organization\",\n    \"name\": \"National Chengchi University\",\n    \"identifier\"\
-    : \"https://ror.org/03rqk8h36\"\n  },\n  \"member\": {\n    \"@type\": \"Person\",\n    \"name\":\
-    \ \"Jia-Ming Chang\"\n  }\n}\n</script>\n"
+  text: "<link rel=\"me\" href=\"https://orcid.org/0000-0002-6711-1739\">\n<meta name=\"author\" content=\"\
+    Jia-Ming Chang (張家銘)\">\n<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\"\
+    ,\n  \"@type\": \"ResearchOrganization\",\n  \"name\": \"Bioinformatic Data Science Lab, NCCU\",\n\
+    \  \"url\": \"https://changlabtw.github.io/lab/\",\n  \"alternateName\": \"BIOINFORMATICS@CS.NCCU\"\
+    ,\n  \"parentOrganization\": {\n    \"@type\": \"Organization\",\n    \"name\": \"National Chengchi\
+    \ University\",\n    \"identifier\": \"https://ror.org/03rqk8h36\"\n  },\n  \"member\": {\n    \"\
+    @type\": \"Person\",\n    \"name\": \"Jia-Ming Chang\"\n  }\n}\n</script>\n"
 ---
 
 ::: {.hero}
