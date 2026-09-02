@@ -84,6 +84,46 @@ main a:hover { color: var(--olive); }
   background: #fbfcfd;
 }
 
+/* ------------------------------------------------------- 著作卡片 */
+.pub-card {
+  border: 1px solid var(--rule);
+  border-left: 3px solid var(--teal);
+  border-radius: 3px;
+  padding: 1rem 1.2rem .9rem;
+  margin: 0 0 1rem;
+  background: #fbfcfd;
+}
+.pub-card h4 { margin: .1rem 0 .45rem; font-size: 1.02rem; line-height: 1.45; }
+.pub-card h4 a { text-decoration: none; }
+.pub-card h4 a:hover { text-decoration: underline; }
+.pub-card > p { margin: .3rem 0; }
+
+/* 角色 badge。用 olive 與 teal 區隔:第一作者與通訊作者是不同的貢獻,
+   同一個顏色會讓人以為是同一件事。 */
+.pub-badge {
+  display: inline-block;
+  font-size: .68rem;
+  font-weight: 600;
+  letter-spacing: .06em;
+  text-transform: uppercase;
+  padding: .12rem .5rem;
+  border-radius: 2px;
+  background: var(--teal);
+  color: #fff;
+}
+.pub-badge + .pub-badge { background: var(--olive); margin-left: .3rem; }
+
+.pub-meta { font-size: .82rem; color: var(--muted); letter-spacing: .02em; }
+
+/* why it matters —— 與作者清單區隔,讀者掃過時能一眼找到「這篇在講什麼」 */
+.pub-why {
+  margin: .6rem 0 0;
+  padding-left: .9rem;
+  border-left: 2px solid var(--rule);
+  font-size: .92rem;
+  color: #33414e;
+}
+
 /* PI 頁的大頭貼。
    markdown 的 ![](…) 語法會被 Quarto 包成 <div class="quarto-figure"><figure>,
    而那層的置中樣式會蓋掉浮動 —— 所以 pi.md 直接寫 <img>,Quarto 原樣輸出。 */

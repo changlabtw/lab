@@ -10,25 +10,80 @@ description: Selected publications of Jia-Ming Chang, National Chengchi Universi
 
 ## Selected publications
 
-**2023 · Science Advances**  
-Tatyana G Kahn, Mikhail Savitsky, Chikuan Kuong, Caroline Jacquier, Giacomo Cavalli, **Jia-Ming Chang**\*, Yuri B Schwartz\*  
-[Topological screen identifies hundreds of Cp190- and CTCF-dependent *Drosophila* chromatin insulator elements](https://doi.org/10.1126/sciadv.ade0090)
+::: {.pub-card}
+[Co-corresponding author]{.pub-badge}
 
-**2021 · Bioinformatics**  
-**Jia-Ming Chang**, Evan W Floden, Javier Herrero, Olivier Gascuel, Paolo Di Tommaso, Cedric Notredame  
-[Incorporating alignment uncertainty into Felsenstein's phylogenetic bootstrap to improve its reliability](https://doi.org/10.1093/bioinformatics/btz082)
+[2023 · Science Advances]{.pub-meta}
 
-**2019 · BMC Genomics**  
-Yang-Ming Lin, Ching-Tai Chen, **Jia-Ming Chang**  
-[MS2CNN: predicting MS/MS spectrum based on protein sequence using deep convolutional neural networks](https://doi.org/10.1186/s12864-019-6297-6)
+#### [Topological screen identifies hundreds of Cp190- and CTCF-dependent *Drosophila* chromatin insulator elements](https://doi.org/10.1126/sciadv.ade0090)
 
-**2014 · Molecular Biology and Evolution**  
-**Jia-Ming Chang**, Paolo Di Tommaso, Cedric Notredame  
-[TCS: A New Multiple Sequence Alignment Reliability Measure to Estimate Alignment Accuracy and Improve Phylogenetic Tree Reconstruction](https://doi.org/10.1093/molbev/msu117)
+Tatyana G Kahn, Mikhail Savitsky, Chikuan Kuong, Caroline Jacquier, Giacomo Cavalli, **Jia-Ming Chang**\*, Yuri B Schwartz\*
 
-**2012 · BMC Bioinformatics**  
-**Jia-Ming Chang**, Paolo Di Tommaso, Jean-François F Taly, Cedric Notredame  
-[Accurate Multiple Sequence Alignment of Transmembrane Proteins with PSI-Coffee](https://doi.org/10.1186/1471-2105-13-s4-s1)
+::: {.pub-why}
+A topological screen in *Drosophila* cells lacking CTCF and Cp190 identifies hundreds of insulator elements that modulate local chromatin interactions without driving global genome folding, suggesting Cp190 functions by promoting insulator protein cobinding rather than loop formation.
+:::
+
+:::
+
+::: {.pub-card}
+[First author]{.pub-badge}
+
+[2021 · Bioinformatics]{.pub-meta}
+
+#### [Incorporating alignment uncertainty into Felsenstein's phylogenetic bootstrap to improve its reliability](https://doi.org/10.1093/bioinformatics/btz082)
+
+**Jia-Ming Chang**, Evan W Floden, Javier Herrero, Olivier Gascuel, Paolo Di Tommaso, Cedric Notredame
+
+::: {.pub-why}
+Sampling alignment columns across alternative aligners enhances the discriminative power of bootstrap support regarding tree topology correctness.
+:::
+
+:::
+
+::: {.pub-card}
+[Corresponding author]{.pub-badge}
+
+[2019 · BMC Genomics]{.pub-meta}
+
+#### [MS2CNN: predicting MS/MS spectrum based on protein sequence using deep convolutional neural networks](https://doi.org/10.1186/s12864-019-6297-6)
+
+Yang-Ming Lin, Ching-Tai Chen, **Jia-Ming Chang**\*
+
+::: {.pub-why}
+Predicted MS2 spectra improve the sensitivity and coverage of peptide identification. MS2CNN was among the first deep-learning approaches to this problem, outperforming MS2PIP, matching pDeep overall, and performing best on the hardest 3+ charge peptides.
+:::
+
+:::
+
+::: {.pub-card}
+[First author]{.pub-badge}
+
+[2014 · Molecular Biology and Evolution]{.pub-meta}
+
+#### [TCS: A New Multiple Sequence Alignment Reliability Measure to Estimate Alignment Accuracy and Improve Phylogenetic Tree Reconstruction](https://doi.org/10.1093/molbev/msu117)
+
+**Jia-Ming Chang**, Paolo Di Tommaso, Cedric Notredame
+
+::: {.pub-why}
+The reliability of a multiple sequence alignment can be robustly quantified using the Transitive Consistency Score, derived from the T-Coffee pairwise library.
+:::
+
+:::
+
+::: {.pub-card}
+[First author]{.pub-badge}
+
+[2012 · BMC Bioinformatics]{.pub-meta}
+
+#### [Accurate Multiple Sequence Alignment of Transmembrane Proteins with PSI-Coffee](https://doi.org/10.1186/1471-2105-13-s4-s1)
+
+**Jia-Ming Chang**, Paolo Di Tommaso, Jean-François F Taly, Cedric Notredame
+
+::: {.pub-why}
+Homology extension combined with a consistency-based approach significantly improves the multiple sequence alignment of alpha-helical transmembrane proteins.
+:::
+
+:::
 
 ## 科普文章
 
