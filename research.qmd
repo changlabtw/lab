@@ -1,7 +1,7 @@
 ---
 title: Research
-description-meta: 'Research of Jia-Ming Chang''s lab: 3D genome organization, single-cell data analysis,
-  protein function prediction, sequence alignment and phylogenetics.'
+description: 'Research of Jia-Ming Chang''s lab: 3D genome organization, single-cell data analysis, protein
+  function prediction, sequence alignment and phylogenetics.'
 ---
 
 ## Single-Cell Data Analysis {#single-cell}
@@ -29,8 +29,6 @@ rather than loop formation
 Repressed TADs are 3D structural units of chromosome organization in *Drosophila*
 [2018, [PMID: 295038](https://www.ncbi.nlm.nih.gov/pubmed/?term=29503869)]. — Giacomo Cavalli
 
-- [scGHSOM: A Hierarchical Framework for Single-Cell Data Clustering and Visualization](https://doi.org/10.1109/TCBBIO.2025.3593632)  
-  *2026 · IEEE Transactions on Computational Biology and Bioinformatics*
 - [Topological screen identifies hundreds of Cp190- and CTCF-dependent Drosophila chromatin insulator elements](https://doi.org/10.1126/sciadv.ade0090)  
   *2023 · Science Advances*
 - [Pattern recognition of topologically associating domains using deep learning](https://doi.org/10.1186/s12859-022-05075-1)  

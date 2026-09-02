@@ -1,7 +1,7 @@
 ---
 title: Jia-Ming Chang 張家銘
-description-meta: Jia-Ming Chang, Associate Professor of Computer Science at National Chengchi University
-  — bioinformatics, 3D genome and computational biology.
+description: Jia-Ming Chang, Associate Professor of Computer Science at National Chengchi University —
+  bioinformatics, 3D genome and computational biology.
 include-in-header:
   text: "<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\"\
     : \"Person\",\n  \"name\": \"Jia-Ming Chang\",\n  \"jobTitle\": \"Associate Professor\",\n  \"url\"\
@@ -30,7 +30,7 @@ include-in-header:
     \n    }\n  ]\n}\n</script>\n"
 ---
 
-![](media/pi.jpg){.portrait fig-alt="Jia-Ming Chang"}
+<img src="media/pi.jpg" alt="Jia-Ming Chang" class="portrait">
 
 Associate professor since 2022/02
 Department of Computer Science, National Chengchi University

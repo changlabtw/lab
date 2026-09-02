@@ -1,6 +1,6 @@
 ---
 title: Publications
-description-meta: Selected publications of Jia-Ming Chang, National Chengchi University — 3D genome, bioinformatics
+description: Selected publications of Jia-Ming Chang, National Chengchi University — 3D genome, bioinformatics
   methods and protein function prediction.
 ---
 

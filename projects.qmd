@@ -1,7 +1,7 @@
 ---
 title: Projects
-description-meta: Funded research projects of Jia-Ming Chang at National Chengchi University, including
-  NSTC grants on 3D genome analysis and bioinformatics.
+description: Funded research projects of Jia-Ming Chang at National Chengchi University, including NSTC
+  grants on 3D genome analysis and bioinformatics.
 ---
 
 ## 科技部／國科會

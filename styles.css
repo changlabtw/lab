@@ -42,6 +42,13 @@
    title: 仍必須保留,<title> 與 Open Graph 用得到。 */
 body:has(.hero) #title-block-header { display: none; }
 
+/* description 是為搜尋引擎寫的(≤160 字、含關鍵字),不是頁面文案 ——
+   Quarto 會把它顯示成副標,結果跟 h1 與開頭段落重複。
+   用 description-meta 可以不顯示,但那樣 og:description 會是空的(實測),
+   分享連結時就沒有摘要。所以保留 description 供 meta 與 Open Graph 使用,
+   視覺上藏起來。display:none 也會從無障礙樹移除,不會被重複朗讀。 */
+#title-block-header .description { display: none; }
+
 /* 純色深底,不放圖 —— 版面靠字型層次與留白,不靠裝飾。 */
 .hero {
   background: var(--ink);
@@ -78,13 +85,16 @@ main a:hover { color: var(--olive); }
 }
 
 /* PI 頁的大頭貼。
-   Quarto 會把圖片包成 <div class="quarto-figure"><figure>...</figure></div>,
-   所以浮動要套在外層容器上 —— 只套 img 的話浮動不會生效。 */
-.quarto-figure:has(.portrait) { float: right; width: 190px; margin: 0 0 1.2rem 1.6rem; }
-.portrait { width: 100%; border-radius: 3px; }
-.quarto-figure:has(.portrait) figure { margin: 0; }
+   markdown 的 ![](…) 語法會被 Quarto 包成 <div class="quarto-figure"><figure>,
+   而那層的置中樣式會蓋掉浮動 —— 所以 pi.md 直接寫 <img>,Quarto 原樣輸出。 */
+img.portrait {
+  float: right;
+  width: 190px;
+  margin: .3rem 0 1.2rem 1.6rem;
+  border-radius: 3px;
+}
 @media (max-width: 40rem) {
-  .quarto-figure:has(.portrait) { float: none; width: 190px; margin: 0 auto 1.2rem; }
+  img.portrait { float: none; display: block; margin: 0 auto 1.2rem; }
 }
 
 footer, .nav-footer { border-top: 1px solid var(--rule); color: var(--muted); }

@@ -1,7 +1,7 @@
 ---
 title: Packages
-description-meta: 'Bioinformatics software and web servers from Jia-Ming Chang''s lab: HiCmapTools, TCS,
-  PSI/TM-Coffee, wpSBOOT, PSLDoc and GODoc.'
+description: 'Bioinformatics software and web servers from Jia-Ming Chang''s lab: HiCmapTools, TCS, PSI/TM-Coffee,
+  wpSBOOT, PSLDoc and GODoc.'
 ---
 
 [https://github.com/changlabtw](https://github.com/changlabtw)
