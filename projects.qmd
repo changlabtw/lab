@@ -6,6 +6,8 @@ description: Funded research projects of Jia-Ming Chang at National Chengchi Uni
 
 ## 科技部／國科會
 
+- 115-2926-I-004-501 國際期刊 NAR Genomics and Bioinformatics 副主編之編輯行政支持計畫(1/2)
+- 115-2221-E-004-006 StructShap:發展含染色體結構資訊之可解釋人工智慧框架並應用於基因體學
 - 114-2221-E-004-008- HiBERT: 結合表觀基因組模式與三維空間結構的語言模型框架
 - 111-2221-E-004-011-MY3 透過網路分析來捕捉高通量染色體結構捕獲技術資料重要訊號
 - 108-2628-E-004-001-MY3 高通量染色體結構捕獲技術分析平台（優秀年輕學者研究計畫）

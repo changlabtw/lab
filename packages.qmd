@@ -12,7 +12,6 @@ description: 'Bioinformatics software and web servers from Jia-Ming Chang''s lab
 - [Transitive Consistency Score](http://tcoffee.crg.cat/core) — Estimate the confidence of the alignment
 - [BigBigTree](http://tcoffee.crg.cat/apps/bigtree/) — Tree reconstruction for large orthologous family
 - [PSI/TM-Coffee](http://tcoffee.crg.cat/apps/tcoffee/do:tmcoffee) — Transmembrane MSA
-- PSLDoc3 — Protein Function Prediction
 
 ## Software
 

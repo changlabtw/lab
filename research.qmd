@@ -29,8 +29,6 @@ rather than loop formation
 Repressed TADs are 3D structural units of chromosome organization in *Drosophila*
 [2018, [PMID: 295038](https://www.ncbi.nlm.nih.gov/pubmed/?term=29503869)]. — Giacomo Cavalli
 
-- [HiCPEP: Efficient estimation of chromatin compartment PC1 from Hi-C covariance structure](https://doi.org/10.64898/2026.05.14.725269)  
-  *2026*
 - [scGHSOM: A Hierarchical Framework for Single-Cell Data Clustering and Visualization](https://doi.org/10.1109/TCBBIO.2025.3593632)  
   *2026 · IEEE Transactions on Computational Biology and Bioinformatics*
 - [Topological screen identifies hundreds of Cp190- and CTCF-dependent Drosophila chromatin insulator elements](https://doi.org/10.1126/sciadv.ade0090)  
@@ -39,8 +37,6 @@ Repressed TADs are 3D structural units of chromosome organization in *Drosophila
   *2022 · BMC Bioinformatics*
 - [HiCmapTools: a tool to access HiC contact maps](https://doi.org/10.1186/s12859-022-04589-y)  
   *2022 · BMC Bioinformatics*
-- [Topological screen identifies hundreds of Cp190 and CTCF dependent <i>Drosophila</i> chromatin insulator elements](https://doi.org/10.1101/2022.07.18.500462)  
-  *2022*
 - [TADs are 3D structural units of higher-order chromosome organization in Drosophila](https://doi.org/10.1126/sciadv.aar8082)  
   *2018 · Science Advances*
 
@@ -64,12 +60,8 @@ performance but also uncover latent relationships within the data
   *2019 · 2019 International Conference on Technologies and Applications of Artiﬁcial Intelligence (TAAI)*
 - [Efficient and Interpretable Prediction of Protein Functional Classes by Correspondence Analysis and Compact Set Relations](http://nccur.lib.nccu.edu.tw/handle/140.119/86642)  
   *2013 · PLoS One*
-- [Efficient and Interpretable Prediction of Protein Functional Classes by Correspondence Analysis and Compact Set Relations](https://doi.org/10.1371/journal.pone.0075542)  
-  *2013*
 - [Prediction of nuclear proteins using nuclear translocation signals proposed by probabilistic latent semantic indexing](http://nccur.lib.nccu.edu.tw/handle/140.119/86637)  
   *2012 · 11th International Conference on Bioinformatics (InCoB 2012) Thailand*
-- [Prediction of nuclear proteins using nuclear translocation signals proposed by probabilistic latent semantic indexing.](http://www.scopus.com/inward/record.url?eid=2-s2.0-84877930369&partnerID=MN8TOARS)  
-  *2012*
 - [PSLDoc: Protein subcellular localization prediction based on gapped-dipeptides and probabilistic latent semantic analysis](http://www.scopus.com/inward/record.url?eid=2-s2.0-46449089781&partnerID=MN8TOARS)  
   *2008 · Proteins: Structure, Function and Genetics*
 
@@ -88,24 +80,12 @@ library. — Cedric Notredame
 
 - [Incorporating alignment uncertainty into Felsenstein’s phylogenetic bootstrap to improve its reliability](https://doi.org/10.1093/bioinformatics/btz082)  
   *2021 · Bioinformatics*
-- [Influence of alignment uncertainty on homology and phylogenetic modeling](https://doi.org/10.7287/peerj.preprints.3376)  
-  *2017*
 - [PSI/TM-Coffee: a web server for fast and accurate multiple sequence alignments of regular and transmembrane proteins using homology extension on reduced databases](https://doi.org/10.1093/nar/gkw300)  
   *2016 · Nucleic Acids Research*
 - [Multiple sequence alignment modeling: methods and applications](https://doi.org/10.1093/bib/bbv099)  
   *2016 · Briefings in bioinformatics*
-- [TCS: a web server for multiple sequence alignment evaluation and phylogenetic reconstruction.](https://doi.org/10.1093/nar/gkv310)  
-  *2015*
-- [Alignathon: A competitive assessment of whole-genome alignment methods](https://doi.org/10.1101/gr.174920.114)  
-  *2014*
-- [T-coffee: Tree-based consistency objective function for alignment evaluation](https://doi.org/10.1007/978-1-62703-646-7-7)  
-  *2014*
-- [TCS: A new multiple sequence alignment reliability measure to estimate alignment accuracy and improve phylogenetic tree reconstruction](https://doi.org/10.1093/molbev/msu117)  
-  *2014*
 - [Accurate multiple sequence alignment of transmembrane proteins with PSI-Coffee](http://nccur.lib.nccu.edu.tw/handle/140.119/86641)  
   *2012 · BMC Bioinformatics*
-- [Accurate multiple sequence alignment of transmembrane proteins with PSI-Coffee](https://doi.org/10.1186/1471-2105-13-S4-S1)  
-  *2012*
 - [Using the T-Coffee package to build multiple sequence alignments of protein, RNA, DNA sequences and 3D structures](http://nccur.lib.nccu.edu.tw/handle/140.119/86639)  
   *2011 · Nature Protocols*
 - [T-Coffee: a web server for the multiple sequence alignment of protein and RNA sequences using structural information and homology extension](http://nccur.lib.nccu.edu.tw/handle/140.119/86638)  
