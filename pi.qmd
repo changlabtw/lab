@@ -88,7 +88,7 @@ Science and Technology.
 
 ## Honors & Awards
 
-- **Excellent Young Scholar Research Grant**, Ministry of Science and Technology
+- Excellent Young Scholar Research Grant, Ministry of Science and Technology
   （科技部優秀年輕學者研究計畫，108-2628-E-004-001-MY3）— a competitive
   three-year grant awarded to early-career principal investigators
 - 108年 政大學術研究優良 NCCU Academic Research Awards
@@ -112,6 +112,7 @@ Science and Technology.
 
 ### Program committee
 
+- **Program Committee**, [APBC 2026](https://www.apbc2026.com/about/pc-member) (2026)
 - **Program Committee**, [InCoB/ISCB-APAC 2026](https://incob.apbionet.org/incob2026/committee/) (2026)
 - **Program Committee**, [InCoB 2025](https://incob.apbionet.org/incob2025/committee/) (2025)
 - **Program Committee**, [InCoB 2023](https://incob.apbionet.org/incob23/committee/) (2023)
