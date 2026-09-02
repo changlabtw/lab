@@ -84,6 +84,27 @@ main a:hover { color: var(--olive); }
   background: #fbfcfd;
 }
 
+/* --------------------------------------------------- PI 頁的速覽 */
+/* 緊湊、低調 —— 這是給趕時間的訪客(審查委員、邀約者)三秒內看完的區塊,
+   不該搶走簡介的注意力。 */
+.at-a-glance {
+  border-left: 3px solid var(--teal);
+  background: #f6f9fa;
+  padding: .8rem 1rem;
+  margin: 0 0 1.4rem;
+  font-size: .94rem;
+  line-height: 1.85;
+}
+.at-a-glance p { margin: 0; }
+
+/* 通訊作者星號的說明。放小、放淡 —— 它是註腳不是內容。 */
+.pub-footnote {
+  display: block;
+  margin-top: .4rem;
+  font-size: .82rem;
+  color: var(--muted);
+}
+
 /* ---------------------------------------------------------- News */
 /* 日期用等寬數字並固定寬度,多則排在一起時左緣才會對齊 —— 不對齊的日期欄
    會讓人一則一則地讀,對齊的可以整欄掃過去。 */

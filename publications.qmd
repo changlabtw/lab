@@ -85,6 +85,8 @@ Homology extension combined with a consistency-based approach significantly impr
 
 :::
 
+[\* co-corresponding authors]{.pub-footnote}
+
 ## 科普文章
 
 [長達兩公尺的遺傳資訊如何塞進六微米的細胞核？讓我們從染色體上的「拓樸結構域」談起](https://pansci.asia/archives/153928)

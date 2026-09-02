@@ -36,9 +36,6 @@ Associate professor since 2022/02
 Department of Computer Science, National Chengchi University
 Taipei, Taiwan
 
-[GoogleScholar](http://scholar.google.com/citations?user=5TgmGNEAAAAJ&hl=en) ·
-[ResearchGate](https://www.researchgate.net/profile/Jia-Ming_Chang4)
-
 於清華大學資工系修讀學士與碩士學位，2002年清大畢業後，在中研院資訊所服國防役，2008
 到西班牙巴塞隆納基因調控研究中心 (Centre for Genomic Regulation) 修讀博士學位，2013年到
 法國蒙彼利埃人類基因體研究中心 (Institute of Human Genetics) 從事博士後研究，2016年開始到
@@ -55,6 +52,14 @@ I have received a few awards and recognitions, including a 4-year La Caixa Ph.D.
 scholarship, the NCCU College of Science - Young Scholarship Award, the NCCU Academic
 Research Awards, and an Excellent Young Scholar Research Grants from the Ministry of
 Science and Technology.
+
+## At a glance
+
+::: {.at-a-glance}
+**Associate Professor**, Department of Computer Science, National Chengchi University  
+**Deputy Editor**, NAR Genomics and Bioinformatics（since 2024-11）  
+[ORCID](https://orcid.org/0000-0002-6711-1739) · [Google Scholar](https://scholar.google.com/citations?user=5TgmGNEAAAAJ) · [ResearchGate](https://www.researchgate.net/profile/Jia-Ming_Chang4) · [GitHub](https://github.com/changlabtw)
+:::
 
 ## Educations
 
@@ -78,10 +83,13 @@ Science and Technology.
 
 ## Honors & Awards
 
+- **Excellent Young Scholar Research Grant**, Ministry of Science and Technology
+  （科技部優秀年輕學者研究計畫，108-2628-E-004-001-MY3）— a competitive
+  three-year grant awarded to early-career principal investigators
 - 108年 政大學術研究優良 NCCU Academic Research Awards
 - 108年 政大理學院年輕學者研究獎勵 NCCU College of Science - Young Scholarship Award, 2019 Academic Year
-- 107/108/111/112年 國科會補助大專校院研究獎勵
-- 105/106年 科技部延攬特殊優秀人才
+- 107/108/111/112年 國科會補助大專校院研究獎勵 — NSTC research incentive award for university faculty
+- 105/106年 科技部延攬特殊優秀人才 — MOST subsidy for recruiting outstanding academic talent
 - 06/2012, travel award, the Society for Molecular Biology & Evolution (SMBE) Dublin
 - 10/2008, fellowship, "la Caixa" International PhD Programme 4-year fellowships
 
@@ -109,16 +117,3 @@ Science and Technology.
 - **理事（第三、四屆）**, 演算法與計算理論學會
 - **理事（第四屆）**, 台灣演化與計算生物學會
 - **理事（第四、五屆）**, 清華大學資訊工程學系系友會
-
-## Extracurricular Activities
-
-| 日期 | 距離 | 成績 | 賽事 |
-|---|---|---|---|
-| 2012/09/16 | 10km | 57:54 | Cursa de la Mercè |
-| 2011/10/09 | 04km | 20:14 | Cursa Vencer el Cancer |
-| 2011/07/09 | 10km | 56:28 | London 10km |
-| 2010/12/31 | 10km | 51:09 | Cursa dels Nassos-Gran Premi Ibercaja |
-| 2010/04/18 | 10km | 49:50 | Cursa Bombers |
-| 2009/04/05 | 10km | 53:17 | Cursa Bombers |
-| 2007/06/28 | 5.2km | 3h:26m | Balaton-crossing swimming competitions, Revfulop Hungary |
-| 2006/11/04 | 21.5km | 2:27:56 | Half Marathon, Taroko Internaltional Marathon, Hualien, Taiwan |

@@ -33,3 +33,16 @@ Bioinformatics For Dummies 2nd Edition — by Jean-Michel Claverie, Cedric Notre
 ## Others
 
 [READING SCIENTIFIC PAPERS](https://web.stanford.edu/~siegelr/readingsci.htm) by Robert David Siegel
+
+## Running & Swimming
+
+| 日期 | 距離 | 成績 | 賽事 |
+|---|---|---|---|
+| 2012/09/16 | 10km | 57:54 | Cursa de la Mercè |
+| 2011/10/09 | 04km | 20:14 | Cursa Vencer el Cancer |
+| 2011/07/09 | 10km | 56:28 | London 10km |
+| 2010/12/31 | 10km | 51:09 | Cursa dels Nassos-Gran Premi Ibercaja |
+| 2010/04/18 | 10km | 49:50 | Cursa Bombers |
+| 2009/04/05 | 10km | 53:17 | Cursa Bombers |
+| 2007/06/28 | 5.2km | 3h:26m | Balaton-crossing swimming competitions, Revfulop Hungary |
+| 2006/11/04 | 21.5km | 2:27:56 | Half Marathon, Taroko Internaltional Marathon, Hualien, Taiwan |
