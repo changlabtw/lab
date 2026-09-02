@@ -3,6 +3,10 @@
 project:
   type: website
   output-dir: _site
+  resources:
+  - llms.txt
+  - llms-full.txt
+  - robots.txt
 website:
   title: BIOINFORMATICS@CS.NCCU
   navbar:
@@ -34,6 +38,9 @@ website:
     title: false
   site-url: https://changlabtw.github.io/lab/
   open-graph: true
+  page-footer:
+    center: 內容採用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 授權 · Content licensed under
+      [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 format:
   html:
     theme: cosmo

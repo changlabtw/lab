@@ -1,0 +1,497 @@
+# BIOINFORMATICS@CS.NCCU — full text
+
+## Home
+Source: https://changlabtw.github.io/lab/index.html
+
+[Department of Computer Science · National Chengchi University]
+
+ Bioinformatic Data Science Lab
+
+We aim to address biology questions through computational approach, i.e., design
+algorithm for sequence alignment/phylogenetic reconstruction, explore machine
+learning in protein function prediction, apply data science on cancer genomics.
+
+ News
+
+
+
+ Research
+
+---
+
+## Jia-Ming Chang 張家銘
+Source: https://changlabtw.github.io/lab/pi.html
+
+<img src="media/pi.jpg" alt="Jia-Ming Chang" class="portrait"
+
+Associate professor since 2022/02
+Department of Computer Science, National Chengchi University
+Taipei, Taiwan
+
+於清華大學資工系修讀學士與碩士學位，2002年清大畢業後，在中研院資訊所服國防役，2008
+到西班牙巴塞隆納基因調控研究中心 (Centre for Genomic Regulation) 修讀博士學位，2013年到
+法國蒙彼利埃人類基因體研究中心 (Institute of Human Genetics) 從事博士後研究，2016年開始到
+政大資科系服務至今，曾獲4年La Caixa博士獎學金、政大理學院年輕學者研究、政大學術研究優良、
+科技部優秀年輕學者研究計畫。
+
+I earned my Bachelor's and Master's degrees in the Dep. of Computer Science at National
+Tsing Hua University. After graduating from NTHU in 2002, I completed my military service
+at the Institute of Information Science, Academia Sinica. In 2008, I pursued my Ph.D. at
+the Centre for Genomic Regulation in Barcelona, Spain, and in 2013, I conducted
+postdoctoral research at the Institute of Human Genetics in Montpellier, France. Since
+2016, I have been serving in the Dep. of Computer Science at National Chengchi University.
+I have received a few awards and recognitions, including a 4-year La Caixa Ph.D.
+scholarship, the NCCU College of Science - Young Scholarship Award, the NCCU Academic
+Research Awards, and an Excellent Young Scholar Research Grants from the Ministry of
+Science and Technology.
+
+ At a glance
+
+
+
+ Educations
+
+- 10/2008-07/2013 PhD. Centre for Genomic Regulation and Universitat Pompeu Fabra, Spain
+  Influence of alignment uncertainty on homology and phylogenetic modeling
+  Supervisor: Dr. Cedric Notredame
+- 09/2000-06/2002 M.S. Dep. of Computer Science, National Tsing Hua University, Taiwan
+  Compact Set Relation and Its Application in the Evaluation of the Evolutionary Tree and Multiple Sequence Alignment
+  Supervisor: Dr. Chuan Yi Tang
+- 09/1996-06/2000 B.S. Dep. of Computer Science, National Tsing Hua University, Taiwan
+  Admitted through the first cohort of special admission quotas for recommended students（第一屆推薦甄試入學）
+
+ Experience
+
+- 02/2016-02/2022 Assistant Professor — Dep. of Computer Science, National Chengchi university
+- 01/2014-02/2016 Postdoc — Institute of Human Genetics (IGH), CNRS, France, Dr. Giacomo Cavalli's Lab
+- 07/2013-12/2013 Postdoc — Centre for Genomic Regulation (CRG) and Universitat Pompeu Fabra (UPF), Spain, Dr. Cedric Notredame's Lab
+- 02/2013-03/2013 Intern Student — Biodiversity Research Center, Academia Sinica, Taiwan, Dr. Wen-Hsiung Li's Lab
+- 05/2011-07/2011 Intern Student — Comparative Genomics, European Bioinformatics Institute, UK, Dr. Javier Herrero
+- 10/2002-08/2008 Research Assistant — Institute of Information Science, Academia Sinica, Dr. Wen-Lian Hsu and Dr. Ting-Yi Sung
+
+ Honors & Awards
+
+- Excellent Young Scholar Research Grant, Ministry of Science and Technology
+  （科技部優秀年輕學者研究計畫，108-2628-E-004-001-MY3）— a competitive
+  three-year grant awarded to early-career principal investigators
+- 108年 政大學術研究優良 NCCU Academic Research Awards
+- 108年 政大理學院年輕學者研究獎勵 NCCU College of Science - Young Scholarship Award, 2019 Academic Year
+- 107/108/111/112年 國科會補助大專校院研究獎勵 — NSTC research incentive award for university faculty
+- 105/106年 科技部延攬特殊優秀人才 — MOST subsidy for recruiting outstanding academic talent
+- 06/2012, travel award, the Society for Molecular Biology & Evolution (SMBE) Dublin
+- 10/2008, fellowship, "la Caixa" International PhD Programme 4-year fellowships
+
+ Services
+
+---
+
+## Research
+Source: https://changlabtw.github.io/lab/research.html
+
+Genome Organization
+
+A topological screen in Drosophila cells lacking CTCF and Cp190 identifies hundreds
+of insulator elements that modulate local chromatin interactions without driving global
+genome folding, suggesting Cp190 functions by promoting insulator protein cobinding
+rather than loop formation
+2023, PMID: [36735780]. — Yuri B. Schwartz
+
+Repressed TADs are 3D structural units of chromosome organization in Drosophila
+2018, [PMID: 295038]. — Giacomo Cavalli
+
+
+
+ Sequence Alignment & Phylogenetics
+
+Sampling alignment columns across alternative aligners enhances the discriminative power
+of bootstrap support regarding tree topology correctness
+2019, [PMID:30726875]. — Cedric Notredame
+
+The reliability of Multiple Sequence Alignments (MSA) can be robustly quantified using
+the Transitive Consistency Score (TCS), which is derived from the T-Coffee pairwise
+library. — Cedric Notredame
+
+- method 2014, [PMID: 24694831]
+- server 2015, [PMID: 25855806]
+
+
+
+ Single-Cell Data Analysis
+
+scGHSOM adapts the Growing Hierarchical Self-Organizing Map (GHSOM) for single-cell
+data to enable hierarchical clustering and visualization while identifying significant
+attributes that characterize cell subpopulations
+2025, PMID: [40811172]. — Fang Yu
+
+Code
+
+
+
+ Computational Protein Function Prediction
+
+Position-Specific Scoring Matrices (PSSMs) contain richer information than primary
+sequences and can be efficiently generated by searching the UniRef50 database with
+reduced sensitivity parameters
+[PMID:24146760].
+
+Dimensionality reduction techniques, such as PLSA, CA, and PCA, not only enhance model
+performance but also uncover latent relationships within the data
+[PMID:18260102,
+PMID:24146760].
+
+---
+
+## Publications
+Source: https://changlabtw.github.io/lab/publications.html
+
+完整著作列表請見
+Google Scholar。
+以下是精選。
+
+ Selected publications
+
+
+
+ 科普文章
+
+長達兩公尺的遺傳資訊如何塞進六微米的細胞核？讓我們從染色體上的「拓樸結構域」談起
+
+---
+
+## Packages
+Source: https://changlabtw.github.io/lab/packages.html
+
+https://github.com/changlabtw
+
+ Web Server
+
+- wpSBOOT — weighted partial Super Bootstrap
+- Transitive Consistency Score — Estimate the confidence of the alignment
+- BigBigTree — Tree reconstruction for large orthologous family
+- PSI/TM-Coffee — Transmembrane MSA
+
+ Software
+
+- PSLCNN — Protein Subcellular Localization using Convolutional Neural Network
+- HiCmapTools — a commend line tool to access HiC maps. The complete program provides multi-query modes and analysis tools.
+- PSLDoc — Protein Subcellular Localization Prediction based on based on gapped-dipeptides and probabilistic latent semantic analysis
+- FCS — Finding Compact Set
+
+---
+
+## Lab
+Source: https://changlabtw.github.io/lab/team.html
+
+Meet the Team
+
+PhD
+
+- 2021 Ryan Rey Daga
+
+Master
+
+- 2025 林福田(專班)
+- 2024 林祐祥 李柏漢 陳昶安 林穎彥(專班)
+- 2023 管漢程
+- 2022 何子安 郭書瑋(專班)
+- 2021 陳偉瑄(專班)
+- 2019 劉書傳(專班)
+
+Undergraduate
+
+For members, please join our FB group
+
+ Alumni
+
+Master
+
+- 2025 李佳芬 謝皓雲 王世儒(專班)
+- 2024 曾偉綱 張修誠 邱顯安 高語謙 程至榮 何彥南 王神鐸(外籍生) 章峻福
+- 2022 許育庭 黃渝庭 陳韋翰 王崇飛(專班)
+- 2021 鄭博仁 楊明翰(中研院生醫所) 吳映函
+- 2020 蔡漢龍(康健基因) 鄺芷君(聯發科) 鄭惟文(新加坡商異域)
+- 2019 楊鎮遠(長庚生資)
+- 2018 林洋名(台大洪士灝老師/東森/台積電) 藍逵原(國衛院廖本揚老師) 甘岱珺(台灣英科智能 Insilico Medicine/TOMTOM)
+- 2017 劉義瑋 - 國泰金控 (廖文宏老師共同指導)
+
+Undergraduate
+
+- 2023 葉俁喆 梁一淳 黃競
+- 2022 高銘陽 陳智詮 李宇晴(中央資工)
+- 2021 賴宥辰(台大) 林琖崴 李佳旻 翁義甫(趨勢科技)
+- 2019 邱斯(台大網媒) 陳則明(陽明交通網工) 胡鈞彥(政大心理) 許淳荏
+- 2018 林倢希(UIC) 徐子崴(台大電機) 張哲瑜 黃渝庭(政大資科)
+- 2017 張芷銓 蔡漢龍(政大資科) 張維庭(UCR) 林賦安(中央資工) 董君暉(~2017/06)
+
+---
+
+## Presentations
+Source: https://changlabtw.github.io/lab/presentations.html
+
+Investigating the Mechanisms of TAD Formation
+
+Chromosome 3D structure is a blueprint that may drive epigenome maintenance. Combining
+with NGS, Hi-C can provide high-resolution chromatin spatial contact information on a
+genome-wide scale. In this talk, we will discuss recent advances in Hi-C map analysis
+and 3D genome folding, including:
+
+- HiCmapTools: A new tool for efficiently accessing Hi-C maps.
+- Deep learning for TAD recognition: A deep learning approach was developed to recognize TADs in Hi-C maps accurately.
+- Identification of insulator elements in Drosophila: Hi-C was used to identify hundreds of insulator elements in Drosophila cells lacking the key insulator proteins CTCF and Cp190.
+- TADs as 3D structural units: TADs are fundamental 3D genome units that engage in dynamic higher-order inter-TAD connections.
+
+References
+
+- 2023 Science Advances Topological screen identifies hundreds of Cp190-and CTCF-dependent Drosophila chromatin insulator elements
+- 2022 BMC Bioinformatics HiCmapTools: a tool to access HiC contact maps
+- 2021 BMC Bioinformatics Pattern recognition of topologically associating domains using deep learning
+
+ Computational protein function prediction
+
+Biological data has grown explosively with the advance of next-generation sequencing.
+However, annotating protein function with wet lab experiments is time-consuming.
+Fortunately, computational function prediction can help wet labs formulate biological
+hypotheses and prioritize experiments. We have developed, GODoc, a novel and effective
+strategy to incorporate a training procedure into the k-nearest neighbor algorithm
+(instance-based learning) which is capable of solving the Gene Ontology (GO)
+multiple-label prediction problem, which is especially notable given the thousands of
+GO terms. In the CAFA3 competition (68 teams), GODoc ranks 10th in Cellular Component
+Ontology. In the term-centric task, GODoc performs third and is tied for first for the
+biofilm formation of Pseudomonas aeruginosa and the long-term memory of Drosophila
+melanogaster, respectively. Besides GO prediction, we present PSLCNN, a model using deep
+neural networks to predict protein subcellular localization for eukaryotes and
+prokaryotes. Compared with the state-of-the-art tools, PSLCNN achieves the best
+performance for prokaryotes and is comparable for eukaryotes.
+
+References
+
+- GODoc
+  - 2019 Genome biology The CAFA challenge reports improved protein function prediction and new functional annotations for hundreds of genes through experimental screens — team: NCCUCS
+  - 2019 BMC bioinformatics GODoc: A High-Throughput Protein Function Prediction using the Novel k-nearest-neighbor and Voting algorithms
+- PSLCNN
+  - 2019 TAAI PSLCNN: Protein Subcellular Localization Prediction for Eukaryotes and Prokaryotes Using Deep Learning
+  - 2013 PLoS one Efficient and interpretable prediction of protein functional classes by Correspondence Analysis and Compact Set Relations
+  - 2008 Proteins PSLDoc: Protein subcellular localization prediction based on gapped-dipeptides and probabilistic latent semantic analysis
+
+ From sequence alignment to phylogenetic reconstruction: how to enrich signal to noise ratio?
+
+Most evolutionary analyses or structure modeling are based upon pre-estimated multiple
+sequence alignment (MSA) models. From a computational point of view, it is too complex
+to estimate a correct alignment. Hence, increasing or identifying signal inside sequence
+alignment has intensified over the last few years. During the presentation, I would like
+to share our couple works on this topic.
+
+The first part, transmembrane proteins (TMPs) constitute about 20~30% of all protein
+coding genes. We show how homology extension can be adapted and combined with a
+consistency based approach in order to significantly improve the multiple sequence
+alignment of alpha-helical TMPs. Then, homology and evolutionary modeling are the most
+common applications of MSAs. Both are known to be sensitive to the underlying MSA
+accuracy. We show how this problem can be partly overcome using the transitive
+consistency score (TCS), an extended version of the T-Coffee scoring scheme. Using this
+local evaluation function, we show that one can identify the most reliable portions of
+an MSA, as judged from BAliBASE and PREFAB structure-based reference alignments.
+Finally, We demonstrate that incorporating MSA induced uncertainty into bootstrap
+sampling can significantly increase correlation between clade correctness and its
+corresponding bootstrap value. Our procedure involves concatenating several alternative
+multiple sequence alignments of the same sequences, produced using different commonly
+used aligners. We then draw bootstrap replicates while favoring columns of the more
+unique aligner among the concatenated aligners.
+
+References\
+
+- PSI/TM-Coffee
+  - 2016 Nucleic acids research PSI/TM-Coffee: a web server for fast and accurate multiple sequence alignments of regular and transmembrane proteins using homology extension on reduced databases
+  - 2012 BMC Bioinformatics Accurate multiple sequence alignment of transmembrane proteins with PSI-Coffee
+- TCS
+  - 2015 Nucleic acids research TCS: a web server for multiple sequence alignment evaluation and phylogenetic reconstruction
+  - 2014 Molecular biology and evolution TCS: a new multiple sequence alignment reliability measure to estimate alignment accuracy and improve phylogenetic tree reconstruction
+- wpSBOOST
+  - 2019 Bioinformatics Incorporating alignment uncertainty into Felsenstein's phylogenetic bootstrap to improve its reliability
+
+\ with great help and supervision by
+Paolo Di Tommaso and
+Cedric Notredame
+
+ Talks
+
+ 2017
+
+- 12.NOV 電腦不只選土豆，還會看病給藥與猜功能？ — 資料科學者年會. Taipei, Taiwan
+- 24.JUN Influence of alignment uncertainty on homology and phylogenetic modeling — The 25th South Taiwan Statistics Conference, National Taipei University, Taiwan
+- 20.MAY High-throughput Protein Functional Prediction by Data Science Approach — The 34th Workshop on Combinatorial Mathematics and Computation Theory, Feng Chia University, Taiwan
+- 20.MAY Influence of alignment uncertainty on homology and phylogenetic modeling — The 34th Workshop on Combinatorial Mathematics and Computation Theory, Feng Chia University, Taiwan
+- 30.MAR Influence of alignment uncertainty on homology and phylogenetic modeling — Seminar, Taipei Medical School. Taipei, Taiwan
+- 24.MAR 資訊怎麼幫助生物科技? 讓我們從人類基因體計畫聊 — Seminar, 大同高中. Taipei, Taiwan
+- 02.MAR Influence of alignment uncertainty on homology and phylogenetic modeling — Seminar, TIGP. IIS, Taipei, Taiwan
+- 21.FEB Influence of alignment uncertainty on homology and phylogenetic modeling — Seminar, 政治大學神經科學所. Taipei, Taiwan
+
+ 2016
+
+- 25.NOV How to enrich signal-to-noise ratio in sequence alignment? — Oral at International Symposium on Evolutionary Genomics and Bioinformatics, Kaohsiung, Taiwan
+- 08.NOV How to enrich signal-to-noise ratio in sequence alignment? Homology and Sampling approaches — Seminar at 逢甲大學. Taichung, Taiwan
+- 07.NOV How to enrich signal-to-noise ratio in sequence alignment? Homology and Sampling approaches — Seminar at 政治大學應用物理所. Taipei, Taiwan
+- 22.SEP 如何豐富序列比對中的信噪比？利用同源性擴展與取樣方法 — Seminar at 政治大學資科系碩班 Seminar. Taichung, Taiwan
+- 21.SEP How to enrich signal-to-noise ratio in sequence alignment? Sampling approaches — Seminar at 台北市立大學. Taipei, Taiwan
+- 04.MAY 生物＋資訊? 以染色體3級結構為例 — Seminar at 政大理學院. Taipei, Taiwan
+- 24.MAR From Alignments to Phylogeny — Lecture at TIGP, Academia Sinica. Taipei, Taiwan
+
+ 2015
+
+- 19.JAN TCS: A New Multiple Sequence Alignment Reliability Measure to Estimate Alignment Accuracy and Improve Phylogenetic Tree Reconstruction — AYRCOB, National Chiao Tung University. Hsinchu, Taiwan
+
+ 2013
+
+- 03.OCT Efficient and interpretable prediction of protein functional classes by correspondence analysis and compact set relations — Seminar at PRBB Computational Genomics Seminars. Barcelona, Spain
+- 01.APR Influence of alignment uncertainty on homology and phylogenetic modeling + prediction of protein functional classes — Seminar at Institute of Statistics, National Chiao Tung University. HsinChu, Taiwan
+
+---
+
+## Projects
+Source: https://changlabtw.github.io/lab/projects.html
+
+科技部／國科會
+
+- 115-2926-I-004-501 國際期刊 NAR Genomics and Bioinformatics 副主編之編輯行政支持計畫(1/2)
+- 115-2221-E-004-006 StructShap:發展含染色體結構資訊之可解釋人工智慧框架並應用於基因體學
+- 114-2221-E-004-008- HiBERT: 結合表觀基因組模式與三維空間結構的語言模型框架
+- 111-2221-E-004-011-MY3 透過網路分析來捕捉高通量染色體結構捕獲技術資料重要訊號
+- 108-2628-E-004-001-MY3 高通量染色體結構捕獲技術分析平台（優秀年輕學者研究計畫）
+- 106-2221-E-004-011-MY2 如何利用序列比對不確定性來改進演化信心度評估? 自助抽樣法與序列比對空間模型（新進人員研究計畫）
+- 105-2218-E-004-003 表觀遺傳學與染色體架構整合分析平台:高通量染色體結構捕獲連結網路
+
+ 教育部
+
+- 109F109054, 109/08/01~111/07/31 教育部人工智慧技術與應用領域系列課程計畫
+- 107F107097, 107/12/01~109/07/31 教育部人工智慧技術與應用領域系列課程計畫-資訊科學、大數據分析、社群媒體與大數據分析、大數據分析與金融科技（協同主持人）
+- 05F105049, 105/08/01~106/07/31, 扎根高中職資訊科學教育計畫（共同主持人）
+
+ 大專學生研究計畫
+
+- 110-2813-C-004-005-E 李佳雯 CutIntStr:基因體數字串表達法的應用探討
+- 108-2813-C-004-006-E 邱斯 HiSiri: Hi-c improve sequence assembly in reads integration
+- 107-2813-C-004-048-E 林倢希 利用機器學習與圖形理論找尋卵巢癌篩檢重要的 miRNA 與 mRNA
+- 107-2813-C-004-049-E 徐子崴 蛋白質功能之大數據預測利用深度學習平台
+- 106-2813-C-004-036-E 張維庭 Hi-C 巨量資料處理程式
+- 106-2813-C-004-037-E 蔡漢龍 如何建立巨量同源基因演化樹?利用分群串接法
+
+ 大學部專題
+
+實驗室：生物資料科學實驗室 (Bioinformatic Data Science Lab) @ 403
+研究方向：如何應用資訊方法來處理生物資料?
+
+1082 專題研究主題
+
+- MS2CNN: 架設MS/MS質譜儀預測伺服器
+- GODoc: 架設蛋白質功能預測預測伺服器
+- TADL: 利用深度學習預測拓撲結構域
+
+1072 專題研究主題
+
+- 利用染色體三級結構資訊來重組基因體
+- 應用次世代序列資料尋找母胎發炎子代精神疾病生物特徵
+- 儲存個人基因體區塊鏈平台
+
+1062 專題研究主題
+
+- 應用深度學習方法來預測蛋白質功能
+- 應用次世代序列資料尋找卵巢癌的生物特徵
+
+1052 專題研究主題
+
+- 染色體結構 HiC 視覺化平台
+- 巨量序列比對/演化樹建置
+- 應用機器學習方法來預測蛋白質功能
+
+如果你/妳是柯南(擅長資料分析)、阿宅(喜歡寫程式)、傑森包恩(我都自己搞定)
+歡迎 email 約時間。
+也歡迎路過走過但不要錯過，跟實驗室學長姐聊聊
+
+---
+
+## Goodies
+Source: https://changlabtw.github.io/lab/goodies.html
+
+Biology
+
+入門書籍
+
+Molecular Biology made simple and fun — by David P. Clark, Lonnie D. Russell
+
+ Informatics
+
+Linux 使用
+
+基本指令介紹 - 鳥哥的Linux 私房菜
+
+R Language — 書籍
+
+Zumel, N. & Mount, J. Practical Data Science with R. (Manning, 2014). ISBN-10: 1617291560
+
+R Language — 參考課程
+
+- R 語言翻轉教室 by Wush Wu、Chih Cheng Liang和Johnson Hsieh
+
+ Bioinformatics
+
+入門書籍
+
+Bioinformatics For Dummies 2nd Edition — by Jean-Michel Claverie, Cedric Notredame
+
+ Others
+
+READING SCIENTIFIC PAPERS by Robert David Siegel
+
+ Running & Swimming
+
+| 日期 | 距離 | 成績 | 賽事 |
+|---|---|---|---|
+| 2012/09/16 | 10km | 57:54 | Cursa de la Mercè |
+| 2011/10/09 | 04km | 20:14 | Cursa Vencer el Cancer |
+| 2011/07/09 | 10km | 56:28 | London 10km |
+| 2010/12/31 | 10km | 51:09 | Cursa dels Nassos-Gran Premi Ibercaja |
+| 2010/04/18 | 10km | 49:50 | Cursa Bombers |
+| 2009/04/05 | 10km | 53:17 | Cursa Bombers |
+| 2007/06/28 | 5.2km | 3h:26m | Balaton-crossing swimming competitions, Revfulop Hungary |
+| 2006/11/04 | 21.5km | 2:27:56 | Half Marathon, Taroko Internaltional Marathon, Hualien, Taiwan |
+
+---
+
+## Contact
+Source: https://changlabtw.github.io/lab/contact.html
+
+Getting in Touch
+
+- If you are interested in visiting/joining our group, please contact Jia-Ming Chang.
+- 如果你是碩博士班的學生，對如何應用資料科學方法在生物資訊課題感興趣，歡迎來信或帶著你的想法， 來辦公室一起討論。
+- 如果你是大學生，想體驗何謂生物資訊，歡迎來信告知之前的經驗、修過哪些相關課程和可投入研究的時間。本研究室全力支持你邁向科學研究之路。
+
+ Office & Address
+
+Telephone
++886-2-2939309167620, 62071 (lab)
+
+Fax
++886-2-22341494
+
+Office hour
+Wednesday 10:00 ~ 12:00
+
+Address
+11605 台北市文山區指南路二段64號
+國立政治大學資訊科學系 大仁樓
+
+No. 64, Section 2, Zhinan Rd, Wenshan District, Taipei City, 11605, Taiwan
+Dep. of Computer Science, National Chengchi Uni.
+
+Office @ 大仁樓 DaRen building 200 313（大仁樓樓梯往上走兩層，右轉，在教師研究室左手邊最後一間）
+Lab @ 大仁樓 DaRen building 200 403（大仁樓樓梯往上走到頂，左轉第一間）
+
+---
+
+## News
+Source: https://changlabtw.github.io/lab/news.html
+
+
+
+---
+
