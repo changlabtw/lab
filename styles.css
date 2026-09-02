@@ -116,6 +116,12 @@ main a:hover { color: var(--olive); }
   padding: .55rem 0;
   border-bottom: 1px solid var(--rule);
 }
+/* pandoc 把 ::: 區塊裡的每一段各包成一個 <p>,所以 .news-date 與 .news-cat
+   不是 grid 的直接子元素 —— 前兩欄因此永遠空著,整則消息被擠到第三欄,
+   左邊多出一塊白。(與 pi 頁大頭貼被 <figure> 蓋掉浮動是同一類問題:
+   Quarto 產生的包裝層會打斷你以為直接生效的版面規則。)
+   display: contents 讓那層 <p> 從版面上消失,裡面的 span 直接變成 grid item。 */
+.news-item > p:first-child { display: contents; }
 .news-item > p { margin: 0; grid-column: 3; }
 .news-date {
   grid-column: 1;

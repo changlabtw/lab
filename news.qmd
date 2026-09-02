@@ -8,7 +8,7 @@ description: News from Jia-Ming Chang's Bioinformatic Data Science Lab at Nation
 ::: {.news-item}
 [2026]{.news-date}[service]{.news-cat .news-cat-service}
 
-[Program Committee, InCoB/ISCB-APAC 2026（第 25 屆銀禧場）](https://incob.apbionet.org/incob2026/committee/)
+[Program Committee, InCoB/ISCB-APAC 2026](https://incob.apbionet.org/incob2026/committee/)
 :::
 ::: {.news-item}
 [2024-11]{.news-date}[service]{.news-cat .news-cat-service}
