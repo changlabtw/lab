@@ -11,7 +11,7 @@ data to enable hierarchical clustering and visualization while identifying signi
 attributes that characterize cell subpopulations
 [2025, PMID: [40811172](https://pubmed.ncbi.nlm.nih.gov/40811172/)]. — Fang Yu
 
-[Web server](https://scghsom.changlabtw.com/)
+[Code](https://github.com/changlabtw/scGHSOM)
 
 ## Genome Organization
 
