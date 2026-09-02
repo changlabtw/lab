@@ -23,7 +23,6 @@ Zumel, N. & Mount, J. Practical Data Science with R. (Manning, 2014). ISBN-10: 1
 **R Language — 參考課程**
 
 - [R 語言翻轉教室](http://datascienceandr.org/) by [Wush Wu、Chih Cheng Liang和Johnson Hsieh](https://github.com/wush978/DataScienceAndR)
-- [104.2 Data Science in Pracitice](http://www.cs.nccu.edu.tw/~jmchang/course/1042/datascience/)
 
 ## Bioinformatics
 

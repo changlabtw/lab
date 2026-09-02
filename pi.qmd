@@ -68,7 +68,7 @@ Science and Technology.
 
 - **02/2016-02/2022** Assistant Professor — Dep. of Computer Science, National Chengchi university
 - **01/2014-02/2016** Postdoc — [Institute of Human Genetics](https://www.igh.cnrs.fr/en) (IGH), CNRS, France, Dr. [Giacomo Cavalli](https://www.igh.cnrs.fr/en/research/departments/genome-dynamics/chromatin-and-cell-biology)'s Lab
-- **07/2013-12/2013** Postdoc — [Centre for Genomic Regulation](https://www.crg.eu/) (CRG) and Universitat Pompeu Fabra (UPF), Spain, Dr. [Cedric Notredame](https://www.crg.eu/cedric_notredame)'s Lab
+- **07/2013-12/2013** Postdoc — [Centre for Genomic Regulation](https://www.crg.eu/) (CRG) and Universitat Pompeu Fabra (UPF), Spain, Dr. [Cedric Notredame](https://mbzuai.ac.ae/study/faculty/cedric-notredame/)'s Lab
 - **02/2013-03/2013** Intern Student — Biodiversity Research Center, Academia Sinica, Taiwan, Dr. Wen-Hsiung Li's Lab
 - **05/2011-07/2011** Intern Student — Comparative Genomics, European Bioinformatics Institute, UK, Dr. Javier Herrero
 - **10/2002-08/2008** Research Assistant — Institute of Information Science, Academia Sinica, Dr. Wen-Lian Hsu and Dr. Ting-Yi Sung
