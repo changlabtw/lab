@@ -1,0 +1,59 @@
+---
+title: Reproducibility
+description: 'How Jia-Ming Chang''s lab at NCCU releases code and data: where to find it, what licence
+  it carries, and the standard each new release is held to.'
+---
+[The Bioinformatic Data Science Lab, NCCU — led by Jia-Ming Chang (張家銘), Associate Professor of Computer Science at National Chengchi University, Taipei, Taiwan.]{.identity-line}
+
+A result you cannot rerun is a claim, not a finding. This page states where our
+code and data live, what you are allowed to do with them, and the standard we
+hold each new release to.
+
+## Where to find it
+
+- **[Publications](publications.html)** — each selected paper carries
+  *Code*, *Data* and *Web server* buttons where those exist.
+- **[Research](research.html)** — a *Data & Code* list under each research direction.
+- **[Packages](packages.html)** — every tool and server in one place.
+- **[github.com/changlabtw](https://github.com/changlabtw)** — the lab's repositories.
+
+Sequencing data underlying our papers is deposited in the public archive
+appropriate to the data type; accession numbers are given in the paper itself,
+which stays the authoritative record.
+
+## Licensing
+
+Each repository states its own licence — check the `LICENSE` file before reusing
+code. Text and figures on this site are
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+Code with no licence file is, legally, all rights reserved: nobody may reuse it,
+whatever the intent. A missing licence is a bug, and we treat it as one.
+
+## What a release contains
+
+The standard for anything we publish alongside a paper:
+
+1. **A README that names versions.** Dependencies with the versions actually used,
+   not "recent". A reader six years from now has no way to guess.
+2. **A worked example on small data.** Something that runs in minutes and produces
+   output the reader can compare against. Without it, a failed install is
+   indistinguishable from a broken tool.
+3. **A `LICENSE` file.** See above.
+4. **A container where the dependency chain is awkward.** Bioinformatics pipelines
+   rot from underneath — a Docker image is often the only thing that still runs.
+5. **A tag or archived DOI at publication time.** `main` moves; the paper's
+   results came from one specific state of the code.
+
+[wpSBOOT](https://github.com/changlabtw/wpSBOOT) is the reference: pinned
+dependency versions, a Docker image, continuous integration, and a runnable
+example.
+
+## Something missing or broken?
+
+Links rot because other people shut services down, not because we changed
+anything — this site's external links are checked monthly, but archives and
+servers outside our control still disappear. If a link is dead, a dataset is
+not where the paper says it is, or an example does not run, please
+[get in touch](contact.html) or open an issue on the repository. We would
+rather hear it from you than not know.

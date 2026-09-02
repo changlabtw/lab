@@ -228,3 +228,41 @@ img.portrait {
 }
 
 footer, .nav-footer { border-top: 1px solid var(--rule); color: var(--muted); }
+
+/* ------------------------------------------------- code / data 按鈕 */
+/* 基因體領域現在直接用「有沒有釋出 code 與 data」判斷研究嚴謹度,所以這些
+   要能被掃到 —— 做成按鈕而不是內文連結,是為了讓「沒有」也一樣顯眼。 */
+.pub-link {
+  display: inline-block;
+  margin: .2rem .35rem 0 0;
+  padding: .18rem .6rem;
+  border: 1px solid var(--teal);
+  border-radius: 2px;
+  font-size: .74rem;
+  font-weight: 600;
+  letter-spacing: .05em;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: #0b6e66 !important;
+  background: #fff;
+}
+.pub-link:hover { background: var(--teal); color: #fff !important; }
+/* data 用另一個顏色:code 與 data 是兩種不同的承諾,同色就看不出少了哪一種 */
+.pub-link-data { border-color: var(--olive); color: #5f7a00 !important; }
+.pub-link-data:hover { background: var(--olive); }
+
+/* ------------------------------------- research 頁的 Data & Code 小節 */
+.res-kind {
+  font-size: .64rem;
+  font-weight: 600;
+  letter-spacing: .06em;
+  text-transform: uppercase;
+  padding: .08rem .4rem;
+  border-radius: 2px;
+  color: #fff;
+  background: var(--teal);
+  white-space: nowrap;
+}
+.res-kind-data { background: var(--olive); }
+.res-kind-web { background: #5b6b7a; }
+.res-meta { font-size: .82rem; color: var(--muted); }

@@ -26,6 +26,8 @@ website:
       text: LAB
     - text: MORE
       menu:
+      - href: reproducibility.qmd
+        text: REPRODUCIBILITY
       - href: presentations.qmd
         text: PRESENTATIONS
       - href: projects.qmd

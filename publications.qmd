@@ -121,6 +121,9 @@ A topological screen in *Drosophila* cells lacking CTCF and Cp190 identifies hun
 Sampling alignment columns across alternative aligners enhances the discriminative power of bootstrap support regarding tree topology correctness.
 :::
 
+
+[Code](https://github.com/changlabtw/wpSBOOT){.pub-link .pub-link-code} [Web server](https://changlabtw.github.io/wpSBOOT/){.pub-link .pub-link-web}
+
 :::
 
 ::: {.pub-card}
@@ -135,6 +138,9 @@ Yang-Ming Lin, Ching-Tai Chen, **Jia-Ming Chang**\*
 ::: {.pub-why}
 Predicted MS2 spectra improve the sensitivity and coverage of peptide identification. MS2CNN was among the first deep-learning approaches to this problem, outperforming MS2PIP, matching pDeep overall, and performing best on the hardest 3+ charge peptides.
 :::
+
+
+[Code](https://github.com/changlabtw/MS2CNN){.pub-link .pub-link-code}
 
 :::
 
@@ -151,6 +157,9 @@ Predicted MS2 spectra improve the sensitivity and coverage of peptide identifica
 The reliability of a multiple sequence alignment can be robustly quantified using the Transitive Consistency Score, derived from the T-Coffee pairwise library.
 :::
 
+
+[Web server](http://tcoffee.crg.cat/core){.pub-link .pub-link-web}
+
 :::
 
 ::: {.pub-card}
@@ -165,6 +174,9 @@ The reliability of a multiple sequence alignment can be robustly quantified usin
 ::: {.pub-why}
 Homology extension combined with a consistency-based approach significantly improves the multiple sequence alignment of alpha-helical transmembrane proteins.
 :::
+
+
+[Web server](http://tcoffee.crg.cat/apps/tcoffee/do:tmcoffee){.pub-link .pub-link-web}
 
 :::
 

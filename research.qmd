@@ -16,6 +16,13 @@ rather than loop formation
 Repressed TADs are 3D structural units of chromosome organization in *Drosophila*
 [2018, [PMID: 295038](https://www.ncbi.nlm.nih.gov/pubmed/?term=29503869)]. — Giacomo Cavalli
 
+### Data & Code
+
+- [**HiCmapTools**](https://github.com/changlabtw/hicmaptools) [Code]{.res-kind .res-kind-code}  
+  Command-line access to Hi-C contact maps, with multi-query modes and analysis tools.
+
+### Publications
+
 - [Topological screen identifies hundreds of Cp190- and CTCF-dependent Drosophila chromatin insulator elements](https://doi.org/10.1126/sciadv.ade0090)  
   *2023 · Science Advances*
 - [Pattern recognition of topologically associating domains using deep learning](https://doi.org/10.1186/s12859-022-05075-1)  
@@ -37,6 +44,24 @@ library. — Cedric Notredame
 
 - method [2014, [PMID: 24694831](https://www.ncbi.nlm.nih.gov/pubmed/?term=24694831)]
 - server [2015, [PMID: 25855806](https://www.ncbi.nlm.nih.gov/pubmed/?term=25855806)]
+
+### Data & Code
+
+- [**wpSBOOT**](https://github.com/changlabtw/wpSBOOT) [Code]{.res-kind .res-kind-code}  
+  Weighted partial super bootstrap — propagates alignment uncertainty into phylogenetic support values. Ships with a Docker image and continuous integration.  
+  [GPL-3.0 · [paper](https://doi.org/10.1093/bioinformatics/btz082)]{.res-meta}
+- [**wpSBOOT web server**](https://changlabtw.github.io/wpSBOOT/) [Web server]{.res-kind .res-kind-web}  
+  Run wpSBOOT without installing anything.
+- [**Transitive Consistency Score**](http://tcoffee.crg.cat/core) [Web server]{.res-kind .res-kind-web}  
+  Score the local reliability of a multiple sequence alignment.  
+  [[paper](https://doi.org/10.1093/molbev/msu117)]{.res-meta}
+- [**PSI/TM-Coffee**](http://tcoffee.crg.cat/apps/tcoffee/do:tmcoffee) [Web server]{.res-kind .res-kind-web}  
+  Homology-extended alignment of transmembrane and globular proteins.  
+  [[paper](https://doi.org/10.1186/1471-2105-13-s4-s1)]{.res-meta}
+- [**BigBigTree**](http://tcoffee.crg.cat/apps/bigtree/) [Web server]{.res-kind .res-kind-web}  
+  Tree reconstruction for large orthologous families.
+
+### Publications
 
 - [Incorporating alignment uncertainty into Felsenstein’s phylogenetic bootstrap to improve its reliability](https://doi.org/10.1093/bioinformatics/btz082)  
   *2021 · Bioinformatics*
@@ -70,7 +95,12 @@ data to enable hierarchical clustering and visualization while identifying signi
 attributes that characterize cell subpopulations
 [2025, PMID: [40811172](https://pubmed.ncbi.nlm.nih.gov/40811172/)]. — Fang Yu
 
-[Code](https://github.com/changlabtw/scGHSOM)
+### Data & Code
+
+- [**scGHSOM**](https://github.com/changlabtw/scGHSOM) [Code]{.res-kind .res-kind-code}  
+  Growing hierarchical self-organizing map for clustering and visualizing single-cell data, with attribute-level interpretation of subpopulations.
+
+### Publications
 
 - [scGHSOM: A Hierarchical Framework for Single-Cell Data Clustering and Visualization](https://doi.org/10.1109/TCBBIO.2025.3593632)  
   *2026 · IEEE Transactions on Computational Biology and Bioinformatics*
@@ -88,6 +118,21 @@ Dimensionality reduction techniques, such as PLSA, CA, and PCA, not only enhance
 performance but also uncover latent relationships within the data
 [[PMID:18260102](https://www.ncbi.nlm.nih.gov/pubmed/?term=18260102),
 [PMID:24146760](https://www.ncbi.nlm.nih.gov/pubmed/?term=24146760)].
+
+### Data & Code
+
+- [**MS2CNN**](https://github.com/changlabtw/MS2CNN) [Code]{.res-kind .res-kind-code}  
+  Deep convolutional networks that predict MS/MS spectra from peptide sequence.  
+  [GPL-3.0 · [paper](https://doi.org/10.1186/s12864-019-6297-6)]{.res-meta}
+- [**PSLCNN**](https://github.com/changlabtw/PSLCNN) [Code]{.res-kind .res-kind-code}  
+  Protein subcellular localization with convolutional neural networks.  
+  [GPL-3.0]{.res-meta}
+- [**PSLDoc**](https://github.com/jmchanglab/PSLDoc) [Code]{.res-kind .res-kind-code}  
+  Subcellular localization from gapped dipeptides and probabilistic latent semantic analysis.
+- [**GODoc**](https://github.com/changlabtw/GODoc) [Code]{.res-kind .res-kind-code}  
+  High-throughput Gene Ontology term prediction from protein sequence.
+
+### Publications
 
 - [GODoc: high-throughput protein function prediction using novel k-nearest-neighbor and voting algorithms](https://doi.org/10.1186/s12859-020-03556-9)  
   *2020 · BMC Bioinformatics*

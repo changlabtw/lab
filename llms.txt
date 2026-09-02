@@ -59,6 +59,7 @@ Verified profiles for the same person:
 - [Publications](https://changlabtw.github.io/lab/publications.html) — Selected publications of Jia-Ming Chang, National Chengchi University — 3D genome, bioinformatics methods and protein function prediction.
 - [Packages](https://changlabtw.github.io/lab/packages.html) — Bioinformatics software and web servers from Jia-Ming Chang's lab: HiCmapTools, TCS, PSI/TM-Coffee, wpSBOOT, PSLDoc and GODoc.
 - [Lab](https://changlabtw.github.io/lab/team.html) — Members and alumni of the Bioinformatic Data Science Lab at National Chengchi University, led by Jia-Ming Chang.
+- [Reproducibility](https://changlabtw.github.io/lab/reproducibility.html) — How Jia-Ming Chang's lab at NCCU releases code and data: where to find it, what licence it carries, and the standard each new release is held to.
 - [Presentations](https://changlabtw.github.io/lab/presentations.html) — Invited talks and seminars by Jia-Ming Chang on Hi-C and TAD formation, computational protein function prediction and sequence alignment.
 - [Projects](https://changlabtw.github.io/lab/projects.html) — Funded research projects of Jia-Ming Chang at National Chengchi University, including NSTC grants on 3D genome analysis and bioinformatics.
 - [Goodies](https://changlabtw.github.io/lab/goodies.html) — Reading list and learning resources in biology, bioinformatics, Linux and R, curated by Jia-Ming Chang's lab.
