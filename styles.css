@@ -77,10 +77,14 @@ main a:hover { color: var(--olive); }
   background: #fbfcfd;
 }
 
-/* PI 頁的大頭貼 */
-.portrait { float: right; width: 190px; margin: 0 0 1.2rem 1.6rem; border-radius: 3px; }
+/* PI 頁的大頭貼。
+   Quarto 會把圖片包成 <div class="quarto-figure"><figure>...</figure></div>,
+   所以浮動要套在外層容器上 —— 只套 img 的話浮動不會生效。 */
+.quarto-figure:has(.portrait) { float: right; width: 190px; margin: 0 0 1.2rem 1.6rem; }
+.portrait { width: 100%; border-radius: 3px; }
+.quarto-figure:has(.portrait) figure { margin: 0; }
 @media (max-width: 40rem) {
-  .portrait { float: none; display: block; margin: 0 auto 1.2rem; }
+  .quarto-figure:has(.portrait) { float: none; width: 190px; margin: 0 auto 1.2rem; }
 }
 
 footer, .nav-footer { border-top: 1px solid var(--rule); color: var(--muted); }

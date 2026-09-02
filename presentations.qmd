@@ -1,7 +1,7 @@
 ---
 title: Presentations
-description: Invited talks and seminars by Jia-Ming Chang on Hi-C and TAD formation, computational protein
-  function prediction and sequence alignment.
+description-meta: Invited talks and seminars by Jia-Ming Chang on Hi-C and TAD formation, computational
+  protein function prediction and sequence alignment.
 ---
 
 ## Investigating the Mechanisms of TAD Formation

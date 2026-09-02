@@ -1,7 +1,7 @@
 ---
 title: Jia-Ming Chang 張家銘
-description: Jia-Ming Chang, Associate Professor of Computer Science at National Chengchi University —
-  bioinformatics, 3D genome and computational biology.
+description-meta: Jia-Ming Chang, Associate Professor of Computer Science at National Chengchi University
+  — bioinformatics, 3D genome and computational biology.
 include-in-header:
   text: "<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\"\
     : \"Person\",\n  \"name\": \"Jia-Ming Chang\",\n  \"jobTitle\": \"Associate Professor\",\n  \"url\"\
@@ -30,7 +30,7 @@ include-in-header:
     \n    }\n  ]\n}\n</script>\n"
 ---
 
-![Jia-Ming Chang](media/pi.jpg){.portrait}
+![](media/pi.jpg){.portrait fig-alt="Jia-Ming Chang"}
 
 Associate professor since 2022/02
 Department of Computer Science, National Chengchi University
@@ -65,6 +65,7 @@ Science and Technology.
   Compact Set Relation and Its Application in the Evaluation of the Evolutionary Tree and Multiple Sequence Alignment
   Supervisor: Dr. Chuan Yi Tang
 - **09/1996-06/2000** B.S. Dep. of Computer Science, National Tsing Hua University, Taiwan
+  *Admitted through the first cohort of special admission quotas for recommended students（第一屆推薦甄試入學）*
 
 ## Experience
 
@@ -83,7 +84,6 @@ Science and Technology.
 - 105/106年 科技部延攬特殊優秀人才
 - 06/2012, travel award, the Society for Molecular Biology & Evolution (SMBE) Dublin
 - 10/2008, fellowship, "la Caixa" International PhD Programme 4-year fellowships
-- 08/1996, special admission quotas for recommended students, National Tsing Hua University, Taiwan（第一屆推薦甄試入學）
 
 ## Services
 

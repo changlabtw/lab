@@ -1,7 +1,7 @@
 ---
 title: Research
-description: 'Research of Jia-Ming Chang''s lab: 3D genome organization, single-cell data analysis, protein
-  function prediction, sequence alignment and phylogenetics.'
+description-meta: 'Research of Jia-Ming Chang''s lab: 3D genome organization, single-cell data analysis,
+  protein function prediction, sequence alignment and phylogenetics.'
 ---
 
 ## Single-Cell Data Analysis {#single-cell}
