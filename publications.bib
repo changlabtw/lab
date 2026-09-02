@@ -1,0 +1,86 @@
+% 著作的單一來源。由 Zotero (Better BibTeX) 匯出,或手動維護。
+%
+% 兩個消費者:
+%   core/publish.py   網站的著作清單 —— 只取標了 keywords = {selected} 的
+%   core/assemble.py  投影片 deck 的 bibliography —— 可引用任何一筆
+%
+% 所以「想在投影片引用但不想放上網站」的論文,不要標 selected 就好。
+% 欄位契約見 SCHEMA.md;doi 一律寫裸的 10.xxxx/…,不要帶網址前綴。
+% 完整著作列表在 Google Scholar,這裡只放精選。
+
+@article{kahn2023topological,
+  author        = {Kahn, Tatyana G and Savitsky, Mikhail and Kuong, Chikuan and
+                   Jacquier, Caroline and Cavalli, Giacomo and Chang, Jia-Ming and
+                   Schwartz, Yuri B},
+  % 學名用 markdown 斜體:網站直接吃,pandoc 的 citeproc 也認得
+  title         = {Topological screen identifies hundreds of Cp190- and CTCF-dependent
+                   *Drosophila* chromatin insulator elements},
+  journal       = {Science Advances},
+  year          = {2023},
+  doi           = {10.1126/sciadv.ade0090},
+  corresponding = {Jia-Ming Chang and Yuri B Schwartz},
+  keywords      = {selected},
+  why      = {A topological screen in *Drosophila* cells lacking CTCF and Cp190 identifies
+             hundreds of insulator elements that modulate local chromatin interactions without
+             driving global genome folding, suggesting Cp190 functions by promoting insulator
+             protein cobinding rather than loop formation.},
+}
+
+@article{lin2019ms2cnn,
+  author   = {Lin, Yang-Ming and Chen, Ching-Tai and Chang, Jia-Ming},
+  title    = {MS2CNN: predicting MS/MS spectrum based on protein sequence using
+              deep convolutional neural networks},
+  journal  = {BMC Genomics},
+  year     = {2019},
+  doi      = {10.1186/s12864-019-6297-6},
+  keywords = {selected},
+  corresponding = {Jia-Ming Chang},
+  why      = {Predicted MS2 spectra improve the sensitivity and coverage of peptide
+             identification. MS2CNN was among the first deep-learning approaches to this problem,
+             outperforming MS2PIP, matching pDeep overall, and performing best on the hardest 3+
+             charge peptides.},
+}
+
+@article{chang2021bootstrap,
+  author   = {Chang, Jia-Ming and Floden, Evan W and Herrero, Javier and
+              Gascuel, Olivier and Di Tommaso, Paolo and Notredame, Cedric},
+  title    = {Incorporating alignment uncertainty into Felsenstein's phylogenetic
+              bootstrap to improve its reliability},
+  journal  = {Bioinformatics},
+  % 以正式出版(print)為準。online first 是 2019-02,兩個年份都看得到,
+  % 所以在這裡定調一次,不要每次引用都重新判斷。
+  year     = {2021},
+  volume   = {37},
+  number   = {11},
+  pages    = {1506--1514},
+  doi      = {10.1093/bioinformatics/btz082},
+  keywords = {selected},
+  note     = {online first 2019-02},
+  why      = {Sampling alignment columns across alternative aligners enhances the discriminative
+             power of bootstrap support regarding tree topology correctness.},
+}
+
+@article{chang2014tcs,
+  author   = {Chang, Jia-Ming and Di Tommaso, Paolo and Notredame, Cedric},
+  title    = {TCS: A New Multiple Sequence Alignment Reliability Measure to Estimate
+              Alignment Accuracy and Improve Phylogenetic Tree Reconstruction},
+  journal  = {Molecular Biology and Evolution},
+  year     = {2014},
+  doi      = {10.1093/molbev/msu117},
+  keywords = {selected},
+  why      = {The reliability of a multiple sequence alignment can be robustly quantified using
+             the Transitive Consistency Score, derived from the T-Coffee pairwise library.},
+}
+
+@article{chang2012psicoffee,
+  author   = {Chang, Jia-Ming and Di Tommaso, Paolo and Taly, Jean-François F and
+              Notredame, Cedric},
+  title    = {Accurate Multiple Sequence Alignment of Transmembrane Proteins with
+              PSI-Coffee},
+  journal  = {BMC Bioinformatics},
+  year     = {2012},
+  doi      = {10.1186/1471-2105-13-s4-s1},
+  keywords = {selected},
+  why      = {Homology extension combined with a consistency-based approach significantly improves
+             the multiple sequence alignment of alpha-helical transmembrane proteins.},
+}

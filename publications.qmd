@@ -2,6 +2,84 @@
 title: Publications
 description: Selected publications of Jia-Ming Chang, National Chengchi University — 3D genome, bioinformatics
   methods and protein function prediction.
+include-in-header:
+  text: "<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@graph\"\
+    : [\n    {\n      \"@type\": \"ScholarlyArticle\",\n      \"headline\": \"Topological screen identifies\
+    \ hundreds of Cp190- and CTCF-dependent Drosophila chromatin insulator elements\",\n      \"name\"\
+    : \"Topological screen identifies hundreds of Cp190- and CTCF-dependent Drosophila chromatin insulator\
+    \ elements\",\n      \"datePublished\": \"2023\",\n      \"author\": [\n        {\n          \"@type\"\
+    : \"Person\",\n          \"name\": \"Tatyana G Kahn\"\n        },\n        {\n          \"@type\"\
+    : \"Person\",\n          \"name\": \"Mikhail Savitsky\"\n        },\n        {\n          \"@type\"\
+    : \"Person\",\n          \"name\": \"Chikuan Kuong\"\n        },\n        {\n          \"@type\":\
+    \ \"Person\",\n          \"name\": \"Caroline Jacquier\"\n        },\n        {\n          \"@type\"\
+    : \"Person\",\n          \"name\": \"Giacomo Cavalli\"\n        },\n        {\n          \"@type\"\
+    : \"Person\",\n          \"name\": \"Jia-Ming Chang\",\n          \"identifier\": \"https://orcid.org/0000-0002-6711-1739\"\
+    \n        },\n        {\n          \"@type\": \"Person\",\n          \"name\": \"Yuri B Schwartz\"\
+    \n        }\n      ],\n      \"isPartOf\": {\n        \"@type\": \"Periodical\",\n        \"name\"\
+    : \"Science Advances\"\n      },\n      \"identifier\": {\n        \"@type\": \"PropertyValue\",\n\
+    \        \"propertyID\": \"DOI\",\n        \"value\": \"10.1126/sciadv.ade0090\"\n      },\n     \
+    \ \"sameAs\": \"https://doi.org/10.1126/sciadv.ade0090\",\n      \"url\": \"https://doi.org/10.1126/sciadv.ade0090\"\
+    ,\n      \"abstract\": \"A topological screen in Drosophila cells lacking CTCF and Cp190 identifies\
+    \ hundreds of insulator elements that modulate local chromatin interactions without driving global\
+    \ genome folding, suggesting Cp190 functions by promoting insulator protein cobinding rather than\
+    \ loop formation.\"\n    },\n    {\n      \"@type\": \"ScholarlyArticle\",\n      \"headline\": \"\
+    Incorporating alignment uncertainty into Felsenstein's phylogenetic bootstrap to improve its reliability\"\
+    ,\n      \"name\": \"Incorporating alignment uncertainty into Felsenstein's phylogenetic bootstrap\
+    \ to improve its reliability\",\n      \"datePublished\": \"2021\",\n      \"author\": [\n       \
+    \ {\n          \"@type\": \"Person\",\n          \"name\": \"Jia-Ming Chang\",\n          \"identifier\"\
+    : \"https://orcid.org/0000-0002-6711-1739\"\n        },\n        {\n          \"@type\": \"Person\"\
+    ,\n          \"name\": \"Evan W Floden\"\n        },\n        {\n          \"@type\": \"Person\",\n\
+    \          \"name\": \"Javier Herrero\"\n        },\n        {\n          \"@type\": \"Person\",\n\
+    \          \"name\": \"Olivier Gascuel\"\n        },\n        {\n          \"@type\": \"Person\",\n\
+    \          \"name\": \"Paolo Di Tommaso\"\n        },\n        {\n          \"@type\": \"Person\"\
+    ,\n          \"name\": \"Cedric Notredame\"\n        }\n      ],\n      \"isPartOf\": {\n        \"\
+    @type\": \"Periodical\",\n        \"name\": \"Bioinformatics\"\n      },\n      \"identifier\": {\n\
+    \        \"@type\": \"PropertyValue\",\n        \"propertyID\": \"DOI\",\n        \"value\": \"10.1093/bioinformatics/btz082\"\
+    \n      },\n      \"sameAs\": \"https://doi.org/10.1093/bioinformatics/btz082\",\n      \"url\": \"\
+    https://doi.org/10.1093/bioinformatics/btz082\",\n      \"abstract\": \"Sampling alignment columns\
+    \ across alternative aligners enhances the discriminative power of bootstrap support regarding tree\
+    \ topology correctness.\"\n    },\n    {\n      \"@type\": \"ScholarlyArticle\",\n      \"headline\"\
+    : \"MS2CNN: predicting MS/MS spectrum based on protein sequence using deep convolutional neural networks\"\
+    ,\n      \"name\": \"MS2CNN: predicting MS/MS spectrum based on protein sequence using deep convolutional\
+    \ neural networks\",\n      \"datePublished\": \"2019\",\n      \"author\": [\n        {\n       \
+    \   \"@type\": \"Person\",\n          \"name\": \"Yang-Ming Lin\"\n        },\n        {\n       \
+    \   \"@type\": \"Person\",\n          \"name\": \"Ching-Tai Chen\"\n        },\n        {\n      \
+    \    \"@type\": \"Person\",\n          \"name\": \"Jia-Ming Chang\",\n          \"identifier\": \"\
+    https://orcid.org/0000-0002-6711-1739\"\n        }\n      ],\n      \"isPartOf\": {\n        \"@type\"\
+    : \"Periodical\",\n        \"name\": \"BMC Genomics\"\n      },\n      \"identifier\": {\n       \
+    \ \"@type\": \"PropertyValue\",\n        \"propertyID\": \"DOI\",\n        \"value\": \"10.1186/s12864-019-6297-6\"\
+    \n      },\n      \"sameAs\": \"https://doi.org/10.1186/s12864-019-6297-6\",\n      \"url\": \"https://doi.org/10.1186/s12864-019-6297-6\"\
+    ,\n      \"abstract\": \"Predicted MS2 spectra improve the sensitivity and coverage of peptide identification.\
+    \ MS2CNN was among the first deep-learning approaches to this problem, outperforming MS2PIP, matching\
+    \ pDeep overall, and performing best on the hardest 3+ charge peptides.\"\n    },\n    {\n      \"\
+    @type\": \"ScholarlyArticle\",\n      \"headline\": \"TCS: A New Multiple Sequence Alignment Reliability\
+    \ Measure to Estimate Alignment Accuracy and Improve Phylogenetic Tree Reconstruction\",\n      \"\
+    name\": \"TCS: A New Multiple Sequence Alignment Reliability Measure to Estimate Alignment Accuracy\
+    \ and Improve Phylogenetic Tree Reconstruction\",\n      \"datePublished\": \"2014\",\n      \"author\"\
+    : [\n        {\n          \"@type\": \"Person\",\n          \"name\": \"Jia-Ming Chang\",\n      \
+    \    \"identifier\": \"https://orcid.org/0000-0002-6711-1739\"\n        },\n        {\n          \"\
+    @type\": \"Person\",\n          \"name\": \"Paolo Di Tommaso\"\n        },\n        {\n          \"\
+    @type\": \"Person\",\n          \"name\": \"Cedric Notredame\"\n        }\n      ],\n      \"isPartOf\"\
+    : {\n        \"@type\": \"Periodical\",\n        \"name\": \"Molecular Biology and Evolution\"\n \
+    \     },\n      \"identifier\": {\n        \"@type\": \"PropertyValue\",\n        \"propertyID\":\
+    \ \"DOI\",\n        \"value\": \"10.1093/molbev/msu117\"\n      },\n      \"sameAs\": \"https://doi.org/10.1093/molbev/msu117\"\
+    ,\n      \"url\": \"https://doi.org/10.1093/molbev/msu117\",\n      \"abstract\": \"The reliability\
+    \ of a multiple sequence alignment can be robustly quantified using the Transitive Consistency Score,\
+    \ derived from the T-Coffee pairwise library.\"\n    },\n    {\n      \"@type\": \"ScholarlyArticle\"\
+    ,\n      \"headline\": \"Accurate Multiple Sequence Alignment of Transmembrane Proteins with PSI-Coffee\"\
+    ,\n      \"name\": \"Accurate Multiple Sequence Alignment of Transmembrane Proteins with PSI-Coffee\"\
+    ,\n      \"datePublished\": \"2012\",\n      \"author\": [\n        {\n          \"@type\": \"Person\"\
+    ,\n          \"name\": \"Jia-Ming Chang\",\n          \"identifier\": \"https://orcid.org/0000-0002-6711-1739\"\
+    \n        },\n        {\n          \"@type\": \"Person\",\n          \"name\": \"Paolo Di Tommaso\"\
+    \n        },\n        {\n          \"@type\": \"Person\",\n          \"name\": \"Jean-François F Taly\"\
+    \n        },\n        {\n          \"@type\": \"Person\",\n          \"name\": \"Cedric Notredame\"\
+    \n        }\n      ],\n      \"isPartOf\": {\n        \"@type\": \"Periodical\",\n        \"name\"\
+    : \"BMC Bioinformatics\"\n      },\n      \"identifier\": {\n        \"@type\": \"PropertyValue\"\
+    ,\n        \"propertyID\": \"DOI\",\n        \"value\": \"10.1186/1471-2105-13-s4-s1\"\n      },\n\
+    \      \"sameAs\": \"https://doi.org/10.1186/1471-2105-13-s4-s1\",\n      \"url\": \"https://doi.org/10.1186/1471-2105-13-s4-s1\"\
+    ,\n      \"abstract\": \"Homology extension combined with a consistency-based approach significantly\
+    \ improves the multiple sequence alignment of alpha-helical transmembrane proteins.\"\n    }\n  ]\n\
+    }\n</script>\n"
 ---
 [The Bioinformatic Data Science Lab, NCCU — led by Jia-Ming Chang (張家銘), Associate Professor of Computer Science at National Chengchi University, Taipei, Taiwan.]{.identity-line}
 
@@ -10,6 +88,8 @@ description: Selected publications of Jia-Ming Chang, National Chengchi Universi
 以下是精選。
 
 ## Selected publications
+
+[Download BibTeX](publications.bib){.bib-download} — 精選著作的引用資料，可直接匯入文獻管理軟體。
 
 ::: {.pub-card}
 [Co-corresponding author]{.pub-badge}

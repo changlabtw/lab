@@ -7,8 +7,9 @@ project:
   - llms.txt
   - llms-full.txt
   - robots.txt
+  - publications.bib
 website:
-  title: Bioinformatic Data Science Lab, NCCU
+  title: Jia-Ming Chang 張家銘 | Bioinformatic Data Science Lab, NCCU
   navbar:
     left:
     - href: index.qmd
@@ -34,15 +35,21 @@ website:
       - href: contact.qmd
         text: CONTACT
     logo: media/logo.png
-    logo-alt: Bioinformatic Data Science Lab, NCCU
+    logo-alt: Jia-Ming Chang 張家銘 | Bioinformatic Data Science Lab, NCCU
     title: false
   site-url: https://changlabtw.github.io/lab/
   open-graph: true
   page-footer:
-    center: 內容採用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 授權 · Content licensed under
-      [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+    center: '[ORCID 0000-0002-6711-1739](https://orcid.org/0000-0002-6711-1739) · 內容採用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+      授權 · Content licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)'
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
+    include-in-header:
+      text: '<link rel="me" href="https://orcid.org/0000-0002-6711-1739">
+
+        <meta name="author" content="Jia-Ming Chang (張家銘)">
+
+        '

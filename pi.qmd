@@ -18,7 +18,7 @@ include-in-header:
     ,\n    \"topologically associating domain\",\n    \"multiple sequence alignment\",\n    \"phylogenetics\"\
     ,\n    \"protein function prediction\",\n    \"single-cell data analysis\"\n  ],\n  \"subjectOf\"\
     : [\n    {\n      \"@type\": \"ScholarlyArticle\",\n      \"name\": \"Topological screen identifies\
-    \ hundreds of Cp190- and CTCF-dependent *Drosophila* chromatin insulator elements\",\n      \"datePublished\"\
+    \ hundreds of Cp190- and CTCF-dependent Drosophila chromatin insulator elements\",\n      \"datePublished\"\
     : \"2023\",\n      \"sameAs\": \"https://doi.org/10.1126/sciadv.ade0090\"\n    },\n    {\n      \"\
     @type\": \"ScholarlyArticle\",\n      \"name\": \"Incorporating alignment uncertainty into Felsenstein's\
     \ phylogenetic bootstrap to improve its reliability\",\n      \"datePublished\": \"2021\",\n     \

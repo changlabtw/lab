@@ -1,4 +1,4 @@
-# Bioinformatic Data Science Lab, NCCU
+# Jia-Ming Chang 張家銘 | Bioinformatic Data Science Lab, NCCU
 
 > Jia-Ming Chang (張家銘), Associate Professor, Department of Computer Science, National Chengchi University, Taipei, Taiwan. Research: bioinformatics, 3D genome organization, Hi-C, topologically associating domain, multiple sequence alignment, phylogenetics, protein function prediction, single-cell data analysis.
 

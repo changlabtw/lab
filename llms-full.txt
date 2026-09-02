@@ -1,4 +1,4 @@
-# Bioinformatic Data Science Lab, NCCU — full text
+# Jia-Ming Chang 張家銘 | Bioinformatic Data Science Lab, NCCU — full text
 
 ## Home
 Source: https://changlabtw.github.io/lab/index.html
@@ -149,6 +149,8 @@ Google Scholar。
 以下是精選。
 
  Selected publications
+
+Download BibTeX — 精選著作的引用資料，可直接匯入文獻管理軟體。
 
 
 
