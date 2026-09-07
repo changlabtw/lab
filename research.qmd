@@ -89,6 +89,8 @@ attributes that characterize cell subpopulations
 - [scGHSOM: A Hierarchical Framework for Single-Cell Data Clustering and Visualization](https://doi.org/10.1109/TCBBIO.2025.3593632)  
   *2026 · IEEE Transactions on Computational Biology and Bioinformatics*  
   [Code](https://github.com/changlabtw/scGHSOM){.pub-link .pub-link-code}
+- [How Stable Are Single-Cell Embeddings? A Comprehensive Analysis of Dimensionality Reduction Under Input Shuffling](https://doi.org/10.1051/bioconf/202623201005)  
+  *2026 · BIO Web of Conferences*
 - [Single-cell absolute contact probability detection reveals chromosomes are organized by multiple low-frequency yet specific interactions.](https://doi.org/10.1038/s41467-017-01962-x)  
   *2017 · Nature communications*
 
@@ -106,9 +108,6 @@ performance but also uncover latent relationships within the data
 
 ### Data & Code
 
-- [**PSLCNN**](https://github.com/changlabtw/PSLCNN) [Code]{.res-kind .res-kind-code}  
-  Protein subcellular localization with convolutional neural networks.  
-  [GPL-3.0 · [paper](https://doi.org/10.1109/taai48200.2019.8959851)]{.res-meta}
 - [**PSLDoc**](https://github.com/jmchanglab/PSLDoc) [Code]{.res-kind .res-kind-code}  
   Subcellular localization from gapped dipeptides and probabilistic latent semantic analysis.
 
@@ -122,6 +121,9 @@ performance but also uncover latent relationships within the data
   [Code](https://github.com/changlabtw/MS2CNN){.pub-link .pub-link-code}
 - [The CAFA challenge reports improved protein function prediction and new functional annotations for hundreds of genes through experimental screens](https://doi.org/10.1186/s13059-019-1835-8)  
   *2019 · Genome Biology*
+- [PSLCNN: Protein Subcellular Localization Prediction for Eukaryotes and Prokaryotes Using Deep Learning](https://doi.org/10.1109/taai48200.2019.8959851)  
+  *2019 · 2019 International Conference on Technologies and Applications of Artiﬁcial Intelligence (TAAI)*  
+  [Code](https://github.com/changlabtw/PSLCNN){.pub-link .pub-link-code}
 - [Efficient and Interpretable Prediction of Protein Functional Classes by Correspondence Analysis and Compact Set Relations](https://doi.org/10.1371/journal.pone.0075542)  
   *2013*
 - [Prediction of nuclear proteins using nuclear translocation signals proposed by probabilistic latent semantic indexing.](http://www.scopus.com/inward/record.url?eid=2-s2.0-84877930369&partnerID=MN8TOARS)  
@@ -145,3 +147,5 @@ miRNAs in the disease
 
 - [Circulating Exosomal miRNAs as Biomarkers in Epithelial Ovarian Cancer](https://doi.org/10.3390/biomedicines9101433)  
   *2021 · Biomedicines*
+- [Identification of Alternative Splicing Characteristic Associated with Clear-Cell Ovarian Cancer from Paired Normal and Tumor Tissues](https://doi.org/10.1109/icmlc48188.2019.8949316)  
+  *2019 · 2019 International Conference on Machine Learning and Cybernetics (ICMLC)*
