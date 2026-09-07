@@ -103,9 +103,9 @@ Science and Technology.
 ### Editorial
 
 - **Deputy Editor**, [NAR Genomics and Bioinformatics](https://academic.oup.com/nargab/pages/Editorial_Board) (2024-11~)
+- **Guest Editor**, [Journal of Information Science and Engineering (JISE)](https://jise.iis.sinica.edu.tw/JISESearch/pages/Customize/DesignatedIssueContent.jsf?TheIssue=197) (2024-03) — Special issue on "Combinatorial Mathematics and Computation Theory", Vol. 40 No. 2
 - **Associate Editor**, [NAR Genomics and Bioinformatics](https://academic.oup.com/nargab) (2024-01–2024-10) — 2024-11 起改任 Deputy Editor
-- **Guest Editor**, [Genes](https://www.mdpi.com/journal/genes/special_issues/phylogenetic_methods) — Special issue "Phylogenetic Methods in the Genomic Era: Challenges in Multiple Sequence Alignment and Phylogenetics for Genome-Scale Data"
-- **Guest Editor**, [Journal of Information Science and Engineering (JISE)](https://jise.iis.sinica.edu.tw/JISESearch/pages/Customize/DesignatedIssueContent.jsf?TheIssue=197) — Special issue on "Combinatorial Mathematics and Computation Theory"
+- **Guest Editor**, [Genes](https://www.mdpi.com/journal/genes/special_issues/phylogenetic_methods) (until 2022-01) — Special issue "Phylogenetic Methods in the Genomic Era: Challenges in Multiple Sequence Alignment and Phylogenetics for Genome-Scale Data"; submissions closed 10 January 2022
 
 ### Academic administration
 
