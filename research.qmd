@@ -70,10 +70,10 @@ library. — Cedric Notredame
   *2011 · Nature Protocols*
 - [T-Coffee: a web server for the multiple sequence alignment of protein and RNA sequences using structural information and homology extension](http://nccur.lib.nccu.edu.tw/handle/140.119/86638)  
   *2011 · Nucleic Acids Research*
-- [Improving the Alignment Quality of Consistency Based Aligners with an Evaluation Function Using Synonymous Protein Words](http://nccur.lib.nccu.edu.tw/handle/140.119/86640)  
+- [Improving the Alignment Quality of Consistency Based Aligners with an Evaluation Function Using Synonymous Protein Words](https://doi.org/10.1371/journal.pone.0027872)  
   *2011 · PLoS One*
-- [Constrained multiple sequence alignment tool development and its application to RNase family alignment.](http://www.scopus.com/inward/record.url?eid=2-s2.0-1842698155&partnerID=MN8TOARS)  
-  *2003 · Journal of bioinformatics and computational biology*
+- [Constrained multiple sequence alignment tool development and its application to RNase family alignment.](http://www.scopus.com/inward/record.url?eid=2-s2.0-14544304406&partnerID=MN8TOARS)  
+  *2002 · Proc IEEE Comput Soc Bioinform Conf*
 
 ## Single-Cell Data Analysis {#single-cell}
 
@@ -125,7 +125,7 @@ performance but also uncover latent relationships within the data
   *2019 · 2019 International Conference on Technologies and Applications of Artiﬁcial Intelligence (TAAI)*  
   [Code](https://github.com/changlabtw/PSLCNN){.pub-link .pub-link-code}
 - [Efficient and Interpretable Prediction of Protein Functional Classes by Correspondence Analysis and Compact Set Relations](https://doi.org/10.1371/journal.pone.0075542)  
-  *2013*
+  *2013 · PLoS One*
 - [Prediction of nuclear proteins using nuclear translocation signals proposed by probabilistic latent semantic indexing.](http://www.scopus.com/inward/record.url?eid=2-s2.0-84877930369&partnerID=MN8TOARS)  
   *2012*
 - [PSLDoc: Protein subcellular localization prediction based on gapped-dipeptides and probabilistic latent semantic analysis](http://www.scopus.com/inward/record.url?eid=2-s2.0-46449089781&partnerID=MN8TOARS)  
