@@ -153,6 +153,22 @@ PMID:24146760].
 
  Publications
 
+
+
+ Cancer Genomics
+
+Circulating exosomal miRNAs are candidate liquid-biopsy markers for epithelial
+ovarian cancer. Working with Ramathibodi Hospital, Bangkok, we analysed paired
+normal and tumour tissue from 45 patients to select miRNAs that separate ovarian
+cancer subtypes, and reviewed the diagnostic evidence for circulating exosomal
+miRNAs in the disease
+2021, [10.3390/biomedicines9101433].
+— Natini Jinawath, Meng-Shin Shiao
+
+
+
+ Publications
+
 ---
 
 ## Publications

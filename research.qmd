@@ -120,6 +120,8 @@ performance but also uncover latent relationships within the data
 - [MS2CNN: predicting MS/MS spectrum based on protein sequence using deep convolutional neural networks](https://doi.org/10.1186/s12864-019-6297-6)  
   *2019 · BMC Genomics*  
   [Code](https://github.com/changlabtw/MS2CNN){.pub-link .pub-link-code}
+- [The CAFA challenge reports improved protein function prediction and new functional annotations for hundreds of genes through experimental screens](https://doi.org/10.1186/s13059-019-1835-8)  
+  *2019 · Genome Biology*
 - [Efficient and Interpretable Prediction of Protein Functional Classes by Correspondence Analysis and Compact Set Relations](https://doi.org/10.1371/journal.pone.0075542)  
   *2013*
 - [Prediction of nuclear proteins using nuclear translocation signals proposed by probabilistic latent semantic indexing.](http://www.scopus.com/inward/record.url?eid=2-s2.0-84877930369&partnerID=MN8TOARS)  
@@ -127,3 +129,19 @@ performance but also uncover latent relationships within the data
 - [PSLDoc: Protein subcellular localization prediction based on gapped-dipeptides and probabilistic latent semantic analysis](http://www.scopus.com/inward/record.url?eid=2-s2.0-46449089781&partnerID=MN8TOARS)  
   *2008 · Proteins: Structure, Function and Genetics*
 
+## Cancer Genomics {#cancer-genomics}
+
+Circulating exosomal miRNAs are candidate liquid-biopsy markers for epithelial
+ovarian cancer. Working with Ramathibodi Hospital, Bangkok, we analysed paired
+normal and tumour tissue from 45 patients to select miRNAs that separate ovarian
+cancer subtypes, and reviewed the diagnostic evidence for circulating exosomal
+miRNAs in the disease
+[2021, [10.3390/biomedicines9101433](https://doi.org/10.3390/biomedicines9101433)].
+— Natini Jinawath, Meng-Shin Shiao
+
+
+
+### Publications
+
+- [Circulating Exosomal miRNAs as Biomarkers in Epithelial Ovarian Cancer](https://doi.org/10.3390/biomedicines9101433)  
+  *2021 · Biomedicines*

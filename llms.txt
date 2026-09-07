@@ -24,6 +24,7 @@ Verified profiles for the same person:
 - **Sequence Alignment & Phylogenetics** — Alignment reliability, bootstrap support and evolutionary modeling
 - **Single-Cell Data Analysis** — Hierarchical clustering and visualization of single-cell data
 - **Protein Function Prediction** — Subcellular localization and Gene Ontology prediction from sequence
+- **Cancer Genomics** — miRNA biomarkers for ovarian cancer subtyping, with clinical collaborators
 
 ## Selected publications
 
