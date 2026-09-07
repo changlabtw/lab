@@ -63,8 +63,6 @@ Science and Technology.
 ::: {.at-a-glance}
 **Associate Professor**, Department of Computer Science, National Chengchi University  
 **Deputy Editor**, NAR Genomics and Bioinformatics（since 2024-11）  
-**Guest Editor**, Genes  
-**Guest Editor**, Journal of Information Science and Engineering (JISE)  
 [ORCID](https://orcid.org/0000-0002-6711-1739) · [Google Scholar](https://scholar.google.com/citations?user=5TgmGNEAAAAJ) · [ResearchGate](https://www.researchgate.net/profile/Jia-Ming_Chang4) · [GitHub](https://github.com/changlabtw)
 :::
 
@@ -106,8 +104,8 @@ Science and Technology.
 
 - **Deputy Editor**, [NAR Genomics and Bioinformatics](https://academic.oup.com/nargab/pages/Editorial_Board) (2024-11~)
 - **Associate Editor**, [NAR Genomics and Bioinformatics](https://academic.oup.com/nargab) (2024-01–2024-10) — 2024-11 起改任 Deputy Editor
-- **Guest Editor**, Genes — Special issue "Phylogenetic Methods in the Genomic Era: Challenges in Multiple Sequence Alignment and Phylogenetics for Genome-Scale Data"
-- **Guest Editor**, [Journal of Information Science and Engineering (JISE)](https://jise.iis.sinica.edu.tw/pages/papers/specialissue.html) — Special issue on "Combinatorial Mathematics and Computation Theory"
+- **Guest Editor**, [Genes](https://www.mdpi.com/journal/genes/special_issues/phylogenetic_methods) — Special issue "Phylogenetic Methods in the Genomic Era: Challenges in Multiple Sequence Alignment and Phylogenetics for Genome-Scale Data"
+- **Guest Editor**, [Journal of Information Science and Engineering (JISE)](https://jise.iis.sinica.edu.tw/JISESearch/pages/Customize/DesignatedIssueContent.jsf?TheIssue=197) — Special issue on "Combinatorial Mathematics and Computation Theory"
 
 ### Academic administration
 
