@@ -404,6 +404,10 @@ Cedric Notredame
 
  Talks
 
+ 2026
+
+- 30.SEP From Reads to Cells: Computational Views of 3D Genome Organization — Seminar, Department of Computer Science, National Tsing Hua University. Hsinchu, Taiwan
+
  2017
 
 - 12.NOV 電腦不只選土豆，還會看病給藥與猜功能？ — 資料科學者年會. Taipei, Taiwan
