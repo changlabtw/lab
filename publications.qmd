@@ -84,13 +84,13 @@ include-in-header:
     }\n</script>\n"
 ---
 
-完整著作列表請見
-**[Google Scholar](https://scholar.google.com/citations?user=5TgmGNEAAAAJ&hl=en&sortby=pubdate)**。
-以下是精選。
+For the full list of publications, see
+**[Google Scholar](https://scholar.google.com/citations?user=5TgmGNEAAAAJ&hl=en&sortby=pubdate)**.
+Selected publications are listed below.
 
 ## Selected publications
 
-[Download BibTeX](publications.bib){.bib-download} — 精選著作的引用資料，可直接匯入文獻管理軟體。
+[Download BibTeX](publications.bib){.bib-download} — citation data for the selected publications, ready to import into a reference manager.
 
 ::: {.pub-card}
 [Co-corresponding author]{.pub-badge}
@@ -181,6 +181,6 @@ Homology extension combined with a consistency-based approach significantly impr
 
 [\* co-corresponding authors]{.pub-footnote}
 
-## 科普文章
+## Popular science
 
-[長達兩公尺的遺傳資訊如何塞進六微米的細胞核？讓我們從染色體上的「拓樸結構域」談起](https://pansci.asia/archives/153928)
+[How does two meters of genetic information fit into a six-micron nucleus? Starting from topologically associating domains on chromosomes](https://pansci.asia/archives/153928) (PanSci, in Chinese)

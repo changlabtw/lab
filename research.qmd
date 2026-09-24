@@ -66,9 +66,9 @@ library. — Cedric Notredame
   *2014 · Molecular Biology and Evolution*
 - [Accurate multiple sequence alignment of transmembrane proteins with PSI-Coffee](https://doi.org/10.1186/1471-2105-13-S4-S1)  
   *2012 · BMC Bioinformatics*
-- [Using the T-Coffee package to build multiple sequence alignments of protein, RNA, DNA sequences and 3D structures](http://nccur.lib.nccu.edu.tw/handle/140.119/86639)  
+- [Using the T-Coffee package to build multiple sequence alignments of protein, RNA, DNA sequences and 3D structures](https://doi.org/10.1038/nprot.2011.393)  
   *2011 · Nature Protocols*
-- [T-Coffee: a web server for the multiple sequence alignment of protein and RNA sequences using structural information and homology extension](http://nccur.lib.nccu.edu.tw/handle/140.119/86638)  
+- [T-Coffee: a web server for the multiple sequence alignment of protein and RNA sequences using structural information and homology extension](https://doi.org/10.1093/nar/gkr245)  
   *2011 · Nucleic Acids Research*
 - [Improving the Alignment Quality of Consistency Based Aligners with an Evaluation Function Using Synonymous Protein Words](https://doi.org/10.1371/journal.pone.0027872)  
   *2011 · PLoS One*
@@ -128,7 +128,7 @@ performance but also uncover latent relationships within the data
   *2013 · PLoS One*
 - [Prediction of nuclear proteins using nuclear translocation signals proposed by probabilistic latent semantic indexing.](http://www.scopus.com/inward/record.url?eid=2-s2.0-84877930369&partnerID=MN8TOARS)  
   *2012*
-- [PSLDoc: Protein subcellular localization prediction based on gapped-dipeptides and probabilistic latent semantic analysis](http://www.scopus.com/inward/record.url?eid=2-s2.0-46449089781&partnerID=MN8TOARS)  
+- [PSLDoc: Protein subcellular localization prediction based on gapped-dipeptides and probabilistic latent semantic analysis](https://doi.org/10.1002/prot.21944)  
   *2008 · Proteins: Structure, Function and Genetics*
 
 ## Cancer Genomics {#cancer-genomics}
