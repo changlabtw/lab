@@ -31,8 +31,7 @@ Taipei, Taiwan
 於清華大學資工系修讀學士與碩士學位，2002年清大畢業後，在中研院資訊所服國防役，2008
 到西班牙巴塞隆納基因調控研究中心 (Centre for Genomic Regulation) 修讀博士學位，2013年到
 法國蒙彼利埃人類基因體研究中心 (Institute of Human Genetics) 從事博士後研究，2016年開始到
-政大資科系服務至今，曾獲4年La Caixa博士獎學金、政大理學院年輕學者研究、政大學術研究優良、
-科技部優秀年輕學者研究計畫。
+政大資科系服務至今。
 
 I earned my Bachelor's and Master's degrees in the Dep. of Computer Science at National
 Tsing Hua University. After graduating from NTHU in 2002, I completed my military service
@@ -40,10 +39,6 @@ at the Institute of Information Science, Academia Sinica. In 2008, I pursued my 
 the Centre for Genomic Regulation in Barcelona, Spain, and in 2013, I conducted
 postdoctoral research at the Institute of Human Genetics in Montpellier, France. Since
 2016, I have been serving in the Dep. of Computer Science at National Chengchi University.
-I have received a few awards and recognitions, including a 4-year La Caixa Ph.D.
-scholarship, the NCCU College of Science - Young Scholarship Award, the NCCU Academic
-Research Awards, and an Excellent Young Scholar Research Grants from the Ministry of
-Science and Technology.
 
  At a glance
 
@@ -58,22 +53,18 @@ Science and Technology.
   Compact Set Relation and Its Application in the Evaluation of the Evolutionary Tree and Multiple Sequence Alignment
   Supervisor: Dr. Chuan Yi Tang
 - 09/1996-06/2000 B.S. Dep. of Computer Science, National Tsing Hua University, Taiwan
-  Admitted through the first cohort of special admission quotas for recommended students（第一屆推薦甄試入學）
 
  Experience
 
 - 02/2016-02/2022 Assistant Professor — Dep. of Computer Science, National Chengchi university
 - 01/2014-02/2016 Postdoc — Institute of Human Genetics (IGH), CNRS, France, Dr. Giacomo Cavalli's Lab
 - 07/2013-12/2013 Postdoc — Centre for Genomic Regulation (CRG) and Universitat Pompeu Fabra (UPF), Spain, Dr. Cedric Notredame's Lab
-- 02/2013-03/2013 Intern Student — Biodiversity Research Center, Academia Sinica, Taiwan, Dr. Wen-Hsiung Li's Lab
-- 05/2011-07/2011 Intern Student — Comparative Genomics, European Bioinformatics Institute, UK, Dr. Javier Herrero
 - 10/2002-08/2008 Research Assistant — Institute of Information Science, Academia Sinica, Dr. Wen-Lian Hsu and Dr. Ting-Yi Sung
 
  Honors & Awards
 
 - Excellent Young Scholar Research Grant, Ministry of Science and Technology
-  （科技部優秀年輕學者研究計畫，108-2628-E-004-001-MY3）— a competitive
-  three-year grant awarded to early-career principal investigators
+  （科技部優秀年輕學者研究計畫，108-2628-E-004-001-MY3）
 - 108年 政大學術研究優良 NCCU Academic Research Awards
 - 108年 政大理學院年輕學者研究獎勵 NCCU College of Science - Young Scholarship Award, 2019 Academic Year
 - 107/108/111/112/115年 國科會補助大專校院研究獎勵 — NSTC research incentive award for university faculty

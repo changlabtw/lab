@@ -44,8 +44,7 @@ Taipei, Taiwan
 於清華大學資工系修讀學士與碩士學位，2002年清大畢業後，在中研院資訊所服國防役，2008
 到西班牙巴塞隆納基因調控研究中心 (Centre for Genomic Regulation) 修讀博士學位，2013年到
 法國蒙彼利埃人類基因體研究中心 (Institute of Human Genetics) 從事博士後研究，2016年開始到
-政大資科系服務至今，曾獲4年La Caixa博士獎學金、政大理學院年輕學者研究、政大學術研究優良、
-科技部優秀年輕學者研究計畫。
+政大資科系服務至今。
 
 I earned my Bachelor's and Master's degrees in the Dep. of Computer Science at National
 Tsing Hua University. After graduating from NTHU in 2002, I completed my military service
@@ -53,10 +52,6 @@ at the Institute of Information Science, Academia Sinica. In 2008, I pursued my 
 the Centre for Genomic Regulation in Barcelona, Spain, and in 2013, I conducted
 postdoctoral research at the Institute of Human Genetics in Montpellier, France. Since
 2016, I have been serving in the Dep. of Computer Science at National Chengchi University.
-I have received a few awards and recognitions, including a 4-year La Caixa Ph.D.
-scholarship, the NCCU College of Science - Young Scholarship Award, the NCCU Academic
-Research Awards, and an Excellent Young Scholar Research Grants from the Ministry of
-Science and Technology.
 
 ## At a glance
 
@@ -75,22 +70,18 @@ Science and Technology.
   Compact Set Relation and Its Application in the Evaluation of the Evolutionary Tree and Multiple Sequence Alignment
   Supervisor: Dr. Chuan Yi Tang
 - **09/1996-06/2000** B.S. Dep. of Computer Science, National Tsing Hua University, Taiwan
-  *Admitted through the first cohort of special admission quotas for recommended students（第一屆推薦甄試入學）*
 
 ## Experience
 
 - **02/2016-02/2022** Assistant Professor — Dep. of Computer Science, National Chengchi university
 - **01/2014-02/2016** Postdoc — [Institute of Human Genetics](https://www.igh.cnrs.fr/en) (IGH), CNRS, France, Dr. [Giacomo Cavalli](https://www.igh.cnrs.fr/en/research/departments/genome-dynamics/chromatin-and-cell-biology)'s Lab
 - **07/2013-12/2013** Postdoc — [Centre for Genomic Regulation](https://www.crg.eu/) (CRG) and Universitat Pompeu Fabra (UPF), Spain, Dr. [Cedric Notredame](https://mbzuai.ac.ae/study/faculty/cedric-notredame/)'s Lab
-- **02/2013-03/2013** Intern Student — Biodiversity Research Center, Academia Sinica, Taiwan, Dr. Wen-Hsiung Li's Lab
-- **05/2011-07/2011** Intern Student — Comparative Genomics, European Bioinformatics Institute, UK, Dr. Javier Herrero
 - **10/2002-08/2008** Research Assistant — Institute of Information Science, Academia Sinica, Dr. Wen-Lian Hsu and Dr. Ting-Yi Sung
 
 ## Honors & Awards
 
 - Excellent Young Scholar Research Grant, Ministry of Science and Technology
-  （科技部優秀年輕學者研究計畫，108-2628-E-004-001-MY3）— a competitive
-  three-year grant awarded to early-career principal investigators
+  （科技部優秀年輕學者研究計畫，108-2628-E-004-001-MY3）
 - 108年 政大學術研究優良 NCCU Academic Research Awards
 - 108年 政大理學院年輕學者研究獎勵 NCCU College of Science - Young Scholarship Award, 2019 Academic Year
 - 107/108/111/112/115年 國科會補助大專校院研究獎勵 — NSTC research incentive award for university faculty
@@ -102,14 +93,13 @@ Science and Technology.
 
 ### Editorial
 
-- **Deputy Editor**, [NAR Genomics and Bioinformatics](https://academic.oup.com/nargab/pages/Editorial_Board) (2024-11~)
+- **Deputy Editor**, [NAR Genomics and Bioinformatics](https://academic.oup.com/nargab/pages/Editorial_Board) (2024-11~) — previously Associate Editor (2024-01–2024-10)
 - **Guest Editor**, [Journal of Information Science and Engineering (JISE)](https://jise.iis.sinica.edu.tw/JISESearch/pages/Customize/DesignatedIssueContent.jsf?TheIssue=197) (2024-03) — Special issue on "Combinatorial Mathematics and Computation Theory", Vol. 40 No. 2
-- **Associate Editor**, [NAR Genomics and Bioinformatics](https://academic.oup.com/nargab) (2024-01–2024-10) — 2024-11 起改任 Deputy Editor
 - **Guest Editor**, [Genes](https://www.mdpi.com/journal/genes/special_issues/phylogenetic_methods) (until 2022-01) — Special issue "Phylogenetic Methods in the Genomic Era: Challenges in Multiple Sequence Alignment and Phylogenetics for Genome-Scale Data"; submissions closed 10 January 2022
 
 ### Academic administration
 
-- **Convener, TAICA Credit Program Committee**, 國立政治大學（教育部臺灣大專院校人工智慧學程聯盟） (2024~) — 主責成立人工智慧探索應用、自然語言技術、視覺技術三個學分學程
+- **Convener, TAICA Credit Program Committee**, 國立政治大學（教育部臺灣大專院校人工智慧學程聯盟） (2024~)
 - **Chief Executive Officer**, [Executive Master Program of Computer Science, 國立政治大學](https://ah.lib.nccu.edu.tw/scholar?id=7305&title=person) (2023-08-01–2024-07-31)
 - **Director of Program**, [人工智慧應用學士學位學程, 國立政治大學](https://ah.lib.nccu.edu.tw/scholar?id=7305&title=person) (2022-08-01–2027-07-31)
 
@@ -126,4 +116,3 @@ Science and Technology.
 
 - **理事（第三、四屆）**, 演算法與計算理論學會 (2020–2026)
 - **理事（第四屆）**, 台灣演化與計算生物學會 (2018–2020)
-- **理事（第四、五屆）**, 清華大學資訊工程學系系友會
