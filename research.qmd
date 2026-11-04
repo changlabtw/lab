@@ -26,6 +26,8 @@ Repressed TADs are 3D structural units of chromosome organization in *Drosophila
 - [HiCmapTools: a tool to access HiC contact maps](https://doi.org/10.1186/s12859-022-04589-y)  
   *2022 · BMC Bioinformatics*  
   [Code](https://github.com/changlabtw/hicmaptools){.pub-link .pub-link-code} [Docs](https://hicmaptools.readthedocs.io/){.pub-link .pub-link-docs}
+- [Polycomb-Dependent Chromatin Looping Contributes to Gene Silencing during Drosophila Development](https://doi.org/10.1016/j.molcel.2018.05.032)  
+  *2018 · Molecular Cell*
 - [TADs are 3D structural units of higher-order chromosome organization in Drosophila](https://doi.org/10.1126/sciadv.aar8082)  
   *2018 · Science Advances*
 
