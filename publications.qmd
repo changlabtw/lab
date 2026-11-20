@@ -19,26 +19,27 @@ include-in-header:
     \ instead treats each chromosome's contact matrix as a weighted graph, applies multi-head graph attention\
     \ and fuses the per-chromosome embeddings into one compact cell representation for clustering. Across\
     \ six public datasets spanning 171 to 19,388 cells, it beat PCA baselines every time and reached an\
-    \ Adjusted Rand Index of 0.944 on the Ramani dataset.\"\n    },\n    {\n      \"@type\": \"ScholarlyArticle\"\
-    ,\n      \"headline\": \"Topological screen identifies hundreds of Cp190- and CTCF-dependent Drosophila\
-    \ chromatin insulator elements\",\n      \"name\": \"Topological screen identifies hundreds of Cp190-\
-    \ and CTCF-dependent Drosophila chromatin insulator elements\",\n      \"datePublished\": \"2023\"\
-    ,\n      \"author\": [\n        {\n          \"@type\": \"Person\",\n          \"name\": \"Tatyana\
-    \ G Kahn\"\n        },\n        {\n          \"@type\": \"Person\",\n          \"name\": \"Mikhail\
-    \ Savitsky\"\n        },\n        {\n          \"@type\": \"Person\",\n          \"name\": \"Chikuan\
-    \ Kuong\"\n        },\n        {\n          \"@type\": \"Person\",\n          \"name\": \"Caroline\
-    \ Jacquier\"\n        },\n        {\n          \"@type\": \"Person\",\n          \"name\": \"Giacomo\
-    \ Cavalli\"\n        },\n        {\n          \"@type\": \"Person\",\n          \"name\": \"Jia-Ming\
-    \ Chang\",\n          \"identifier\": \"https://orcid.org/0000-0002-6711-1739\"\n        },\n    \
-    \    {\n          \"@type\": \"Person\",\n          \"name\": \"Yuri B Schwartz\"\n        }\n   \
-    \   ],\n      \"isPartOf\": {\n        \"@type\": \"Periodical\",\n        \"name\": \"Science Advances\"\
-    \n      },\n      \"identifier\": {\n        \"@type\": \"PropertyValue\",\n        \"propertyID\"\
-    : \"DOI\",\n        \"value\": \"10.1126/sciadv.ade0090\"\n      },\n      \"sameAs\": \"https://doi.org/10.1126/sciadv.ade0090\"\
-    ,\n      \"url\": \"https://doi.org/10.1126/sciadv.ade0090\",\n      \"abstract\": \"A topological\
-    \ screen in Drosophila cells lacking CTCF and Cp190 identifies hundreds of insulator elements that\
-    \ modulate local chromatin interactions without driving global genome folding, suggesting Cp190 functions\
-    \ by promoting insulator protein cobinding rather than loop formation.\"\n    },\n    {\n      \"\
-    @type\": \"ScholarlyArticle\",\n      \"headline\": \"Incorporating alignment uncertainty into Felsenstein's\
+    \ Adjusted Rand Index of 0.944 on the Ramani dataset. (Summary adapted from the ISCB introduction.)\"\
+    \n    },\n    {\n      \"@type\": \"ScholarlyArticle\",\n      \"headline\": \"Topological screen\
+    \ identifies hundreds of Cp190- and CTCF-dependent Drosophila chromatin insulator elements\",\n  \
+    \    \"name\": \"Topological screen identifies hundreds of Cp190- and CTCF-dependent Drosophila chromatin\
+    \ insulator elements\",\n      \"datePublished\": \"2023\",\n      \"author\": [\n        {\n    \
+    \      \"@type\": \"Person\",\n          \"name\": \"Tatyana G Kahn\"\n        },\n        {\n   \
+    \       \"@type\": \"Person\",\n          \"name\": \"Mikhail Savitsky\"\n        },\n        {\n\
+    \          \"@type\": \"Person\",\n          \"name\": \"Chikuan Kuong\"\n        },\n        {\n\
+    \          \"@type\": \"Person\",\n          \"name\": \"Caroline Jacquier\"\n        },\n       \
+    \ {\n          \"@type\": \"Person\",\n          \"name\": \"Giacomo Cavalli\"\n        },\n     \
+    \   {\n          \"@type\": \"Person\",\n          \"name\": \"Jia-Ming Chang\",\n          \"identifier\"\
+    : \"https://orcid.org/0000-0002-6711-1739\"\n        },\n        {\n          \"@type\": \"Person\"\
+    ,\n          \"name\": \"Yuri B Schwartz\"\n        }\n      ],\n      \"isPartOf\": {\n        \"\
+    @type\": \"Periodical\",\n        \"name\": \"Science Advances\"\n      },\n      \"identifier\":\
+    \ {\n        \"@type\": \"PropertyValue\",\n        \"propertyID\": \"DOI\",\n        \"value\": \"\
+    10.1126/sciadv.ade0090\"\n      },\n      \"sameAs\": \"https://doi.org/10.1126/sciadv.ade0090\",\n\
+    \      \"url\": \"https://doi.org/10.1126/sciadv.ade0090\",\n      \"abstract\": \"A topological screen\
+    \ in Drosophila cells lacking CTCF and Cp190 identifies hundreds of insulator elements that modulate\
+    \ local chromatin interactions without driving global genome folding, suggesting Cp190 functions by\
+    \ promoting insulator protein cobinding rather than loop formation.\"\n    },\n    {\n      \"@type\"\
+    : \"ScholarlyArticle\",\n      \"headline\": \"Incorporating alignment uncertainty into Felsenstein's\
     \ phylogenetic bootstrap to improve its reliability\",\n      \"name\": \"Incorporating alignment\
     \ uncertainty into Felsenstein's phylogenetic bootstrap to improve its reliability\",\n      \"datePublished\"\
     : \"2021\",\n      \"author\": [\n        {\n          \"@type\": \"Person\",\n          \"name\"\
@@ -116,7 +117,7 @@ Selected publications are listed below.
 Zi Onn Hoe, **Jia-Ming Chang**\*
 
 ::: {.pub-why}
-Single-cell Hi-C yields contact matrices that are up to 99% zeros, which flattened PCA pipelines handle poorly; scHiCGNN instead treats each chromosome's contact matrix as a weighted graph, applies multi-head graph attention and fuses the per-chromosome embeddings into one compact cell representation for clustering. Across six public datasets spanning 171 to 19,388 cells, it beat PCA baselines every time and reached an Adjusted Rand Index of 0.944 on the Ramani dataset.
+Single-cell Hi-C yields contact matrices that are up to 99% zeros, which flattened PCA pipelines handle poorly; scHiCGNN instead treats each chromosome's contact matrix as a weighted graph, applies multi-head graph attention and fuses the per-chromosome embeddings into one compact cell representation for clustering. Across six public datasets spanning 171 to 19,388 cells, it beat PCA baselines every time and reached an Adjusted Rand Index of 0.944 on the Ramani dataset. (Summary adapted from the [ISCB introduction](https://www.facebook.com/share/p/1DzD48RFGd/).)
 :::
 
 
