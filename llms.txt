@@ -28,6 +28,7 @@ Verified profiles for the same person:
 
 ## Selected publications
 
+- scHiCGNN: Per-Chromosome Graph Attention for Single-Cell Hi-C Clustering (2026 · Bioinformatics Advances) https://doi.org/10.1093/bioadv/vbag338
 - Topological screen identifies hundreds of Cp190- and CTCF-dependent *Drosophila* chromatin insulator elements (2023 · Science Advances) https://doi.org/10.1126/sciadv.ade0090
 - Incorporating alignment uncertainty into Felsenstein's phylogenetic bootstrap to improve its reliability (2021 · Bioinformatics) https://doi.org/10.1093/bioinformatics/btz082
 - MS2CNN: predicting MS/MS spectrum based on protein sequence using deep convolutional neural networks (2019 · BMC Genomics) https://doi.org/10.1186/s12864-019-6297-6

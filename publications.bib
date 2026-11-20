@@ -8,6 +8,23 @@
 % 欄位契約見 SCHEMA.md;doi 一律寫裸的 10.xxxx/…,不要帶網址前綴。
 % 完整著作列表在 Google Scholar,這裡只放精選。
 
+% 2026-11-13 線上刊登(advance article),卷號未定;正式排版後補 volume
+% ORCID 的 contributors 列有 Thomas Lengauer,那是 Crossref 的 editor,不是作者
+@article{hoe2026schicgnn,
+  author        = {Hoe, Zi Onn and Chang, Jia-Ming},
+  title         = {scHiCGNN: Per-Chromosome Graph Attention for Single-Cell Hi-C Clustering},
+  journal       = {Bioinformatics Advances},
+  year          = {2026},
+  doi           = {10.1093/bioadv/vbag338},
+  corresponding = {Jia-Ming Chang},
+  keywords      = {selected},
+  links         = {code: https://github.com/changlabtw/schicgnn},
+  why      = {Encodes each chromosome's single-cell Hi-C contact matrix as a weighted graph,
+             learns it with multi-head graph attention and fuses per-chromosome embeddings into
+             one cell representation, improving over PCA baselines on all six public datasets
+             tested.},
+}
+
 @article{kahn2023topological,
   author        = {Kahn, Tatyana G and Savitsky, Mikhail and Kuong, Chikuan and
                    Jacquier, Caroline and Cavalli, Giacomo and Chang, Jia-Ming and

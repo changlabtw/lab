@@ -18,20 +18,22 @@ include-in-header:
     \n  ],\n  \"knowsAbout\": [\n    \"bioinformatics\",\n    \"3D genome organization\",\n    \"Hi-C\"\
     ,\n    \"topologically associating domain\",\n    \"multiple sequence alignment\",\n    \"phylogenetics\"\
     ,\n    \"protein function prediction\",\n    \"single-cell data analysis\"\n  ],\n  \"subjectOf\"\
-    : [\n    {\n      \"@type\": \"ScholarlyArticle\",\n      \"name\": \"Topological screen identifies\
-    \ hundreds of Cp190- and CTCF-dependent Drosophila chromatin insulator elements\",\n      \"datePublished\"\
-    : \"2023\",\n      \"sameAs\": \"https://doi.org/10.1126/sciadv.ade0090\"\n    },\n    {\n      \"\
-    @type\": \"ScholarlyArticle\",\n      \"name\": \"Incorporating alignment uncertainty into Felsenstein's\
-    \ phylogenetic bootstrap to improve its reliability\",\n      \"datePublished\": \"2021\",\n     \
-    \ \"sameAs\": \"https://doi.org/10.1093/bioinformatics/btz082\"\n    },\n    {\n      \"@type\": \"\
-    ScholarlyArticle\",\n      \"name\": \"MS2CNN: predicting MS/MS spectrum based on protein sequence\
-    \ using deep convolutional neural networks\",\n      \"datePublished\": \"2019\",\n      \"sameAs\"\
-    : \"https://doi.org/10.1186/s12864-019-6297-6\"\n    },\n    {\n      \"@type\": \"ScholarlyArticle\"\
-    ,\n      \"name\": \"TCS: A New Multiple Sequence Alignment Reliability Measure to Estimate Alignment\
-    \ Accuracy and Improve Phylogenetic Tree Reconstruction\",\n      \"datePublished\": \"2014\",\n \
-    \     \"sameAs\": \"https://doi.org/10.1093/molbev/msu117\"\n    },\n    {\n      \"@type\": \"ScholarlyArticle\"\
-    ,\n      \"name\": \"Accurate Multiple Sequence Alignment of Transmembrane Proteins with PSI-Coffee\"\
-    ,\n      \"datePublished\": \"2012\",\n      \"sameAs\": \"https://doi.org/10.1186/1471-2105-13-s4-s1\"\
+    : [\n    {\n      \"@type\": \"ScholarlyArticle\",\n      \"name\": \"scHiCGNN: Per-Chromosome Graph\
+    \ Attention for Single-Cell Hi-C Clustering\",\n      \"datePublished\": \"2026\",\n      \"sameAs\"\
+    : \"https://doi.org/10.1093/bioadv/vbag338\"\n    },\n    {\n      \"@type\": \"ScholarlyArticle\"\
+    ,\n      \"name\": \"Topological screen identifies hundreds of Cp190- and CTCF-dependent Drosophila\
+    \ chromatin insulator elements\",\n      \"datePublished\": \"2023\",\n      \"sameAs\": \"https://doi.org/10.1126/sciadv.ade0090\"\
+    \n    },\n    {\n      \"@type\": \"ScholarlyArticle\",\n      \"name\": \"Incorporating alignment\
+    \ uncertainty into Felsenstein's phylogenetic bootstrap to improve its reliability\",\n      \"datePublished\"\
+    : \"2021\",\n      \"sameAs\": \"https://doi.org/10.1093/bioinformatics/btz082\"\n    },\n    {\n\
+    \      \"@type\": \"ScholarlyArticle\",\n      \"name\": \"MS2CNN: predicting MS/MS spectrum based\
+    \ on protein sequence using deep convolutional neural networks\",\n      \"datePublished\": \"2019\"\
+    ,\n      \"sameAs\": \"https://doi.org/10.1186/s12864-019-6297-6\"\n    },\n    {\n      \"@type\"\
+    : \"ScholarlyArticle\",\n      \"name\": \"TCS: A New Multiple Sequence Alignment Reliability Measure\
+    \ to Estimate Alignment Accuracy and Improve Phylogenetic Tree Reconstruction\",\n      \"datePublished\"\
+    : \"2014\",\n      \"sameAs\": \"https://doi.org/10.1093/molbev/msu117\"\n    },\n    {\n      \"\
+    @type\": \"ScholarlyArticle\",\n      \"name\": \"Accurate Multiple Sequence Alignment of Transmembrane\
+    \ Proteins with PSI-Coffee\",\n      \"datePublished\": \"2012\",\n      \"sameAs\": \"https://doi.org/10.1186/1471-2105-13-s4-s1\"\
     \n    }\n  ]\n}\n</script>\n"
 ---
 

@@ -19,6 +19,8 @@ Repressed TADs are 3D structural units of chromosome organization in *Drosophila
 
 ### Publications
 
+- [scHiCGNN: Per-Chromosome Graph Attention for Single-Cell Hi-C Clustering](https://doi.org/10.1093/bioadv/vbag338)  
+  *2026 · Bioinformatics Advances*
 - [Topological screen identifies hundreds of Cp190- and CTCF-dependent Drosophila chromatin insulator elements](https://doi.org/10.1126/sciadv.ade0090)  
   *2023 · Science Advances*
 - [Pattern recognition of topologically associating domains using deep learning](https://doi.org/10.1186/s12859-022-05075-1)  
@@ -88,6 +90,8 @@ attributes that characterize cell subpopulations
 
 ### Publications
 
+- [scHiCGNN: Per-Chromosome Graph Attention for Single-Cell Hi-C Clustering](https://doi.org/10.1093/bioadv/vbag338)  
+  *2026 · Bioinformatics Advances*
 - [scGHSOM: A Hierarchical Framework for Single-Cell Data Clustering and Visualization](https://doi.org/10.1109/TCBBIO.2025.3593632)  
   *2026 · IEEE Transactions on Computational Biology and Bioinformatics*  
   [Code](https://github.com/changlabtw/scGHSOM){.pub-link .pub-link-code}
