@@ -14,11 +14,13 @@ include-in-header:
     isPartOf\": {\n        \"@type\": \"Periodical\",\n        \"name\": \"Bioinformatics Advances\"\n\
     \      },\n      \"identifier\": {\n        \"@type\": \"PropertyValue\",\n        \"propertyID\"\
     : \"DOI\",\n        \"value\": \"10.1093/bioadv/vbag338\"\n      },\n      \"sameAs\": \"https://doi.org/10.1093/bioadv/vbag338\"\
-    ,\n      \"url\": \"https://doi.org/10.1093/bioadv/vbag338\",\n      \"abstract\": \"Encodes each\
-    \ chromosome's single-cell Hi-C contact matrix as a weighted graph, learns it with multi-head graph\
-    \ attention and fuses per-chromosome embeddings into one cell representation, improving over PCA baselines\
-    \ on all six public datasets tested.\"\n    },\n    {\n      \"@type\": \"ScholarlyArticle\",\n  \
-    \    \"headline\": \"Topological screen identifies hundreds of Cp190- and CTCF-dependent Drosophila\
+    ,\n      \"url\": \"https://doi.org/10.1093/bioadv/vbag338\",\n      \"abstract\": \"Single-cell Hi-C\
+    \ yields contact matrices that are up to 99% zeros, which flattened PCA pipelines handle poorly; scHiCGNN\
+    \ instead treats each chromosome's contact matrix as a weighted graph, applies multi-head graph attention\
+    \ and fuses the per-chromosome embeddings into one compact cell representation for clustering. Across\
+    \ six public datasets spanning 171 to 19,388 cells, it beat PCA baselines every time and reached an\
+    \ Adjusted Rand Index of 0.944 on the Ramani dataset.\"\n    },\n    {\n      \"@type\": \"ScholarlyArticle\"\
+    ,\n      \"headline\": \"Topological screen identifies hundreds of Cp190- and CTCF-dependent Drosophila\
     \ chromatin insulator elements\",\n      \"name\": \"Topological screen identifies hundreds of Cp190-\
     \ and CTCF-dependent Drosophila chromatin insulator elements\",\n      \"datePublished\": \"2023\"\
     ,\n      \"author\": [\n        {\n          \"@type\": \"Person\",\n          \"name\": \"Tatyana\
@@ -114,7 +116,7 @@ Selected publications are listed below.
 Zi Onn Hoe, **Jia-Ming Chang**\*
 
 ::: {.pub-why}
-Encodes each chromosome's single-cell Hi-C contact matrix as a weighted graph, learns it with multi-head graph attention and fuses per-chromosome embeddings into one cell representation, improving over PCA baselines on all six public datasets tested.
+Single-cell Hi-C yields contact matrices that are up to 99% zeros, which flattened PCA pipelines handle poorly; scHiCGNN instead treats each chromosome's contact matrix as a weighted graph, applies multi-head graph attention and fuses the per-chromosome embeddings into one compact cell representation for clustering. Across six public datasets spanning 171 to 19,388 cells, it beat PCA baselines every time and reached an Adjusted Rand Index of 0.944 on the Ramani dataset.
 :::
 
 

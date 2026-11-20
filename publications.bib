@@ -19,10 +19,13 @@
   corresponding = {Jia-Ming Chang},
   keywords      = {selected},
   links         = {code: https://github.com/changlabtw/schicgnn},
-  why      = {Encodes each chromosome's single-cell Hi-C contact matrix as a weighted graph,
-             learns it with multi-head graph attention and fuses per-chromosome embeddings into
-             one cell representation, improving over PCA baselines on all six public datasets
-             tested.},
+  % why 依 ISCB 的介紹文改寫(2026-11 Facebook 貼文)
+  why      = {Single-cell Hi-C yields contact matrices that are up to 99% zeros, which flattened
+             PCA pipelines handle poorly; scHiCGNN instead treats each chromosome's contact matrix
+             as a weighted graph, applies multi-head graph attention and fuses the per-chromosome
+             embeddings into one compact cell representation for clustering. Across six public
+             datasets spanning 171 to 19,388 cells, it beat PCA baselines every time and reached
+             an Adjusted Rand Index of 0.944 on the Ramani dataset.},
 }
 
 @article{kahn2023topological,

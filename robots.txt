@@ -1,6 +1,10 @@
 # 由 core/publish.py 原樣複製到站台。要調整就改這個檔,不要改站台 repo 裡那份
 # (那是產出,下次匯出會被蓋掉)。
 #
+# 但爬蟲只讀網域根目錄的 robots.txt,放在 /lab/ 底下的這份**不生效**。
+# 生效的是 changlabtw.github.io repo 根目錄那份(內容相同,另加 Sitemap 行)。
+# 改這份時,那份一起改。
+#
 # 這份刻意逐條列出 AI 相關的 user-agent 並說明用途,讓你日後可以個別關掉。
 # 要封鎖某一個,把它的 Allow 改成 Disallow: /
 #
