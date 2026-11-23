@@ -4,8 +4,6 @@ description: Members and alumni of the Bioinformatic Data Science Lab at Nationa
   led by Jia-Ming Chang.
 ---
 
-<!-- 只放已公開的姓名／年份／去向。進度、成績等內部紀錄在 domains/lab-ops/people/,
-     那個路徑永遠不匯出 —— 見 domains/site/CLAUDE.md -->
 
 ## Meet the Team
 
