@@ -176,9 +176,9 @@ main a:hover { color: var(--olive); }
   margin: 0 0 1rem;
   background: #fbfcfd;
 }
-.pub-card h4 { margin: .1rem 0 .45rem; font-size: 1.02rem; line-height: 1.45; }
-.pub-card h4 a { text-decoration: none; }
-.pub-card h4 a:hover { text-decoration: underline; }
+.pub-card h3 { margin: .1rem 0 .45rem; font-size: 1.02rem; line-height: 1.45; }
+.pub-card h3 a { text-decoration: none; }
+.pub-card h3 a:hover { text-decoration: underline; }
 .pub-card > p { margin: .3rem 0; }
 
 /* 角色 badge。用 olive 與 teal 區隔:第一作者與通訊作者是不同的貢獻,

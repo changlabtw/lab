@@ -9,7 +9,7 @@ project:
   - robots.txt
   - publications.bib
 website:
-  title: Jia-Ming Chang 張家銘 | Bioinformatic Data Science Lab, NCCU
+  title: Jia-Ming Chang 張家銘 | Bioinformatics Lab, NCCU
   navbar:
     left:
     - href: index.qmd
@@ -37,7 +37,7 @@ website:
       - href: contact.qmd
         text: CONTACT
     logo: media/logo.png
-    logo-alt: Jia-Ming Chang 張家銘 | Bioinformatic Data Science Lab, NCCU
+    logo-alt: Jia-Ming Chang 張家銘 | Bioinformatics Lab, NCCU
     title: false
   site-url: https://changlabtw.github.io/lab/
   open-graph: true
@@ -49,6 +49,7 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
+    canonical-url: true
     include-in-header:
       text: '<link rel="me" href="https://orcid.org/0000-0002-6711-1739">
 

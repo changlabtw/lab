@@ -112,7 +112,7 @@ Selected publications are listed below.
 
 [2026 · Bioinformatics Advances]{.pub-meta}
 
-#### [scHiCGNN: Per-Chromosome Graph Attention for Single-Cell Hi-C Clustering](https://doi.org/10.1093/bioadv/vbag338)
+### [scHiCGNN: Per-Chromosome Graph Attention for Single-Cell Hi-C Clustering](https://doi.org/10.1093/bioadv/vbag338)
 
 Zi Onn Hoe, **Jia-Ming Chang**\*
 
@@ -130,7 +130,7 @@ Single-cell Hi-C yields contact matrices that are up to 99% zeros, which flatten
 
 [2023 · Science Advances]{.pub-meta}
 
-#### [Topological screen identifies hundreds of Cp190- and CTCF-dependent *Drosophila* chromatin insulator elements](https://doi.org/10.1126/sciadv.ade0090)
+### [Topological screen identifies hundreds of Cp190- and CTCF-dependent *Drosophila* chromatin insulator elements](https://doi.org/10.1126/sciadv.ade0090)
 
 Tatyana G Kahn, Mikhail Savitsky, Chikuan Kuong, Caroline Jacquier, Giacomo Cavalli, **Jia-Ming Chang**\*, Yuri B Schwartz\*
 
@@ -145,7 +145,7 @@ A topological screen in *Drosophila* cells lacking CTCF and Cp190 identifies hun
 
 [2021 · Bioinformatics]{.pub-meta}
 
-#### [Incorporating alignment uncertainty into Felsenstein's phylogenetic bootstrap to improve its reliability](https://doi.org/10.1093/bioinformatics/btz082)
+### [Incorporating alignment uncertainty into Felsenstein's phylogenetic bootstrap to improve its reliability](https://doi.org/10.1093/bioinformatics/btz082)
 
 **Jia-Ming Chang**, Evan W Floden, Javier Herrero, Olivier Gascuel, Paolo Di Tommaso, Cedric Notredame
 
@@ -163,7 +163,7 @@ Sampling alignment columns across alternative aligners enhances the discriminati
 
 [2019 · BMC Genomics]{.pub-meta}
 
-#### [MS2CNN: predicting MS/MS spectrum based on protein sequence using deep convolutional neural networks](https://doi.org/10.1186/s12864-019-6297-6)
+### [MS2CNN: predicting MS/MS spectrum based on protein sequence using deep convolutional neural networks](https://doi.org/10.1186/s12864-019-6297-6)
 
 Yang-Ming Lin, Ching-Tai Chen, **Jia-Ming Chang**\*
 
@@ -181,7 +181,7 @@ Predicted MS2 spectra improve the sensitivity and coverage of peptide identifica
 
 [2014 · Molecular Biology and Evolution]{.pub-meta}
 
-#### [TCS: A New Multiple Sequence Alignment Reliability Measure to Estimate Alignment Accuracy and Improve Phylogenetic Tree Reconstruction](https://doi.org/10.1093/molbev/msu117)
+### [TCS: A New Multiple Sequence Alignment Reliability Measure to Estimate Alignment Accuracy and Improve Phylogenetic Tree Reconstruction](https://doi.org/10.1093/molbev/msu117)
 
 **Jia-Ming Chang**, Paolo Di Tommaso, Cedric Notredame
 
@@ -199,7 +199,7 @@ The reliability of a multiple sequence alignment can be robustly quantified usin
 
 [2012 · BMC Bioinformatics]{.pub-meta}
 
-#### [Accurate Multiple Sequence Alignment of Transmembrane Proteins with PSI-Coffee](https://doi.org/10.1186/1471-2105-13-s4-s1)
+### [Accurate Multiple Sequence Alignment of Transmembrane Proteins with PSI-Coffee](https://doi.org/10.1186/1471-2105-13-s4-s1)
 
 **Jia-Ming Chang**, Paolo Di Tommaso, Jean-François F Taly, Cedric Notredame
 

@@ -1,7 +1,7 @@
 ---
-title: Home
 description: Bioinformatic Data Science Lab of Jia-Ming Chang at National Chengchi University — computational
   approaches to genomics and protein function.
+pagetitle: Home
 include-in-header:
   text: "<link rel=\"me\" href=\"https://orcid.org/0000-0002-6711-1739\">\n<meta name=\"author\" content=\"\
     Jia-Ming Chang (張家銘)\">\n<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\"\
