@@ -34,10 +34,7 @@ include-in-header:
     ,\n      \"sameAs\": \"https://doi.org/10.1186/s12864-019-6297-6\"\n    },\n    {\n      \"@type\"\
     : \"ScholarlyArticle\",\n      \"name\": \"TCS: A New Multiple Sequence Alignment Reliability Measure\
     \ to Estimate Alignment Accuracy and Improve Phylogenetic Tree Reconstruction\",\n      \"datePublished\"\
-    : \"2014\",\n      \"sameAs\": \"https://doi.org/10.1093/molbev/msu117\"\n    },\n    {\n      \"\
-    @type\": \"ScholarlyArticle\",\n      \"name\": \"Accurate Multiple Sequence Alignment of Transmembrane\
-    \ Proteins with PSI-Coffee\",\n      \"datePublished\": \"2012\",\n      \"sameAs\": \"https://doi.org/10.1186/1471-2105-13-s4-s1\"\
-    \n    }\n  ]\n}\n</script>\n"
+    : \"2014\",\n      \"sameAs\": \"https://doi.org/10.1093/molbev/msu117\"\n    }\n  ]\n}\n</script>\n"
 ---
 
 <img src="media/pi.jpg" alt="Jia-Ming Chang" class="portrait">

@@ -33,7 +33,6 @@ Verified profiles for the same person:
 - Incorporating alignment uncertainty into Felsenstein's phylogenetic bootstrap to improve its reliability (2021 · Bioinformatics) https://doi.org/10.1093/bioinformatics/btz082
 - MS2CNN: predicting MS/MS spectrum based on protein sequence using deep convolutional neural networks (2019 · BMC Genomics) https://doi.org/10.1186/s12864-019-6297-6
 - TCS: A New Multiple Sequence Alignment Reliability Measure to Estimate Alignment Accuracy and Improve Phylogenetic Tree Reconstruction (2014 · Molecular Biology and Evolution) https://doi.org/10.1093/molbev/msu117
-- Accurate Multiple Sequence Alignment of Transmembrane Proteins with PSI-Coffee (2012 · BMC Bioinformatics) https://doi.org/10.1186/1471-2105-13-s4-s1
 
 ## Software and web servers
 

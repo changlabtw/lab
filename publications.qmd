@@ -82,21 +82,7 @@ include-in-header:
     \ \"DOI\",\n        \"value\": \"10.1093/molbev/msu117\"\n      },\n      \"sameAs\": \"https://doi.org/10.1093/molbev/msu117\"\
     ,\n      \"url\": \"https://doi.org/10.1093/molbev/msu117\",\n      \"abstract\": \"The reliability\
     \ of a multiple sequence alignment can be robustly quantified using the Transitive Consistency Score,\
-    \ derived from the T-Coffee pairwise library.\"\n    },\n    {\n      \"@type\": \"ScholarlyArticle\"\
-    ,\n      \"headline\": \"Accurate Multiple Sequence Alignment of Transmembrane Proteins with PSI-Coffee\"\
-    ,\n      \"name\": \"Accurate Multiple Sequence Alignment of Transmembrane Proteins with PSI-Coffee\"\
-    ,\n      \"datePublished\": \"2012\",\n      \"author\": [\n        {\n          \"@type\": \"Person\"\
-    ,\n          \"name\": \"Jia-Ming Chang\",\n          \"identifier\": \"https://orcid.org/0000-0002-6711-1739\"\
-    \n        },\n        {\n          \"@type\": \"Person\",\n          \"name\": \"Paolo Di Tommaso\"\
-    \n        },\n        {\n          \"@type\": \"Person\",\n          \"name\": \"Jean-François F Taly\"\
-    \n        },\n        {\n          \"@type\": \"Person\",\n          \"name\": \"Cedric Notredame\"\
-    \n        }\n      ],\n      \"isPartOf\": {\n        \"@type\": \"Periodical\",\n        \"name\"\
-    : \"BMC Bioinformatics\"\n      },\n      \"identifier\": {\n        \"@type\": \"PropertyValue\"\
-    ,\n        \"propertyID\": \"DOI\",\n        \"value\": \"10.1186/1471-2105-13-s4-s1\"\n      },\n\
-    \      \"sameAs\": \"https://doi.org/10.1186/1471-2105-13-s4-s1\",\n      \"url\": \"https://doi.org/10.1186/1471-2105-13-s4-s1\"\
-    ,\n      \"abstract\": \"Homology extension combined with a consistency-based approach significantly\
-    \ improves the multiple sequence alignment of alpha-helical transmembrane proteins.\"\n    }\n  ]\n\
-    }\n</script>\n"
+    \ derived from the T-Coffee pairwise library.\"\n    }\n  ]\n}\n</script>\n"
 ---
 
 For the full list of publications, see
@@ -191,24 +177,6 @@ The reliability of a multiple sequence alignment can be robustly quantified usin
 
 
 [Web server](http://tcoffee.crg.cat/core){.pub-link .pub-link-web}
-
-:::
-
-::: {.pub-card}
-[First author]{.pub-badge}
-
-[2012 · BMC Bioinformatics]{.pub-meta}
-
-### [Accurate Multiple Sequence Alignment of Transmembrane Proteins with PSI-Coffee](https://doi.org/10.1186/1471-2105-13-s4-s1)
-
-**Jia-Ming Chang**, Paolo Di Tommaso, Jean-François F Taly, Cedric Notredame
-
-::: {.pub-why}
-Homology extension combined with a consistency-based approach significantly improves the multiple sequence alignment of alpha-helical transmembrane proteins.
-:::
-
-
-[Web server](http://tcoffee.crg.cat/apps/tcoffee/do:tmcoffee){.pub-link .pub-link-web}
 
 :::
 
